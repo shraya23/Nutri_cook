@@ -1,0 +1,1350 @@
+,Unnamed: 0,Recipe_Name,Type,Serving,Protein,Fat,Carbs,Calories,cholesterol,sodium,fiber,sugar,Prepare time,cooking time,Total_Time,Ratings
+0,0,Protein Waffles,cottage cheese,2.0,8.5,4.5,12.0,121.0,81.0,224.5,1.5,1.5,10.0,5.0,15 mins,4.9
+1,1,Deviled Eggs,appetizer,2.0,6.3,7.5,1.0,96.8,187.0,156.1,,0.3,10.0,15.0,25 mins,4.78
+2,2,Crustless Quiche,dinner,1.0,20.0,12.5,5.0,215.0,193.0,620.0,1.0,2.5,15.0,40.0,55 mins,4.88
+3,3,Spanish Tortilla with Pimenton Aioli,appetizer,1.0,9.0,14.5,21.5,247.0,188.0,363.5,2.0,2.5,15.0,,1 hr 15 mins,4.44
+4,4,Corned Beef Hash,breakfast,1.0,14.5,16.0,26.0,300.0,62.5,782.5,3.5,6.5,10.0,15.0,25 mins,4.75
+5,5,Green Shakshuka,breakfast,2.0,20.0,16.0,16.0,291.0,380.0,724.0,5.0,6.0,15.0,30.0,45 mins,5.0
+6,6,Whole Wheat Irish Soda Bread Muffins,Breakfast,1.0,4.0,3.5,24.5,147.0,24.0,148.0,1.5,10.0,10.0,20.0,35 mins,4.84
+7,7,High-Protein Egg Bagel,breakfast,1.0,10.0,2.5,30.0,184.0,93.5,487.0,1.0,1.5,10.0,25.0,50 mins,4.8
+8,8,Carrot Banana Protein Smoothie,breakfast,1.0,28.5,6.5,34.0,294.0,,290.5,7.0,17.5,5.0,0.0,5 mins,4.84
+9,9,Chocolate Oat Flour Banana Bread,Breakfast,1.0,5.5,7.0,34.5,190.0,34.5,179.5,9.5,11.5,15.0,50.0,1 hr 20 mins,4.97
+10,10,Mushroom Toast,breakfast,1.0,7.0,10.5,20.5,196.0,14.5,222.0,2.0,3.5,5.0,10.0,15 mins,5.0
+11,11,Smoked Turkey Sausage Breakfast Skillet,Breakfast,1.0,22.5,19.0,5.5,284.0,355.5,547.5,1.5,1.5,5.0,22.0,27 mins,5.0
+12,12,Breakfast Casserole with Spinach and Sausage,Breakfast,1.0,22.0,15.0,5.0,245.0,268.0,616.0,0.5,2.5,15.0,35.0,50 mins,4.86
+13,13,Cheddar Biscuits,dinner,1.0,8.0,5.0,26.5,185.0,16.0,480.5,1.0,1.0,15.0,20.0,45 mins,4.78
+14,14,Cornbread Muffins,breakfast,1.0,4.0,5.5,27.0,170.0,46.5,237.0,1.5,9.0,10.0,20.0,30 mins,5.0
+15,15,Pumpkin Bread Recipe,breakfast,1.0,2.1,2.2,18.7,103.0,,280.5,0.7,10.2,25.0,50.0,1 hr 15 mins,4.9
+16,16,Pumpkin Baked Oatmeal Cups,breakfast,1.0,6.0,3.0,37.0,104.0,64.0,137.0,1.5,2.0,10.0,30.0,45 mins,4.73
+17,17,Apple Turnover,dessert,1.0,1.5,1.0,24.0,111.0,,129.0,2.0,11.5,30.0,30.0,1 hr 10 mins,5.0
+18,18,Classic Egg Salad,breakfast,1.0,9.5,15.5,1.0,185.0,282.0,215.5,,2.0,5.0,20.0,25 mins,4.89
+19,19,Mini Pumpkin Chocolate Chip Muffins,breakfast,2.0,2.0,5.0,27.0,160.0,,118.0,2.0,18.0,15.0,25.0,40 mins,4.82
+20,20,Banana Bread Recipe,Breakfast,1.0,3.0,3.0,29.0,123.0,15.5,165.0,1.5,4.0,15.0,45.0,1 hr 10 mins,4.96
+21,21,Cinnamon-Raisin Overnight Oats,breakfast,1.0,10.0,14.0,58.0,378.0,,176.5,12.0,21.0,5.0,0.0,4 hrs 5 mins,5.0
+22,22,Mini Quiche,breakfast,2.0,18.0,14.0,16.0,268.0,275.0,654.0,0.5,1.5,15.0,30.0,45 mins,4.75
+23,23,Babka-Inspired Bagels,breakfast,1.0,5.0,2.0,30.0,158.0,47.0,473.0,1.0,5.0,30.0,28.0,1 hr 13 mins,4.89
+24,24,Feta Eggs with Zucchini,breakfast,2.0,17.5,20.5,7.5,284.0,397.0,471.0,1.0,3.5,5.0,8.0,13 mins,5.0
+25,25,Zucchini Bread,breakfast,1.0,3.5,5.5,21.0,144.0,15.5,125.0,2.0,8.0,20.0,55.0,1 hr 15 mins,4.84
+26,26,Loaded Egg Muffins,breakfast,2.0,14.0,11.0,2.5,165.0,289.0,267.0,,,10.0,20.0,30 mins,4.72
+27,27,Protein Bagels with Cottage Cheese,Cottage Cheese,1.0,9.0,1.0,28.5,164.0,5.0,583.0,1.0,1.0,10.0,12.0,37 mins,4.82
+28,28,Greek Cottage Cheese Bowl,Cottage Cheese,1.0,21.5,7.0,9.5,186.0,28.5,695.0,1.5,6.0,10.0,0.0,15 mins,4.72
+29,29,Broccoli and Cheese Egg Muffins,breakfast,2.0,18.0,8.5,5.0,167.0,170.0,317.0,2.5,,5.0,30.0,35 mins,4.77
+30,30,English Muffin Breakfast Sandwich,Breakfast,1.0,18.5,9.5,29.5,242.0,211.0,671.0,8.0,3.2,2.0,10.0,15 mins,5.0
+31,31,20+ High Protein Breakfast Ideas,breakfast,,,,,,,,,,,,,
+32,32,Roasted Strawberry Almond Flour Muffins,breakfast,1.0,6.0,8.5,15.5,164.0,7.0,155.5,2.5,10.5,30.0,20.0,50 mins,4.41
+33,33,Huevos Pericos,breakfast,1.0,13.9,7.7,8.5,155.0,,,2.3,,2.0,5.0,7 mins,5.0
+34,34,Green Smoothie Bowl,breakfast,1.0,9.0,10.5,74.0,404.0,,115.0,12.0,51.5,5.0,0.0,5 mins,5.0
+35,35,Insanely Good Blueberry Oatmeal Muffins,snacks,1.0,3.0,2.5,28.5,127.0,,222.5,2.5,17.5,40.0,22.0,1 hr 2 mins,4.85
+36,36,Artichoke Pie,dessert,1.0,12.5,13.0,17.0,229.0,107.5,401.0,4.0,1.0,10.0,55.0,1 hr 5 mins,4.86
+37,37,Hash Brown Egg White Nests,breakfast,2.0,13.0,2.0,15.0,134.0,,,2.0,0.5,15.0,55.0,1 hr 10 mins,4.7
+38,38,Tropical Chia Pudding Breakfast Bowl (High Protein),Breakfast,1.0,18.0,13.0,35.0,305.0,7.0,110.0,12.0,19.0,10.0,0.0,2 hrs 10 mins,4.95
+39,39,High Protein Egg White Muffins with Turkey Bacon,cottage cheese,2.0,20.0,4.5,4.5,144.0,33.0,502.0,1.0,2.0,15.0,35.0,50 mins,4.86
+40,40,Air Fryer Breakfast Banana Split,breakfast,1.0,15.0,9.0,41.0,286.0,7.0,46.0,4.5,26.0,2.0,5.0,7 mins,4.95
+41,41,Zoats or Zucchini Oats,breakfast,1.0,24.0,12.5,63.0,441.0,,207.0,12.0,18.0,5.0,5.0,10 mins,4.69
+42,42,Breakfast Strata with Sausage and Mushrooms,Breakfast,1.0,24.3,12.4,18.2,289.0,86.7,355.0,1.3,0.6,10.0,50.0,1 hr,5.0
+43,43,Slow Cooker Steel Cut Oats,breakfast,3.0,9.0,8.0,50.5,302.0,,35.0,9.5,12.5,5.0,,2 hrs 5 mins,4.92
+44,44,Bacon Spinach Breakfast Casserole with Gruyère Cheese,Breakfast,1.0,22.0,19.0,4.0,276.0,313.0,527.0,1.0,3.0,10.0,45.0,55 mins,4.92
+45,45,Savory Steel Cut Oatmeal,breakfast,1.0,21.0,12.0,26.0,290.0,72.0,605.0,4.0,2.0,5.0,12.0,17 mins,4.92
+46,46,High-Protein Zucchini Omelet for One,lunch,1.0,31.0,13.0,10.5,283.0,194.5,844.5,2.0,6.0,5.0,12.0,17 mins,4.95
+47,47,High-Protein Enchilada Scrambled Eggs,breakfast,1.0,25.5,14.0,12.0,270.0,15.0,882.5,5.0,3.0,2.0,5.0,7 mins,5.0
+48,48,Apple Pie Overnight Oats,dessert,1.0,8.0,11.0,59.0,361.0,,154.0,10.0,21.0,10.0,15.0,8 hrs 25 mins,4.73
+49,49,Avocado Toast with Egg – Four (4) Ways,breakfast,1.0,12.0,10.0,23.0,229.0,186.0,223.0,5.0,4.0,5.0,5.0,10 mins,4.97
+50,50,Pumpkin Banana Bread,breakfast,1.0,2.7,2.7,33.3,146.5,23.0,131.5,1.6,20.0,25.0,,1 hr 25 mins,4.92
+51,51,Lox and Eggs with Onions,breakfast,1.0,21.5,17.0,9.0,279.0,397.0,690.0,1.5,4.0,5.0,15.0,20 mins,5.0
+52,52,Whole Wheat Pumpkin Pancakes with Pecans,breakfast,2.0,10.0,8.0,31.0,234.0,3.0,497.0,4.0,11.0,10.0,10.0,20 mins,4.77
+53,53,Peanut Butter Banana Muffins,Breakfast,1.0,5.5,9.0,24.5,192.0,5.0,170.0,2.0,9.5,15.0,25.0,40 mins,4.89
+54,54,Cream Cheese Pumpkin Muffins,breakfast,1.0,3.5,6.0,25.0,170.0,34.0,160.0,2.0,16.0,15.0,25.0,40 mins,4.85
+55,55,Pumpkin Overnight Oats,breakfast,1.0,10.0,12.0,40.5,269.0,,165.5,10.0,16.0,10.0,0.0,8 hrs 10 mins,5.0
+56,56,Avocado Toast with Halloumi and Egg,Breakfast,1.0,16.0,17.0,19.0,295.0,211.0,812.0,3.0,2.0,5.0,15.0,20 mins,5.0
+57,57,15-Minute Protein Chia Seed Cereal,Breakfast,1.0,29.0,10.0,30.0,318.0,5.0,380.0,15.0,6.0,2.0,0.0,17 mins,4.59
+58,58,Three-Cheese Zucchini Quiche,lunch,1.0,15.0,19.0,21.0,307.0,202.0,544.0,1.0,5.0,15.0,,1 hr 30 mins,4.91
+59,59,Pineapple Chia with Cottage Cheese,Cottage Cheese,1.0,16.5,8.5,38.0,295.0,10.0,233.5,11.5,21.5,5.0,0.0,2 hrs 5 mins,5.0
+60,60,Peach Pie Cottage Cheese Bowls,Cottage Cheese,1.0,31.0,9.0,25.0,272.0,30.0,714.0,3.0,21.0,5.0,10.0,15 mins,5.0
+61,61,Overnight Oats (How To Make),breakfast,1.0,6.0,10.0,34.5,236.0,,95.0,8.5,11.5,5.0,0.0,8 hrs 5 mins,4.92
+62,62,Mango Coconut Chia Pudding,dessert,1.0,7.0,13.0,22.0,227.0,,66.0,11.5,10.5,5.0,0.0,5 hrs 5 mins,4.98
+63,63,Berry Cottage Cheese Breakfast Bowl,Cottage Cheese,1.0,19.0,9.5,20.5,232.0,15.0,346.5,7.0,11.5,5.0,0.0,5 mins,5.0
+64,64,Instant Pot Baked Oatmeal Bars,Instant Pot,1.0,9.0,6.5,45.0,266.0,,61.0,8.0,11.0,10.0,50.0,1 hr,4.86
+65,65,Swiss Chard Frittata,dinner,1.0,12.0,5.5,13.0,139.0,130.0,446.0,5.0,2.0,10.0,30.0,40 mins,4.89
+66,66,Banana Nut Pancakes,breakfast,2.0,7.0,4.0,22.0,146.0,2.0,209.0,3.1,5.0,10.0,10.0,20 mins,4.93
+67,67,Peanut Butter Breakfast Oatmeal Bowl,Breakfast,1.0,11.0,15.0,60.0,389.0,,78.0,11.5,21.0,2.0,5.0,7 mins,4.91
+68,68,Roasted Strawberry Banana Bread,breakfast,1.0,2.0,2.0,19.0,88.0,4.0,111.0,2.0,10.0,5.0,15.0,1 hr 15 mins,4.79
+69,69,High-Protein Scrambled Eggs with Cottage Cheese,cottage cheese,1.0,17.5,10.5,1.5,173.0,377.0,327.0,,1.0,2.0,4.0,6 mins,4.88
+70,70,Peanut Butter Oatmeal Protein Cookies,dessert,2.0,12.0,14.5,39.0,304.0,47.0,140.0,8.5,9.0,10.0,20.0,30 mins,4.77
+71,71,Meal Prep Breakfast Taco Scramble,Breakfast,1.0,46.0,19.0,24.5,450.0,435.0,1145.5,4.0,3.0,10.0,50.0,1 hr,4.9
+72,72,Cream Cheese-Filled Almond Flour Banana Muffins (Gluten-Free),breakfast,1.0,5.0,8.5,13.5,149.0,42.0,209.5,3.0,8.5,20.0,40.0,1 hr,5.0
+73,73,Crustless Potato Jalapeño Quiche,breakfast,1.0,11.5,12.5,12.0,207.0,177.5,410.0,1.5,3.5,10.0,50.0,1 hr,4.92
+74,74,Mushroom-Spinach Scrambled Eggs,breakfast,1.0,21.5,17.0,10.0,271.0,372.0,217.5,2.5,5.0,5.0,10.0,15 mins,4.91
+75,75,Healthy 3-Ingredient Banana Oatmeal Cookies,breakfast,2.0,2.0,3.5,15.0,93.0,,0.5,2.0,4.5,10.0,15.0,25 mins,4.67
+76,76,Baked Oatmeal with Blueberries and Bananas,breakfast,1.0,5.5,5.5,38.0,211.0,31.5,77.0,4.0,23.0,10.0,35.0,45 mins,4.75
+77,77,Waffled Vegetable Latkes,Appetizer,2.0,9.0,4.0,35.0,205.0,139.5,575.5,6.0,6.0,25.0,5.0,30 mins,4.75
+78,78,Peanut Butter and Jelly Smoothie,lunch,1.0,6.0,11.0,29.0,222.0,,216.0,8.0,19.0,5.0,0.0,5 mins,5.0
+79,79,Huevos Rancheros,breakfast,2.0,22.5,18.5,42.0,414.0,387.0,,10.0,11.5,5.0,10.0,15 mins,5.0
+80,80,Banana Nut Protein Oats,breakfast,1.0,18.5,9.0,63.5,388.0,9.5,203.0,6.5,23.0,5.0,5.0,10 mins,4.84
+81,81,Strawberry Scones,breakfast,1.0,4.5,6.5,32.0,201.0,,,2.5,,30.0,20.0,50 mins,4.85
+82,82,Asparagus and Swiss Cheese Frittata,Asparagus,1.0,19.0,15.0,9.0,243.0,259.0,386.0,1.0,3.0,10.0,30.0,40 mins,4.96
+83,83,Oatmeal Berry Smoothie Bowl,breakfast,1.0,3.0,2.0,33.5,154.0,,23.5,6.0,13.5,5.0,5.0,10 mins,5.0
+84,84,Strawberries and Yogurt Whipped Cream,dessert,6.0,2.5,7.5,13.0,125.0,27.5,15.5,2.0,11.0,15.0,0.0,15 mins,5.0
+85,85,Protein PB & J Smoothie Bowl,lunch,1.0,14.5,11.0,30.5,268.0,,278.0,6.5,17.9,5.0,0.0,5 mins,4.74
+86,86,Spanakopita Baked Eggs,appetizer,1.0,15.0,11.0,13.5,198.0,205.0,703.5,6.0,3.0,10.0,25.0,35 mins,4.75
+87,87,Cacio e Pepe Frittata with Cauliflower and Lemony Yogurt,lunch,1.0,20.0,18.5,5.5,277.0,389.0,540.5,1.5,2.5,10.0,50.0,1 hr,5.0
+88,88,Cottage Cheese Egg and Sausage Frittata,Cottage Cheese,1.0,21.5,15.0,2.0,233.0,386.0,723.0,0.5,1.0,5.0,25.0,30 mins,4.96
+89,89,Baked Sweet Potato Egg Cups,breakfast,1.0,8.0,6.5,10.0,132.0,190.5,207.0,1.0,2.0,15.0,20.0,35 mins,4.65
+90,90,Savory Cottage Cheese Bowl,Cottage Cheese,1.0,25.0,8.0,19.0,221.0,23.0,624.0,4.5,13.0,5.0,0.0,5 mins,4.98
+91,91,High Protein Bread (Oat Sandwich Rolls),cottage cheese,1.0,10.5,3.0,18.0,135.5,5.0,582.5,2.5,1.5,5.0,25.0,30 mins,4.41
+92,92,3-Ingredient Baked Bananas,dessert,1.0,1.5,0.5,35.5,137.0,,2.0,3.0,23.0,5.0,15.0,20 mins,4.8
+93,93,Breakfast Egg Rolls,Breakfast,2.0,17.5,8.0,24.5,240.0,221.5,585.0,1.0,1.0,15.0,15.0,30 mins,4.75
+94,94,Virgin Bloody Mary,appetizer,2.0,1.0,0.5,7.0,33.0,,295.0,1.5,4.5,10.0,0.0,10 mins,4.91
+95,95,Yogurt Sheet Pan Pancakes with Mixed Berries,Breakfast,2.0,8.0,4.5,32.0,211.0,57.0,484.0,2.0,10.0,10.0,20.0,30 mins,4.89
+96,96,Lemon Cranberry Scones,Breakfast,1.0,4.3,4.7,34.0,193.0,,,2.1,,15.0,20.0,35 mins,4.84
+97,97,Crustless Sausage and Spinach Quiche,breakfast,1.0,21.5,14.0,6.5,233.0,208.0,652.0,1.0,2.0,15.0,55.0,1 hr 10 mins,4.92
+98,98,Lemon Blueberry Buttermilk Sheet Pan Pancakes,Breakfast,2.0,7.0,5.0,35.0,214.0,57.0,503.0,2.5,9.0,15.0,20.0,35 mins,4.93
+99,99,Chocolate Zucchini Bread,breakfast,1.0,4.0,8.0,28.0,190.5,,147.0,2.5,14.5,20.0,55.0,1 hr 15 mins,4.64
+100,100,Easy Blueberry Buttermilk Cake,dessert,1.0,3.1,2.9,33.0,168.0,17.5,191.8,1.2,17.1,20.0,30.0,50 mins,4.78
+101,101,Crustless Quiche Lorraine,breakfast,1.0,16.0,14.0,2.5,205.0,214.5,350.0,,2.0,10.0,35.0,45 mins,4.9
+102,102,"Caramelized Onion, Red Pepper and Zucchini Frittata",breakfast,1.0,13.0,11.5,8.0,186.0,284.0,226.5,2.0,4.0,5.0,35.0,40 mins,4.84
+103,103,Omelet Tortilla Breakfast Wrap,Breakfast,1.0,28.0,17.0,23.0,315.0,377.0,1037.0,14.5,2.0,5.0,10.0,15 mins,4.93
+104,104,Banana Pancake Cereal,Breakfast,2.0,9.5,4.5,50.0,272.0,,378.5,5.0,16.5,10.0,20.0,30 mins,4.78
+105,105,Superfood Triple Berry Chia Pudding,breakfast,1.0,4.0,5.0,12.0,110.0,,64.0,7.5,3.0,20.0,0.0,5 hrs 20 mins,3.5
+106,106,Lightened Up Blueberry Scones,breakfast,1.0,5.0,6.5,33.5,216.0,43.0,335.0,0.5,9.5,10.0,20.0,30 mins,4.71
+107,107,Tropical Mango Blueberry Lassi,Breakfast,1.0,8.0,6.0,34.5,215.0,2.5,221.0,5.0,24.5,5.0,0.0,5 mins,4.6
+108,108,Egg Tomato and Scallion Sandwich,breakfast,1.0,13.5,9.5,21.0,213.0,189.0,363.0,5.5,5.0,15.0,0.0,15 mins,4.96
+109,109,Skillet Mixed Berry Buttermilk Cobbler,dessert,1.0,2.0,4.0,28.0,151.0,5.5,100.5,4.5,16.5,10.0,10.0,1 hr 20 mins,4.8
+110,110,Hot Cross Buns,Breakfast,2.0,10.5,0.5,46.0,230.0,,426.0,1.5,16.5,10.0,25.0,1 hr,4.38
+111,111,Banana Bread Muffin in a Mug,breakfast,1.0,2.0,0.5,25.5,108.0,,123.0,2.0,7.0,15.0,5.0,20 mins,4.57
+112,112,Chorizo Breakfast Bowls,Breakfast,1.0,31.0,24.0,23.0,429.0,428.0,656.0,5.0,1.5,,,,5.0
+113,113,Chocolate Pistachio Biscotti,Breakfast,1.0,2.5,4.5,15.0,103.0,20.5,43.5,1.0,6.5,15.0,25.0,45 mins,4.72
+114,114,Changua (Colombian Milk and Egg Soup),breakfast,1.0,14.0,8.5,11.5,180.0,201.0,181.5,0.5,9.5,5.0,15.0,20 mins,4.8
+115,115,Breakfast Casserole with Spinach and Feta,Breakfast,1.0,19.5,20.5,8.0,296.0,414.5,735.0,0.5,4.5,10.0,30.0,1 hr 40 mins,4.69
+116,116,Easy Healthy Ground Turkey Chorizo,breakfast,1.0,15.0,5.5,2.0,116.0,53.0,253.0,0.5,,5.0,15.0,20 mins,4.95
+117,117,Banana Nut Bread,breakfast,1.0,1.5,4.0,19.5,104.0,5.0,100.0,1.0,10.5,20.0,50.0,1 hr 10 mins,4.85
+118,118,Pumpkin Butter,Breakfast,2.0,0.5,0.5,13.0,42.0,,5.0,1.0,12.0,5.0,40.0,45 mins,4.9
+119,119,Cinnamon Apple Yogurt Bowls,breakfast,1.0,12.5,10.0,40.0,283.0,5.0,161.0,3.0,31.5,10.0,20.0,30 mins,4.85
+120,120,Baked Oatmeal Recipe with Pears Bananas and Walnuts,dessert,1.0,5.5,6.0,39.5,225.0,32.0,72.0,4.5,22.0,20.0,35.0,55 mins,4.88
+121,121,Breakfast BLT,Breakfast,1.0,21.0,14.5,21.0,288.0,193.0,681.0,6.0,3.0,5.0,10.0,15 mins,5.0
+122,122,Air Fryer Hard Boiled Eggs,snacks,1.0,6.0,5.0,0.5,78.0,186.0,62.0,,0.5,0.0,15.0,15 mins,4.53
+123,123,Smoked Salmon Breakfast Flatbread,breakfast,1.0,15.5,8.0,28.5,247.0,11.5,980.0,2.0,3.0,15.0,15.0,30 mins,4.95
+124,124,Tex Mex Migas,Breakfast,1.0,17.0,19.0,22.5,326.0,377.5,360.0,5.0,1.5,10.0,10.0,20 mins,4.86
+125,125,Veggie Ham and Cheese Breakfast Egg Casserole,Breakfast,1.0,14.0,8.0,5.0,152.0,102.0,385.0,1.0,1.0,10.0,50.0,1 hr,4.98
+126,126,Freezer Breakfast Burritos,breakfast,1.0,21.0,16.0,18.0,261.0,325.0,723.0,11.0,,20.0,10.0,30 mins,4.95
+127,127,How To Hard Boil Eggs (Perfect Everytime),breakfast,1.0,6.0,5.0,1.0,77.0,212.0,62.0,,1.0,5.0,20.0,25 mins,5.0
+128,128,Swiss Chard Eggs Benedict,breakfast,1.0,19.5,9.5,25.5,244.0,202.0,1136.0,10.0,4.5,10.0,20.0,30 mins,5.0
+129,129,Yogurt Waffles,breakfast,1.0,7.5,2.0,34.0,195.0,63.0,532.0,0.2,2.0,5.0,20.0,25 mins,4.82
+130,130,Crustless Broccoli Cheddar Quiche,dinner,1.0,12.5,12.0,5.0,174.0,178.0,358.0,1.5,3.0,10.0,40.0,50 mins,4.92
+131,131,Instant Pot Steel Cut Oats,Instant Pot,1.0,7.0,3.0,50.5,235.0,,26.0,6.5,15.0,5.0,20.0,25 mins,4.68
+132,132,Huevos Pericos (Colombian Scrambled Eggs),breakfast,1.0,19.5,19.0,5.0,272.0,558.0,220.5,1.0,1.5,10.0,10.0,20 mins,4.91
+133,133,How To Setup an Easy Bagel Bar Brunch,breakfast,,,,,,,,,,,0.0,1 hr,4.86
+134,134,Tex Mex Breakfast Casserole,breakfast,1.0,15.5,15.5,12.0,248.0,246.5,561.0,2.0,3.0,20.0,,1 hr 20 mins,4.94
+135,135,Instant Pot Deviled Eggs,Instant Pot,2.0,6.5,8.0,0.5,104.0,187.5,119.0,,1.0,5.0,15.0,20 mins,4.29
+136,136,Hash Brown Recipe,Breakfast,1.0,5.0,1.5,25.5,129.0,46.5,306.0,2.5,1.0,10.0,20.0,30 mins,3.67
+137,137,Maple Pecan Banana Muffins,breakfast,1.0,3.0,5.0,23.0,142.0,5.0,113.0,2.0,12.0,10.0,35.0,45 mins,4.92
+138,138,Bacon Egg and Avocado Breakfast Sandwich,breakfast,1.0,25.0,16.0,30.0,369.0,427.0,668.0,3.0,2.5,10.0,25.0,35 mins,5.0
+139,139,Crustless Summer Zucchini Pie,lunch,1.0,8.1,4.8,13.1,125.3,52.0,420.1,2.0,2.5,15.0,30.0,45 mins,4.77
+140,140,Spinach Ricotta Quiche,breakfast,1.0,12.0,13.0,15.5,225.0,178.0,366.5,0.5,1.0,25.0,55.0,1 hr 20 mins,4.92
+141,141,Yogurt Chocolate Chip Muffins,breakfast,1.0,6.0,5.5,30.0,187.0,8.0,256.0,0.5,17.0,10.0,20.0,30 mins,4.74
+142,142,Strawberry Peanut Butter Swirl Smoothie Bowls,breakfast,1.0,7.5,13.5,31.5,260.0,,188.0,5.0,19.5,,,5 mins,4.9
+143,143,Chicken Quiche,lunch,1.0,26.5,17.0,19.5,333.5,269.5,507.0,0.5,2.0,10.0,30.0,1 hr 40 mins,4.61
+144,144,Smoked Salmon Pinwheels,appetizer,4.0,13.5,10.0,5.0,168.0,22.0,898.0,1.0,1.5,,,20 mins,5.0
+145,145,Breakfast Pizza,breakfast,1.0,20.5,9.0,27.0,271.0,198.5,568.0,1.5,2.5,15.0,15.0,30 mins,4.89
+146,146,Stuffed Bagel Balls (Baked or Air Fryer),breakfast,2.0,10.5,3.0,25.0,173.0,3.5,549.0,1.0,3.0,10.0,25.0,35 mins,4.83
+147,147,Czech Crepes with Berries and Cream,breakfast,2.0,7.0,4.0,30.0,180.0,63.0,50.0,5.0,10.0,5.0,25.0,30 mins,4.89
+148,148,Easy Bagel Recipe,breakfast,1.0,10.0,0.3,26.5,152.0,,434.0,1.0,2.5,5.0,25.0,30 mins,4.76
+149,149,Spicy Breakfast Fajitas with Eggs and Guacamole,lunch,1.0,9.5,13.0,19.0,227.0,190.0,142.0,4.5,0.5,5.0,15.0,20 mins,5.0
+150,150,"Gluten-Free, Dairy-Free, Blueberry Oatmeal Muffins",Breakfast,1.0,3.0,2.5,32.5,148.0,,168.5,2.5,18.0,35.0,25.0,1 hr,4.72
+151,151,Goat Cheese Herb Omelet with Nova Lox,Breakfast,1.0,21.5,15.0,3.5,239.0,389.5,913.0,0.5,0.5,,,5 mins,5.0
+152,152,Asparagus and Lentils with Poached Egg,Asparagus,1.0,15.0,12.5,19.0,238.0,183.0,195.0,6.0,3.5,5.0,25.0,30 mins,5.0
+153,153,Breakfast BLT Salad,breakfast,1.0,17.5,18.0,18.0,292.0,191.0,335.5,7.0,3.0,,,15 mins,4.88
+154,154,Instant Pot Hard Boiled Eggs (and Soft Boiled),Instant Pot,1.0,6.0,5.0,0.5,78.0,186.0,62.0,,0.5,,10.0,10 mins,4.56
+155,155,Sheet Pan Home Fries,breakfast,3.0,3.0,5.0,29.0,172.0,,398.0,5.0,3.0,10.0,30.0,40 mins,5.0
+156,156,4-Ingredient Flourless Banana-Nut Oatmeal Pancakes,breakfast,3.0,10.0,16.5,36.0,318.0,186.0,72.5,5.5,15.5,5.0,10.0,15 mins,4.55
+157,157,Whole Wheat Pancakes,breakfast,2.0,9.0,2.0,31.5,172.0,5.0,561.0,5.0,2.5,10.0,15.0,25 mins,4.65
+158,158,Crab Cakes Benedict with Avocado Relish,breakfast,1.0,24.0,13.0,5.5,231.0,323.5,796.0,3.0,1.0,,20.0,1 hr 30 mins,4.84
+159,159,Hummus Avocado Toast,breakfast,2.0,10.5,9.5,32.0,249.0,,467.0,8.0,4.0,5.0,0.0,5 mins,4.88
+160,160,Avocado Toast with Lemon and Kale,breakfast,2.0,11.0,14.0,36.0,298.0,,241.0,10.0,5.0,,,15 mins,4.89
+161,161,Asparagus-Pancetta Potato Hash,Asparagus,3.0,12.0,9.0,22.0,217.0,196.0,531.0,4.0,1.0,10.0,20.0,30 mins,4.94
+162,162,Miami Avocado Crab Toast,breakfast,1.0,17.0,9.0,25.0,242.0,62.0,563.0,5.5,4.0,,,,
+163,163,Open-Faced Omelet with Avocado and Pico de Gallo,Breakfast,1.0,11.0,9.0,4.0,140.0,186.0,130.0,2.0,1.0,,,15 mins,5.0
+164,164,Breakfast Burrito Bowl with Spiced Butternut Squash,breakfast,1.0,9.0,11.0,21.0,227.0,191.0,339.0,5.0,5.0,5.0,25.0,30 mins,4.93
+165,165,"Spinach, Feta, and Artichoke Breakfast Bake",breakfast,1.0,11.0,7.0,4.0,128.0,196.0,439.0,1.0,1.0,15.0,45.0,1 hr,4.91
+166,166,"Open-Faced Omelet with Feta, Roasted Tomatoes and Spinach",breakfast,1.0,13.0,13.0,5.0,183.0,289.0,362.0,2.0,,,,,5.0
+167,167,Leftover Turkey and Sweet Potato Frittata,breakfast,1.0,16.5,8.0,7.0,170.0,178.5,463.0,1.0,,10.0,45.0,55 mins,5.0
+168,168,Berry Quinoa Breakfast Bowls,Quinoa,1.0,6.0,4.5,47.0,240.0,,95.0,6.0,23.0,,,30 mins,5.0
+169,169,Pumpkin Pecan Banana Bread,breakfast,1.0,3.0,5.0,27.0,146.0,5.0,116.0,2.0,16.0,30.0,50.0,1 hr 20 mins,4.7
+170,170,Pumpkin Spice Cream Cheese,breakfast,2.0,1.5,3.5,5.5,57.0,10.0,1.5,,4.0,15.0,0.0,15 mins,5.0
+171,171,Eggs Pizzaiola,lunch,2.0,19.0,15.0,13.0,266.0,380.0,804.0,3.0,6.0,5.0,20.0,25 mins,5.0
+172,172,"Cucumber, Parsley, Pineapple and Lemon Smoothie",breakfast,1.0,2.0,,31.0,118.0,,24.0,5.0,18.0,10.0,,10 mins,4.75
+173,173,Chocolate Chip Zucchini Bread,breakfast,1.0,2.0,4.0,30.0,148.0,,186.5,2.0,17.0,20.0,55.0,1 hr 15 mins,4.87
+174,174,Summer Mango Stone Fruit Smoothie,Breakfast,1.0,2.0,0.5,35.0,122.0,,20.0,4.0,24.0,20.0,,20 mins,
+175,175,Overnight Oats with Figs and Honey,breakfast,1.0,5.5,10.5,36.0,245.0,,91.0,7.0,17.0,5.0,0.0,5 mins,5.0
+176,176,Blueberry Banana Bread,breakfast,1.0,2.0,2.0,21.0,98.0,4.0,87.0,2.0,13.0,15.0,50.0,1 hr 5 mins,4.85
+177,177,Baked Eggs in Spaghetti Squash Nests,breakfast,1.0,10.0,8.0,10.0,152.0,194.0,352.0,1.0,1.0,,,45 mins,3.5
+178,178,Skillet Sweet Potato Chicken Hash with Eggs,breakfast,1.0,25.0,10.0,18.0,265.0,222.0,328.0,3.0,3.0,5.0,25.0,30 mins,4.95
+179,179,Bell Pepper and Potato Frittata,breakfast,1.0,11.0,6.0,12.0,144.0,186.0,127.0,1.0,1.0,10.0,40.0,50 mins,4.67
+180,180,Petite Crustless Quiche,breakfast,2.0,18.0,11.0,12.0,217.0,170.0,552.0,1.0,2.0,10.0,30.0,40 mins,4.89
+181,181,Turkey Sausage Patties From Scratch,breakfast,1.0,15.0,6.0,3.0,134.0,54.0,55.0,1.0,,,,30 mins,4.2
+182,182,Avocado Toast Egg-in-a-Hole,breakfast,1.0,12.0,10.0,23.0,229.0,186.0,223.0,5.0,4.0,0.0,5.0,5 mins,5.0
+183,183,Poached Pears with Yogurt,dinner,1.0,2.0,1.0,29.0,134.0,,28.0,3.5,21.5,5.0,30.0,35 mins,
+184,184,Avocado Egg Salad and Salmon Sandwich,appetizer,1.0,16.5,8.0,22.5,226.0,101.0,504.0,4.0,5.0,10.0,10.0,20 mins,5.0
+185,185,"Sausage, Cheese and Veggie Breakfast Casserole",Breakfast,1.0,19.0,13.5,7.0,230.0,216.0,496.0,1.0,2.0,10.0,35.0,45 mins,4.92
+186,186,Mini Greek Spinach Pies,Appetizer,2.0,2.0,4.0,6.0,69.0,2.0,107.0,1.0,1.0,10.0,35.0,45 mins,5.0
+187,187,Gluten-Free Banana Nut Bread,Breakfast,1.0,3.0,5.0,24.0,130.0,5.0,106.0,2.0,12.0,,,1 hr,4.77
+188,188,Baked Pears with Walnuts and Honey,breakfast,1.0,1.5,5.0,17.0,110.5,,,3.0,12.0,5.0,30.0,35 mins,4.85
+189,189,Apple Nut Bread,Breakfast,1.0,2.0,4.0,24.0,122.0,,134.0,3.0,14.0,,,1 hr 15 mins,4.9
+190,190,Coconut Lime Raspberry Chia Pudding,dessert,1.0,4.0,10.0,15.0,157.0,,31.0,10.0,1.0,5.0,,6 hrs,4.84
+191,191,Summer Quinoa Breakfast Bowl,Quinoa,1.0,4.5,4.0,36.0,180.0,,136.0,4.0,17.0,5.0,20.0,25 mins,
+192,192,Pina Banana Colada Smoothie,breakfast,1.0,2.0,6.0,27.0,160.0,,95.0,4.0,18.0,5.0,,5 mins,4.75
+193,193,Bali Banana Date Smoothie,Breakfast,1.0,5.0,1.0,39.0,195.0,6.0,136.0,3.0,31.0,1.0,4.0,5 mins,4.75
+194,194,Superfood PB Banana and Cacao Green Smoothie,breakfast,1.0,6.0,11.5,21.0,188.0,,210.0,6.5,8.5,5.0,,5 mins,4.34
+195,195,Roasted Strawberry Protein Smoothie,cottage cheese,1.0,16.0,3.4,33.0,213.0,5.5,360.0,7.5,27.0,3.0,12.0,15 mins,4.63
+196,196,"Kale, Banana, Chia, Hemp Superfood Smoothie",breakfast,1.0,8.0,10.0,30.0,220.0,,158.0,8.0,14.0,5.0,,5 mins,4.75
+197,197,Blueberry Kale Smoothie,Breakfast,1.0,9.0,12.0,51.0,312.0,,241.0,10.0,31.0,5.0,,5 mins,
+198,198,Banana Cranberry Bread,Breakfast,1.0,2.0,2.0,20.0,94.0,4.0,105.0,2.0,11.0,15.0,,1 hr 15 mins,5.0
+199,199,Morning Maple Cranberry Pecan Oat Bars,breakfast,1.0,5.0,13.0,27.0,228.0,,46.0,4.0,12.0,10.0,25.0,35 mins,5.0
+200,0,Italian Sub Salad,Dinner,2.0,22.0,19.0,11.5,298.0,71.5,1573.5,3.0,5.5,20.0,0.0,20 mins,5.0
+201,1,Deviled Eggs,appetizer,2.0,6.3,7.5,1.0,96.8,187.0,156.1,,0.3,10.0,15.0,25 mins,4.78
+202,2,Crustless Quiche,dinner,1.0,20.0,12.5,5.0,215.0,193.0,620.0,1.0,2.5,15.0,40.0,55 mins,4.88
+203,3,Spanish Tortilla with Pimenton Aioli,appetizer,1.0,9.0,14.5,21.5,247.0,188.0,363.5,2.0,2.5,15.0,,1 hr 15 mins,4.44
+204,4,Fish Cakes,Dinner,2.0,29.0,9.5,19.5,277.0,153.5,624.0,1.0,3.0,5.0,15.0,20 mins,4.84
+205,5,Avocado Egg Salad,lunch,1.0,9.0,12.0,4.5,155.0,148.0,132.0,3.0,0.5,15.0,0.0,15 mins,4.92
+206,6,Cranberry Chicken Salad on Apple Slices ,lunch,1.0,36.0,20.0,30.0,439.0,105.0,245.0,5.0,22.5,15.0,0.0,15 mins,5.0
+207,7,Butternut Squash Soup,Dinner,1.0,3.0,4.0,28.0,144.0,,199.0,5.0,10.0,20.0,40.0,1 hr,5.0
+208,8,Chicken Pot Pie Soup,Dinner,1.0,30.0,3.5,32.0,268.0,64.0,983.0,4.0,12.0,10.0,35.0,45 mins,4.75
+209,9,Roasted Red Pepper Soup,dinner,1.0,3.0,3.0,21.0,138.0,8.5,770.0,3.0,5.8,10.0,45.0,55 mins,4.8
+210,10,Korean-Inspired Salmon Rice Bowl,Rice Bowl,1.0,33.0,10.0,50.0,431.0,78.0,416.0,1.0,6.0,10.0,6.0,21 mins,4.92
+211,11,Mushroom Toast,breakfast,1.0,7.0,10.5,20.5,196.0,14.5,222.0,2.0,3.5,5.0,10.0,15 mins,5.0
+212,12,BBQ Chicken Tenders in Air Fryer,lunch,3.0,43.0,6.5,17.5,312.0,171.0,751.5,1.0,5.0,10.0,20.0,30 mins,5.0
+213,13,King Crab Legs,Dinner,2.0,83.0,2.5,,380.0,190.0,3792.0,,,0.0,10.0,10 mins,3.0
+214,14,Leftover Turkey Noodle Soup,Dinner,1.0,5.0,0.5,25.5,131.0,,57.0,4.5,2.5,10.0,,10 mins,5.0
+215,15,Meximelt,lunch,1.0,21.5,12.0,20.0,224.0,61.0,640.5,12.0,2.0,10.0,30.0,40 mins,4.94
+216,16,White Bean Pumpkin Turkey Chili (Slow Cooker or Instant Pot),Instant Pot,1.0,32.0,2.5,31.0,272.5,,499.0,12.0,2.5,5.0,,4 hrs 5 mins,4.58
+217,17,Air Fryer Chicken Bites,dinner,1.0,38.5,7.5,1.0,233.0,124.0,868.0,0.5,0.5,5.0,24.0,29 mins,4.97
+218,18,Autumn Kale Salad with Chicken,Dinner,1.0,30.0,27.0,38.0,504.0,70.5,514.5,8.5,17.5,15.0,30.0,45 mins,5.0
+219,19,Chicken Nuggets,cauliflower rice,6.0,28.0,13.0,13.0,280.0,154.5,670.5,1.5,1.5,20.0,10.0,30 mins,4.92
+220,20,Classic Egg Salad,breakfast,1.0,9.5,15.5,1.0,185.0,282.0,215.5,,2.0,5.0,20.0,25 mins,4.89
+221,21,Air Fryer Chicken Cutlets,dinner,1.0,30.5,9.5,14.0,268.0,131.5,743.0,0.5,2.0,20.0,16.0,1 hr 36 mins,4.91
+222,22,Loaded Baked Potato Soup,lunch,1.0,14.0,7.0,23.0,200.0,17.0,323.0,3.5,6.0,10.0,10.0,20 mins,4.76
+223,23,Feta Eggs with Zucchini,breakfast,2.0,17.5,20.5,7.5,284.0,397.0,471.0,1.0,3.5,5.0,8.0,13 mins,5.0
+224,24,21 Healthy Rice Bowl Recipes,dinner,,,,,,,,,,,,,
+225,25,Air Fryer Fish Sticks,dinner,4.0,37.0,7.5,17.0,294.0,170.5,733.0,1.0,2.5,10.0,24.0,34 mins,4.65
+226,26,Instant Pot Chicken Noodle Soup,Instant Pot,1.0,26.5,6.5,13.5,223.0,117.0,775.0,1.4,3.0,15.0,35.0,50 mins,4.91
+227,27,Shrimp Quesadilla,dinner,1.0,24.0,16.0,27.5,299.0,132.0,998.0,14.0,4.0,10.0,35.0,45 mins,5.0
+228,28,Air Fryer Asian Meatballs,cauliflower rice,1.0,37.0,16.0,49.0,483.0,130.0,736.0,11.0,3.0,20.0,20.0,40 mins,4.75
+229,29,Spicy Salmon Sushi Pizza,Dinner,1.0,24.5,26.5,17.0,403.0,68.0,527.0,4.5,2.0,5.0,12.0,20 mins,5.0
+230,30,Pupusas,lunch,1.0,8.0,8.0,32.0,220.0,5.5,489.0,6.5,2.0,20.0,20.0,40 mins,5.0
+231,31,Grilled Pesto Chicken and Tomato Kebabs,dinner,1.0,18.0,7.5,3.0,147.0,2.5,104.0,1.0,,10.0,10.0,1 hr 20 mins,5.0
+232,32,Chicken Burger,burger,1.0,27.5,3.0,19.0,284.0,117.0,487.5,3.0,2.0,5.0,10.0,15 mins,4.92
+233,33,Grilled Chicken Sandwich,Dinner,1.0,45.0,11.5,29.5,406.0,124.0,847.5,2.5,7.5,15.0,15.0,4 hrs 30 mins,4.85
+234,34,Slow Cooker Pulled Pork,Dinner,3.0,30.5,3.0,12.5,203.0,92.0,593.5,0.5,10.5,5.0,,7 hrs 5 mins,4.94
+235,35,Chipotle Chicken,boneless chicken thighs,1.0,34.0,7.0,2.0,216.0,69.0,561.0,0.5,,15.0,15.0,30 mins,5.0
+236,36,Protein Bagels with Cottage Cheese,Cottage Cheese,1.0,9.0,1.0,28.5,164.0,5.0,583.0,1.0,1.0,10.0,12.0,37 mins,4.82
+237,37,Turkey Burger Recipe,burger,1.0,29.0,12.0,33.5,351.0,84.0,768.5,2.0,8.5,10.0,15.0,25 mins,4.91
+238,38,Greek Cottage Cheese Bowl,Cottage Cheese,1.0,21.5,7.0,9.5,186.0,28.5,695.0,1.5,6.0,10.0,0.0,15 mins,4.72
+239,39,Chicken Summer Rolls,Appetizer,2.0,23.0,16.0,30.0,299.0,98.0,899.5,2.0,6.0,10.0,30.0,40 mins,4.84
+240,40,Blackened Grilled Salmon Skewers,Dinner,2.0,26.5,9.0,10.5,199.0,72.5,352.5,5.0,2.5,20.0,10.0,1 hr 30 mins,5.0
+241,41,Greek Tofu Bowls,lunch,1.0,32.0,27.0,30.0,485.0,16.0,682.0,6.0,9.0,20.0,40.0,1 hr,4.67
+242,42,Air Fryer Salmon Patties,Dinner,2.0,33.5,14.5,9.5,314.0,225.0,842.0,0.5,1.5,5.0,10.0,25 mins,4.95
+243,43,Fiesta Bean Salad,lunch,1.0,14.0,11.5,47.0,335.0,,481.5,15.5,0.5,10.0,0.0,10 mins,4.99
+244,44,Open Faced Tuna Sandwich with Avocado,lunch,1.0,18.0,8.0,28.0,247.0,16.0,384.5,6.0,3.0,5.0,2.0,7 mins,5.0
+245,45,Artichoke Pie,dessert,1.0,12.5,13.0,17.0,229.0,107.5,401.0,4.0,1.0,10.0,55.0,1 hr 5 mins,4.86
+246,46,Italian Sub Broccoli Salad,lunch,2.0,21.0,23.5,20.0,373.0,41.0,1278.0,6.0,8.0,15.0,0.0,15 mins,4.99
+247,47,5-Ingredient Salmon Salad (easy lunch idea),Lettuce Wraps,1.0,17.5,7.0,2.5,139.0,39.5,185.0,0.5,1.0,2.0,3.0,15 mins,4.71
+248,48,Baked Shrimp Parmesan Hero,Dinner,1.0,29.6,8.0,57.5,433.0,,559.0,2.5,,5.0,25.0,30 mins,4.88
+249,49,Tofu Poke Bowl,dinner,1.0,29.0,24.0,47.0,520.0,,956.0,12.0,5.0,10.0,10.0,50 mins,4.74
+250,50,Broccoli Cheddar Soup,lunch,1.0,12.5,12.5,24.0,242.0,37.5,360.0,4.0,6.0,20.0,30.0,50 mins,4.99
+251,51,Classic Chicken Salad Recipe,lunch,1.0,18.0,5.0,2.0,131.0,50.0,307.0,,1.0,5.0,5.0,10 mins,4.92
+252,52,"Honey Sriracha Roasted Salmon Rice Bowls (GF, DF)",rice bowl,1.0,38.5,17.5,48.0,506.0,93.5,489.0,5.0,10.5,20.0,10.0,30 mins,4.92
+253,53,"Loaded Nachos with Ground Turkey, Beans and Cheese",appetizer,1.0,28.0,17.5,45.0,386.0,32.0,990.0,1.5,8.5,10.0,15.0,25 mins,4.96
+254,54,Air Fryer Egg Salad,lunch,2.0,12.5,20.0,1.0,237.0,378.0,299.5,,0.5,5.0,15.0,20 mins,5.0
+255,55,5-Minute Microwave Salmon Rice Bowl with Bok Choy,Rice Bowl,1.0,48.5,18.0,51.0,533.0,93.5,856.0,10.0,19.5,1.0,5.0,6 mins,5.0
+256,56,Pasta Fagioli (Pasta and Beans),dinner,1.0,10.0,4.0,46.0,262.5,46.0,623.0,5.5,6.0,10.0,25.0,35 mins,4.94
+257,57,Teriyaki Shrimp Quinoa Bowls with Mango-Cucumber Salsa,Quinoa,1.0,24.0,10.0,44.5,352.0,143.0,1389.0,6.5,14.5,10.0,30.0,40 mins,5.0
+258,58,Tortilla Encrusted Chicken Tenders,Appetizer,2.0,34.0,11.0,22.0,331.0,137.0,695.0,1.5,2.0,5.0,,25 mins,4.95
+259,59,Avgolemono Chicken and Rice Soup,Dinner,1.0,27.5,6.5,21.5,265.0,168.5,413.0,0.5,2.0,10.0,45.0,55 mins,4.94
+260,60,Broccoli Salad,burger,1.0,6.5,11.5,11.0,171.0,8.5,279.0,2.0,6.0,5.0,10.0,15 mins,5.0
+261,61,Borscht,Dinner,1.0,4.5,5.0,28.0,167.0,,599.5,4.0,10.0,15.0,30.0,45 mins,5.0
+262,62,Perfect Air Fryer Shrimp,dinner,8.0,19.5,8.0,2.0,163.0,178.5,873.5,0.5,-1.0,4.0,6.0,10 mins,4.91
+263,63,Salmon Caesar Salad,lunch,1.0,42.0,20.0,6.5,364.0,97.5,414.5,3.0,1.5,15.0,15.0,30 mins,4.95
+264,64,Spicy Hearts of Palm Noodle Stir Fry with Ground Chicken,lunch,1.0,26.0,12.0,16.5,275.0,98.0,1772.0,5.0,2.5,5.0,15.0,20 mins,4.75
+265,65,Buffalo Chicken Rice Bowls,lunch,1.0,49.5,9.5,47.5,485.0,134.0,1200.0,7.0,1.5,15.0,15.0,30 mins,4.86
+266,66,Breaded Shrimp,Dinner,1.0,20.0,3.0,10.0,149.0,145.0,934.5,0.5,1.0,15.0,10.0,25 mins,4.86
+267,67,"Veggie Stromboli with Mushroom, Spinach and Mozzarella",appetizer,1.0,11.0,6.0,31.5,217.5,7.5,519.5,1.5,3.5,20.0,35.0,55 mins,5.0
+268,68,Rainbow Quinoa Salad with Lemon Dressing,Quinoa,2.0,10.5,17.0,51.0,394.0,,184.0,7.0,7.0,15.0,15.0,30 mins,4.62
+269,69,Asian Chicken Lettuce Wraps,Lettuce Wraps,1.0,8.5,3.0,9.5,102.0,32.0,344.0,1.0,4.5,10.0,40.0,50 mins,5.0
+270,70,Tortilla Soup,Dinner,1.0,17.0,10.0,16.0,246.0,46.0,593.0,3.0,4.0,15.0,25.0,40 mins,4.67
+271,71,Chicken Parmesan Rolls,lunch,1.0,27.5,4.5,28.0,259.0,55.5,574.0,1.5,2.5,25.0,20.0,45 mins,4.68
+272,72,"Sweet Potato Soup with Sausage (Slow Cooker, Instant Pot, Stove)",Instant Pot,1.0,23.5,8.5,23.0,265.0,66.0,1236.0,4.0,7.0,10.0,,6 hrs 10 mins,4.93
+273,73,Blackened Air Fryer Salmon Bites,Dinner,1.0,34.0,11.0,2.0,251.0,93.5,356.5,1.0,0.5,3.0,7.0,10 mins,4.97
+274,74,Lemony Hearts of Palm Salad with Avocado,Dinner,1.0,2.5,12.5,8.0,145.0,,166.0,4.0,-1.0,10.0,0.0,10 mins,4.75
+275,75,Pizza Sausage Rolls,dinner,1.0,22.0,10.0,30.0,302.0,51.0,957.0,1.5,4.0,20.0,30.0,50 mins,4.91
+276,76,Air Fryer Salmon Fish Sandwich,dinner,1.0,33.0,24.0,31.5,493.0,77.5,824.5,3.5,4.0,5.0,10.0,15 mins,4.84
+277,77,Chicken Taco Poblano Rice Bowls,dinner,1.0,40.5,12.0,52.0,475.0,116.0,407.5,6.0,3.5,10.0,15.0,25 mins,4.96
+278,78,Creamy Sausage and Potato Soup,dinner,1.0,25.0,7.5,60.0,402.0,55.0,1164.0,9.5,8.0,10.0,45.0,55 mins,4.94
+279,79,Avocado Toast with Halloumi and Egg,Breakfast,1.0,16.0,17.0,19.0,295.0,211.0,812.0,3.0,2.0,5.0,15.0,20 mins,5.0
+280,80,Fish Taco Bowls,quinoa,6.0,31.5,12.5,9.0,264.0,84.0,1084.0,3.0,3.5,5.0,10.0,15 mins,4.87
+281,81,"Grilled Chicken Panini with Zucchini, Tomato, and Mozzarella",dinner,1.0,36.0,17.5,33.5,433.0,109.5,899.0,2.0,4.0,10.0,10.0,30 mins,4.91
+282,82,Chicken Caprese Skillet,dinner,1.0,47.5,16.5,21.0,419.0,141.0,585.0,2.0,7.0,15.0,20.0,35 mins,4.84
+283,83,Three-Cheese Zucchini Quiche,lunch,1.0,15.0,19.0,21.0,307.0,202.0,544.0,1.0,5.0,15.0,,1 hr 30 mins,4.91
+284,84,Tuna Tartare,appetizer,1.0,11.0,6.5,2.5,114.0,16.0,342.5,1.5,0.5,10.0,0.0,10 mins,5.0
+285,85,BLT Roll Ups with Turkey and Avocado,lunch,1.0,22.0,16.0,29.0,341.0,39.0,806.0,3.5,1.0,5.0,10.0,15 mins,5.0
+286,86,Lentil Salad,lunch,1.0,10.0,3.5,29.5,181.0,,251.0,5.5,3.0,15.0,20.0,35 mins,4.96
+287,87,Air Fryer Popcorn Chicken,appetizer,15.0,30.0,8.0,21.0,283.0,129.0,385.0,1.5,2.0,30.0,10.0,40 mins,4.94
+288,88,Lobster Rolls,Lunch,1.0,22.2,3.1,28.5,223.0,,538.6,4.3,6.4,5.0,10.0,15 mins,4.58
+289,89,Corn Tomato Avocado Salad,,1.0,2.5,8.5,14.0,128.0,,83.0,4.0,3.5,5.0,10.0,15 mins,4.98
+290,90,Chickpea Milanese,breakfast,1.0,10.0,13.5,41.0,320.0,0.5,428.5,8.5,5.0,15.0,10.0,25 mins,4.37
+291,91,Grilled Chicken Chickpea Salad,lunch,1.0,34.0,19.5,41.0,462.0,73.5,1103.0,11.5,16.0,5.0,0.0,5 mins,5.0
+292,92,Watermelon Arugula and Feta Salad,Lunch,1.0,4.0,11.5,11.0,157.5,,219.5,1.0,9.0,10.0,0.0,10 mins,5.0
+293,93,Chili-Lime Air Fryer Salmon,Dinner,1.0,37.5,12.5,0.5,262.0,109.0,322.5,0.5,,5.0,10.0,15 mins,4.97
+294,94,Tuna Poke Salad,Dinner,1.0,36.0,23.0,16.0,404.0,43.0,1211.5,7.5,3.5,15.0,0.0,15 mins,5.0
+295,95,Arugula Pasta Salad with Chickpeas and Sun Dried Tomatoes (no mayo),Dinner,2.0,11.0,9.0,43.5,280.0,2.0,337.0,8.0,3.0,5.0,10.0,15 mins,5.0
+296,96,Honey Sriracha Chicken and Broccoli Meal Prep Bowls,lunch,1.0,44.0,9.5,41.0,428.0,124.0,570.0,4.0,12.0,10.0,20.0,30 mins,4.69
+297,97,Sous Vide Chicken Breast and a Cilantro Lime Chicken Avocado Salad,lunch,1.0,25.0,22.5,7.5,329.0,72.5,364.5,4.0,1.0,30.0,,2 hrs 30 mins,4.58
+298,98,"Seared Scallop Salad with Grapefruit, Arugula and Spinach",lunch,1.0,19.0,10.0,16.5,217.0,,,2.9,1.4,10.0,10.0,20 mins,5.0
+299,99,Burst Tomato Cottage Cheese Caprese Bowl,Cottage Cheese,1.0,20.5,12.0,13.0,245.0,20.0,469.0,2.0,11.0,2.0,5.0,7 mins,4.93
+300,100,Buffalo Chicken Salad,lettuce wraps,1.0,30.0,24.0,4.0,359.0,90.0,1401.5,1.0,2.5,5.0,0.0,5 mins,4.6
+301,101,Grilled Vegetable Orzo Pasta Salad,lunch,1.0,6.5,9.0,39.5,267.0,,6.0,4.0,4.5,10.0,15.0,25 mins,4.91
+302,102,Lemon Asparagus Couscous Salad with Tomatoes,Asparagus,1.0,6.5,4.0,30.0,170.0,,10.0,5.0,,5.0,,30 mins,4.78
+303,103,Slow Cooker Chicken Tacos,dinner,3.0,45.5,13.5,44.5,474.0,124.5,470.5,9.5,4.0,2.0,,4 hrs 2 mins,4.97
+304,104,Spicy Canned Salmon Rice Bowl,Rice Bowl,1.0,25.0,14.0,39.0,389.0,65.0,757.0,4.0,4.0,5.0,0.0,5 mins,4.89
+305,105,Avocado Quinoa Salad,Quinoa,1.0,11.0,23.0,55.0,443.0,,174.0,16.0,9.5,5.0,20.0,25 mins,4.87
+306,106,"Warm Salad with Artichoke Hearts, Roasted Peppers, Mozzarella",dinner,1.0,14.5,22.0,23.0,339.0,45.0,843.5,5.0,12.0,5.0,5.0,10 mins,5.0
+307,107,Air Fryer Empanadas,lunch,1.0,11.0,5.0,22.0,183.0,16.0,196.0,1.0,2.5,10.0,16.0,30 mins,4.82
+308,108,Greek Turkey Meatballs,appetizer,4.0,27.0,11.0,13.5,254.0,,,3.5,,10.0,15.0,25 mins,4.82
+309,109,BBQ Chicken Salad,dinner,1.0,30.0,5.0,22.0,241.0,83.0,221.0,4.0,7.0,5.0,10.0,15 mins,4.89
+310,110,Sloppy Joe Recipe,Dinner,1.0,13.7,3.7,9.9,122.0,31.5,470.0,2.1,5.0,10.0,20.0,30 mins,4.76
+311,111,Tuna Croquettes (Baked or Air Fryer),canned tuna,2.0,22.5,3.5,21.5,215.0,69.0,426.5,1.5,1.5,10.0,40.0,1 hr,4.8
+312,112,Escarole and Chickpea Soup with Garlic Toast,Dinner,1.0,10.5,4.0,38.0,222.0,,466.0,8.5,5.5,5.0,20.0,25 mins,5.0
+313,113,Lobster Bisque,Dinner,1.0,14.0,6.0,17.0,203.0,65.0,852.0,2.5,7.0,15.0,50.0,1 hr 5 mins,4.75
+314,114,Roasted Sweet Potato Black Bean Bowls,lunch,1.0,20.0,15.5,96.0,585.0,1.5,695.0,21.0,13.5,15.0,30.0,1 hr 15 mins,4.93
+315,115,Mini Bell Pepper Loaded Turkey “Nachos”,lunch,7.0,18.0,11.0,6.5,187.0,62.0,418.0,1.0,0.5,15.0,25.0,40 mins,4.91
+316,116,Air Fryer Buffalo Chicken Nuggets,lunch,,27.0,3.0,9.5,180.0,83.0,501.5,0.5,1.0,5.0,16.0,21 mins,4.95
+317,117,Pepperoni Pizza Bites,appetizer,4.0,18.0,9.5,31.0,286.0,30.0,974.0,1.5,4.0,10.0,30.0,40 mins,4.81
+318,118,Tuna Egg Salad,lunch,1.0,30.0,20.0,4.0,316.0,450.0,420.0,,,0.0,15.0,15 mins,4.95
+319,119,Spaghetti Squash Crust Pizza,Dinner,2.0,28.0,17.0,18.0,303.0,139.0,855.0,5.5,5.5,30.0,30.0,1 hr,4.97
+320,120,Taco Salad (Perfect for Meal Prep),dinner,1.0,28.5,17.5,13.0,313.0,92.5,917.5,4.0,5.5,10.0,20.0,30 mins,4.98
+321,121,Sausage and Broccoli Rabe Egg Rolls (Air Fryer or Oven),appetizer,1.0,10.0,3.5,15.0,136.0,29.5,465.0,1.0,1.0,15.0,30.0,45 mins,4.5
+322,122,Chilled Calamari Salad with Lemon and Parsley,appetizer,1.0,18.0,2.0,8.0,122.0,,66.0,0.9,1.2,10.0,5.0,15 mins,5.0
+323,123,Leftover Turkey Harvest Cobb Salad,lunch,1.0,28.0,26.0,37.0,466.0,50.0,660.0,9.0,9.0,30.0,0.0,30 mins,5.0
+324,124,Arugula Salmon Salad with Capers and Shaved Parmesan,dinner,1.0,32.5,16.0,2.0,288.0,86.0,288.5,0.5,1.2,5.0,10.0,15 mins,5.0
+325,125,"Quick Beef Chili Recipe (Stove, Slow Cooker or Instant Pot)",Instant Pot,1.0,31.5,7.0,22.5,312.0,71.0,629.5,8.5,2.5,10.0,30.0,40 mins,4.9
+326,126,Easy Black Bean Vegetarian Chili with Spiced Yogurt,Dinner,1.0,14.5,4.5,44.5,264.0,44.5,889.5,14.0,9.0,10.0,15.0,25 mins,4.93
+327,127,Air Fryer Chicken Milanese with Mediterranean Salad,Dinner,2.0,63.0,21.0,28.5,562.0,278.0,908.5,3.5,4.5,15.0,15.0,30 mins,5.0
+328,128,Chicken Cutlet Caprese Salad,dinner,1.0,45.5,24.0,14.5,462.0,231.5,755.5,2.0,1.5,15.0,20.0,35 mins,4.93
+329,129,Cilantro Lime Chicken Breast (Grilled or Air Fryer),quinoa,1.0,38.5,5.5,0.5,217.0,124.0,360.0,0.5,0.5,5.0,15.0,1 hr 20 mins,4.74
+330,130,Spicy Sriracha Tofu Rice Bowls (Air Fryer or Oven),cauliflower rice,1.0,29.0,20.0,38.0,453.0,,1109.0,6.5,6.5,15.0,15.0,30 mins,4.95
+331,131,Sausage and Pepper Stromboli (Stuffed Sausage Bread),appetizer,1.0,12.5,5.5,43.5,272.0,20.5,671.0,1.5,1.0,10.0,50.0,2 hrs,5.0
+332,132,Air Fryer Roasted Cauliflower Tacos,Dinner,3.0,8.5,21.5,22.5,284.0,4.5,837.0,6.5,11.5,,,,4.91
+333,133,Coconut Red Curry Shrimp Skewers,dinner,2.0,36.0,5.0,13.0,252.0,250.0,848.0,3.0,4.0,35.0,15.0,50 mins,4.91
+334,134,Air Fryer Burst Tomato Burrata Caprese Salad,lunch,1.0,15.0,18.0,30.0,307.0,40.0,505.5,3.5,7.0,5.0,10.0,15 mins,4.93
+335,135,Cilantro Chicken Salad,canned tuna,1.0,23.0,6.0,3.0,160.5,61.5,151.5,0.5,1.0,10.0,0.0,15 mins,4.97
+336,136,Foil Packet Cheesy Sausage and Peppers,dinner,1.0,18.5,11.5,12.5,223.0,67.5,886.5,3.0,5.5,5.0,40.0,45 mins,5.0
+337,137,Grilled Shrimp Panzanella Skewers,dinner,2.0,28.0,3.0,18.0,216.0,188.0,376.0,2.5,7.0,20.0,10.0,30 mins,5.0
+338,138,"Ground Turkey Skillet with Zucchini, Corn, Black Beans and Tomato",dinner,1.0,28.0,8.5,22.5,266.0,80.0,525.0,6.5,4.0,10.0,15.0,25 mins,4.88
+339,139,Asparagus and Swiss Cheese Frittata,Asparagus,1.0,19.0,15.0,9.0,243.0,259.0,386.0,1.0,3.0,10.0,30.0,40 mins,4.96
+340,140,Mayo-less Tuna Pasta Salad,lunch,1.0,24.5,10.5,23.0,271.5,37.0,463.0,3.5,1.5,10.0,0.0,10 mins,5.0
+341,141,"Grilled Chicken, Strawberry, Avocado Salad with Citrus Dressing",lunch,1.0,30.0,26.0,14.0,399.0,83.0,164.0,5.5,6.0,10.0,15.0,55 mins,4.7
+342,142,Shrimp Egg Rolls (Air Fryer or Baked),Appetizer,1.0,11.0,3.0,16.0,137.0,,414.0,1.0,1.5,10.0,15.0,25 mins,4.93
+343,143,Lobster Roll Pasta Salad,dinner,2.0,23.5,5.5,34.0,282.0,137.0,766.0,2.0,1.5,10.0,15.0,25 mins,4.75
+344,144,Air Fryer Chicken Sandwich with Sriracha Mayo,Dinner,1.0,35.0,8.0,31.0,334.0,100.0,796.0,6.0,7.0,15.0,18.0,6 hrs 33 mins,4.67
+345,145,"Quinoa Salad with Kale, Cranberries and Mint",Quinoa,1.0,5.0,6.0,30.0,191.0,,,4.0,9.0,5.0,20.0,25 mins,5.0
+346,146,Bisteces a la Mexicana (Mexican Style Beef Stew),Dinner,1.0,24.0,11.5,5.5,227.0,52.0,465.0,2.0,3.0,10.0,45.0,1 hr 55 mins,4.89
+347,147,Cheeseburger Crunch Wrap,burger,1.0,33.0,18.5,22.0,354.0,103.5,1282.5,10.0,1.5,5.0,15.0,20 mins,4.83
+348,148,Salmon Fried Rice,cauliflower rice,1.0,34.0,17.5,28.0,408.0,248.5,733.0,4.0,2.5,5.0,20.0,25 mins,5.0
+349,149,Low-Yolk Egg Salad,Lunch,1.0,9.5,7.6,2.0,122.0,189.0,235.0,,0.5,5.0,20.0,25 mins,5.0
+350,150,"Farro Salad with Feta, Cucumbers and Sun Dried Tomatoes",lunch,1.0,9.0,6.5,39.0,241.0,,177.5,6.0,2.0,10.0,20.0,30 mins,4.91
+351,151,Easy (10-minute) Waffled Salmon Cakes,Dinner,2.0,22.0,6.5,5.5,169.0,125.5,536.5,0.5,0.5,5.0,10.0,15 mins,4.91
+352,152,Coconut-Poached Chicken with Bok Choy and Mushrooms,quinoa,1.0,42.0,12.0,12.0,321.0,124.5,630.0,2.5,4.0,10.0,20.0,30 mins,4.56
+353,153,Italian Ground Turkey Meatball Sheet Pan Dinner,Dinner,4.0,27.5,14.0,14.0,292.0,130.5,588.5,5.0,4.5,20.0,40.0,1 hr,4.83
+354,154,Ahi Tuna Poke Stacks,Dinner,2.0,48.5,24.5,37.5,561.0,76.0,1620.5,7.5,5.0,20.0,0.0,20 mins,5.0
+355,155,Navel Orange Salad with Avocado,Lunch,1.0,3.0,20.0,24.0,278.5,,48.5,7.0,15.0,15.0,0.0,15 mins,4.97
+356,156,Asparagus and Feta Tartlet with Phyllo Crust,Asparagus,1.0,4.5,5.0,7.5,91.0,73.5,170.0,0.5,1.5,15.0,35.0,50 mins,4.62
+357,157,Spring Green Pea Soup with Fresh Herbs,lunch,1.0,6.5,6.0,20.5,160.0,1.5,444.0,6.5,8.5,5.0,10.0,15 mins,4.91
+358,158,One-Pot Chicken and Artichoke Cavatappi,dinner,2.0,39.0,5.0,56.5,428.0,83.0,1055.0,5.0,8.5,10.0,35.0,45 mins,4.65
+359,159,Spanakopita Baked Eggs,appetizer,1.0,15.0,11.0,13.5,198.0,205.0,703.5,6.0,3.0,10.0,25.0,35 mins,4.75
+360,160,Cacio e Pepe Frittata with Cauliflower and Lemony Yogurt,lunch,1.0,20.0,18.5,5.5,277.0,389.0,540.5,1.5,2.5,10.0,50.0,1 hr,5.0
+361,161,Hearts of Palm Noodle Peanut Stir Fry,lunch,1.0,17.0,26.5,26.5,414.0,186.0,1110.0,11.5,7.5,5.0,10.0,15 mins,4.82
+362,162,Pork Chops and Pears with Spicy Mustard Greens,dinner,1.0,39.0,17.5,12.5,372.0,105.0,171.0,4.0,9.0,10.0,15.0,25 mins,4.25
+363,163,Air Fryer Lobster Jalapeño Empanadas,lunch,1.0,9.5,5.0,21.5,165.0,56.0,252.0,1.0,2.0,10.0,20.0,30 mins,
+364,164,"Salmon Salad with Beets, Arugula, Pistachios and Pomegranates",lunch,1.0,33.5,26.5,18.0,437.0,85.0,727.5,4.5,12.0,15.0,15.0,30 mins,5.0
+365,165,Beef Negimaki Stir Fry,dinner,1.0,28.5,7.5,14.0,251.0,78.0,1211.0,2.5,9.5,10.0,10.0,20 mins,4.74
+366,166,Buffalo Chickpea Salad,lunch,1.0,8.5,5.0,27.0,182.0,0.5,821.0,6.0,2.5,20.0,10.0,30 mins,4.91
+367,167,One-Pot Spaghetti Puttanesca,dinner,1.0,9.0,7.0,48.0,293.0,2.5,651.0,3.5,3.0,5.0,15.0,20 mins,4.84
+368,168,Cottage Cheese Egg and Sausage Frittata,Cottage Cheese,1.0,21.5,15.0,2.0,233.0,386.0,723.0,0.5,1.0,5.0,25.0,30 mins,4.96
+369,169,Peanut-Braised Chicken Breasts,quinoa,,45.0,15.0,14.0,365.0,124.5,490.0,4.5,6.5,10.0,40.0,50 mins,4.55
+370,170,Instant Pot Braised Beef,Instant Pot,3.0,36.0,10.0,5.5,255.0,126.0,477.0,1.0,2.0,10.0,30.0,1 hr 40 mins,4.75
+371,171,Shrimp Dumpling Lettuce Wraps or Rice Bowls,Lettuce Wraps,4.0,25.5,6.5,9.5,201.0,172.5,955.5,1.5,3.0,15.0,5.0,20 mins,4.76
+372,172,"Baby Greens with Goat Cheese, Beets and Candied Pecans",Instant Pot,1.0,7.0,19.5,19.0,267.0,,211.0,2.0,14.0,10.0,0.0,10 mins,4.86
+373,173,High Protein Bread (Oat Sandwich Rolls),cottage cheese,1.0,10.5,3.0,18.0,135.5,5.0,582.5,2.5,1.5,5.0,25.0,30 mins,4.41
+374,174,Salmon Coconut Curry with Spinach and Chickpeas,dinner,1.0,41.0,20.0,23.5,453.0,94.0,275.0,5.0,1.5,5.0,20.0,25 mins,4.92
+375,175,Spinach Stuffed Chicken Breast with Tomato and Feta,Dinner,1.0,44.5,22.0,7.0,407.0,148.0,830.0,1.5,3.5,15.0,20.0,35 mins,4.83
+376,176,Sheet Pan Shrimp Oreganata,dinner,5.0,47.5,11.5,6.0,333.0,346.0,442.0,0.5,0.5,10.0,15.0,25 mins,4.95
+377,177,Butternut Squash Lentil Soup,lunch,1.0,4.0,1.5,25.0,122.0,,309.5,7.0,8.0,15.0,50.0,1 hr 5 mins,4.94
+378,178,Chicken Brown Rice Bowl (copycat Zinque’s Le Bowl),Rice Bowl,1.0,48.0,15.0,33.0,455.0,151.0,819.0,5.5,7.0,15.0,0.0,15 mins,4.93
+379,179,Slow Cooker Butternut Squash Pear Soup,dinner,1.0,3.0,3.0,25.5,132.0,,275.0,6.0,10.0,5.0,,8 hrs 5 mins,4.76
+380,180,Slow Cooker Chicken Enchilada Stuffed Sweet Potatoes,dinner,1.0,34.0,10.0,47.0,413.0,101.5,809.5,6.0,9.0,10.0,,6 hrs 10 mins,4.75
+381,181,Pastrami Reuben Egg Rolls,appetizer,2.0,23.0,9.5,44.0,360.0,50.0,1297.0,3.0,3.0,15.0,10.0,25 mins,4.97
+382,182,Detox Vegetable Soup,Dinner,1.0,15.0,12.5,34.0,293.0,,646.0,11.0,7.0,15.0,30.0,45 mins,4.74
+383,183,Broccoli and Cheese Twice Baked Potatoes,,1.0,8.0,3.5,23.0,146.5,1.2,152.5,2.5,1.5,5.0,25.0,30 mins,4.77
+384,184,Spicy Pork Brussels Bowls,Burger,1.0,35.0,10.0,15.5,280.5,252.5,474.0,6.0,3.5,5.0,25.0,30 mins,4.85
+385,185,Ratatouille Baked Chicken,Dinner,2.0,63.5,20.0,28.5,543.0,280.0,340.5,9.0,10.0,10.0,,1 hr 10 mins,4.85
+386,186,Greek Turkey Burgers,burger,1.0,29.0,14.5,2.5,255.0,111.0,360.0,0.5,1.0,15.0,15.0,30 mins,4.96
+387,187,Crustless Quiche Lorraine,breakfast,1.0,16.0,14.0,2.5,205.0,214.5,350.0,,2.0,10.0,35.0,45 mins,4.9
+388,188,Easy Crustless Spinach and Feta Pie,appetizer,1.0,9.0,5.0,12.0,126.0,69.0,433.0,2.5,1.5,10.0,30.0,40 mins,4.6
+389,189,Air Fryer Fried Shrimp Sandwich with Tartar Sauce,lunch,1.0,34.5,9.35,33.5,352.0,228.0,873.0,7.0,6.5,10.0,20.0,30 mins,5.0
+390,190,"Caramelized Onion, Red Pepper and Zucchini Frittata",breakfast,1.0,13.0,11.5,8.0,186.0,284.0,226.5,2.0,4.0,5.0,35.0,40 mins,4.84
+391,191,Salmon Croquettes with Dill Sauce,appetizer,1.0,26.0,16.0,4.5,278.0,169.0,542.0,0.5,1.0,20.0,10.0,30 mins,3.96
+392,192,Vegetarian Black Bean Tacos,dinner,2.0,13.0,15.4,42.0,367.0,10.0,669.0,12.0,2.0,15.0,10.0,25 mins,4.95
+393,193,Zesty Lime Grilled Chicken with Pineapple Salsa,Dinner,6.0,41.0,18.5,16.5,395.0,124.5,225.0,2.0,8.0,30.0,15.0,45 mins,4.96
+394,194,Jamaican Beef Patties,Appetizer,1.0,11.5,4.5,25.0,191.0,29.0,412.0,2.0,1.0,30.0,30.0,2 hrs,3.96
+395,195,Omelet Tortilla Breakfast Wrap,Breakfast,1.0,28.0,17.0,23.0,315.0,377.0,1037.0,14.5,2.0,5.0,10.0,15 mins,4.93
+396,196,Margherita Pizza,Appetizer,2.0,15.0,6.5,27.0,236.0,23.5,636.0,1.0,3.5,30.0,15.0,45 mins,4.84
+397,197,Turkey Club,lunch,1.0,35.0,11.5,28.5,351.0,65.0,652.5,6.5,4.5,2.0,8.0,10 mins,5.0
+398,198,Open-Faced Tuna Melt Sandwich Recipe,Lunch,1.0,28.5,6.5,14.5,231.0,,,3.5,,5.0,5.0,10 mins,4.75
+399,199,Paprika Chicken Stew,Dinner,1.0,49.0,11.0,14.0,361.0,214.0,954.0,3.0,4.0,15.0,,1 hr 15 mins,4.58
+400,0,Almond Cake,Dessert,1.0,7.0,11.0,17.0,179.0,47.0,39.0,3.0,13.0,20.0,40.0,1 hr,4.86
+401,1,Lemon-Coconut Almond Cake,dessert,1.0,6.5,10.5,20.5,198.0,46.5,32.5,4.0,14.0,20.0,30.0,1 hr 5 mins,4.91
+402,2,Lemon Poppy Seed Cupcakes,dessert,1.0,3.5,4.0,42.0,152.0,23.5,160.0,1.5,6.5,15.0,25.0,50 mins,
+403,3,Chocolate Oat Flour Banana Bread,Breakfast,1.0,5.5,7.0,34.5,190.0,34.5,179.5,9.5,11.5,15.0,50.0,1 hr 20 mins,4.97
+404,4,Cottage Cheese Cheesecake,cottage cheese,1.0,6.5,10.5,15.0,159.0,60.0,243.0,0.5,3.0,15.0,44.0,4 hrs 59 mins,4.88
+405,5,Coconut Cookies,Dessert,2.0,1.5,2.5,19.0,188.0,,53.0,2.0,14.0,20.0,18.0,40 mins,4.86
+406,6,Snowman Chocolate Bark,Dessert,1.0,2.0,8.0,18.0,118.0,,1.5,10.0,1.0,15.0,0.0,45 mins,
+407,7,Coconut Macaroons,dessert,2.0,2.0,7.0,14.5,129.0,54.5,74.0,1.0,13.5,35.0,45.0,1 hr 20 mins,4.95
+408,8,Chewy Chocolate Chip Cookies (Low-Fat),Dessert,2.0,2.0,6.0,20.0,133.0,15.5,45.0,3.0,8.0,10.0,10.0,20 mins,4.7
+409,9,Oatmeal Chocolate Chip Cookies,breakfast,1.0,1.5,1.5,12.0,64.0,8.0,59.5,0.5,5.0,15.0,15.0,30 mins,4.84
+410,10,Pumpkin Mug Cake,dessert,1.0,4.0,3.0,41.5,134.0,,21.5,3.5,1.5,5.0,2.0,7 mins,4.55
+411,11,Pumpkin Chocolate Chip Cookies,Dessert,2.0,2.5,3.5,25.5,95.0,15.0,107.0,3.0,1.0,10.0,15.0,25 mins,4.84
+412,12,Apple Turnover,dessert,1.0,1.5,1.0,24.0,111.0,,129.0,2.0,11.5,30.0,30.0,1 hr 10 mins,5.0
+413,13,Apple Cobbler Recipe,dessert,1.0,1.5,4.0,44.5,215.0,5.5,71.0,4.0,32.0,20.0,50.0,1 hr 10 mins,5.0
+414,14,Babka-Inspired Bagels,breakfast,1.0,5.0,2.0,30.0,158.0,47.0,473.0,1.0,5.0,30.0,28.0,1 hr 13 mins,4.89
+415,15,Grilled Pineapple,dessert,2.0,0.6,1.0,24.0,102.0,,2.0,2.0,21.0,5.0,10.0,15 mins,4.97
+416,16,Blueberry Galette,dessert,1.0,2.5,6.5,31.0,155.0,5.0,137.5,2.0,7.5,20.0,40.0,1 hr 15 mins,4.97
+417,17,Carrot Cake Recipe with Cream Cheese Frosting,dessert,1.0,4.0,8.0,32.0,216.0,33.0,392.0,2.0,22.0,20.0,45.0,1 hr,4.85
+418,18,Chocolate Brownie Date Balls,dessert,1.0,2.5,6.5,26.0,153.0,,1.5,4.0,20.5,15.0,0.0,15 mins,4.91
+419,19,Healthy Chocolate Chip Oat Cookies,Dessert,2.0,4.0,10.0,20.0,174.0,15.5,50.0,4.5,6.5,10.0,10.0,20 mins,4.59
+420,20,Apple and Grape Fall Fruit Salad,dessert,1.0,6.0,8.5,36.0,209.0,,16.0,3.0,19.0,15.0,,15 mins,5.0
+421,21,Raspberry Coconut Chia Pudding Popsicles,dessert,1.0,1.8,5.0,6.8,74.0,,27.0,4.6,0.6,5.0,,6 hrs 5 mins,5.0
+422,22,"Red, White and Blueberry Trifle",dessert,1.0,2.5,5.5,28.5,158.0,,143.5,2.0,15.5,15.0,0.0,1 hr 15 mins,4.96
+423,23,Mango Coconut Chia Pudding,dessert,1.0,7.0,13.0,22.0,227.0,,66.0,11.5,10.5,5.0,0.0,5 hrs 5 mins,4.98
+424,24,Instant Pot Baked Oatmeal Bars,Instant Pot,1.0,9.0,6.5,45.0,266.0,,61.0,8.0,11.0,10.0,50.0,1 hr,4.86
+425,25,Blueberry Frozen Yogurt,dessert,1.0,2.5,2.5,36.0,76.0,8.5,29.0,1.5,9.5,20.0,,1 d 20 mins,4.89
+426,26,Chocolate Frozen Yogurt in the Ninja™ CREAMi®,Dessert,1.0,4.0,3.5,20.5,88.0,11.0,54.0,1.0,8.5,15.0,0.0,1 d 15 mins,5.0
+427,27,Lemon Cheesecake Yogurt Cups,dessert,1.0,3.5,4.5,12.0,108.0,6.5,108.0,1.0,9.0,10.0,25.0,35 mins,4.72
+428,28,3-Ingredient Strawberries Romanoff,dessert,5.0,1.0,3.0,15.0,79.0,9.0,12.0,2.0,12.0,5.0,0.0,5 mins,4.93
+429,29,Healthy 3-Ingredient Banana Oatmeal Cookies,breakfast,2.0,2.0,3.5,15.0,93.0,,0.5,2.0,4.5,10.0,15.0,25 mins,4.67
+430,30,Red White and Blue Fruit Skewers with Cheesecake Yogurt Dip,dessert,1.0,3.0,2.5,18.5,105.0,1.5,147.5,2.0,7.0,20.0,0.0,20 mins,5.0
+431,31,Triple Berry Crisp,breakfast,1.0,2.0,4.5,29.5,152.0,9.5,4.5,4.0,17.0,15.0,40.0,55 mins,5.0
+432,32,Ambrosia Fruit Salad,dessert,1.0,1.5,7.0,26.0,163.0,,13.2,3.0,14.0,15.0,0.0,15 mins,5.0
+433,33,Strawberries and Yogurt Whipped Cream,dessert,6.0,2.5,7.5,13.0,125.0,27.5,15.5,2.0,11.0,15.0,0.0,15 mins,5.0
+434,34,Flaugnarde of Mixed Berries (Clafoutis),dessert,1.0,4.4,2.3,33.0,167.5,71.0,76.3,1.8,8.0,15.0,45.0,1 hr,4.8
+435,35,“Fried” Oreos,Dessert,2.0,3.0,3.5,16.0,107.0,6.5,96.0,0.5,8.5,3.0,12.0,15 mins,5.0
+436,36,3-Ingredient Baked Bananas,dessert,1.0,1.5,0.5,35.5,137.0,,2.0,3.0,23.0,5.0,15.0,20 mins,4.8
+437,37,Fudgy Flourless Crinkle Brownie Cookies with Sea Salt,dessert,2.0,6.0,12.0,30.0,207.0,,189.0,8.0,16.5,15.0,15.0,2 hrs 30 mins,4.83
+438,38,Pizzelle Cookies,Dessert,2.0,2.0,3.0,14.5,91.0,25.0,25.0,0.5,7.5,10.0,20.0,30 mins,5.0
+439,39,Dark Chocolate Peanut Butter Bark,Dessert,1.0,3.0,12.0,17.0,144.0,17.0,19.0,8.0,0.5,10.0,5.0,15 mins,4.82
+440,40,Apple Cranberry Crumble,dessert,3.0,2.0,5.5,44.5,211.0,,186.6,3.0,35.5,15.0,,1 hr 15 mins,4.97
+441,41,Pumpkin Pistachio Energy Balls,dinner,1.0,3.0,5.0,24.0,138.0,,37.0,3.0,19.0,15.0,0.0,15 mins,4.77
+442,42,Pumpkin Pie Dip,appetizer,1.0,2.0,4.0,21.0,105.0,1.0,10.0,1.0,17.0,15.0,0.0,15 mins,4.93
+443,43,Skinny Pumpkin Snickerdoodles,Dessert,1.0,1.0,1.0,9.5,51.0,7.5,20.0,1.0,6.0,25.0,5.0,30 mins,4.44
+444,44,Raspberry Yogurt Ice Pops,dessert,1.0,2.5,2.5,11.0,71.0,7.5,29.0,2.0,8.5,15.0,0.0,6 hrs 15 mins,4.67
+445,45,Chocolate Zucchini Bread,breakfast,1.0,4.0,8.0,28.0,190.5,,147.0,2.5,14.5,20.0,55.0,1 hr 15 mins,4.64
+446,46,Easy Blueberry Buttermilk Cake,dessert,1.0,3.1,2.9,33.0,168.0,17.5,191.8,1.2,17.1,20.0,30.0,50 mins,4.78
+447,47,Flourless Chocolate Zucchini Brownies,Dessert,1.0,4.5,9.0,25.0,179.0,,139.0,2.5,20.0,15.0,30.0,1 hr 15 mins,4.79
+448,48,Superfood Triple Berry Chia Pudding,breakfast,1.0,4.0,5.0,12.0,110.0,,64.0,7.5,3.0,20.0,0.0,5 hrs 20 mins,3.5
+449,49,Skinny Hummingbird Cupcakes,dessert,1.0,3.0,6.5,31.0,198.0,16.5,284.0,1.5,22.0,20.0,23.0,45 mins,4.8
+450,50,Skillet Mixed Berry Buttermilk Cobbler,dessert,1.0,2.0,4.0,28.0,151.0,5.5,100.5,4.5,16.5,10.0,10.0,1 hr 20 mins,4.8
+451,51,Chocolate Pistachio Biscotti,Breakfast,1.0,2.5,4.5,15.0,103.0,20.5,43.5,1.0,6.5,15.0,25.0,45 mins,4.72
+452,52,Chocolate Chip Clouds,Dessert,1.0,0.5,2.5,8.5,54.0,,9.5,1.0,7.0,15.0,40.0,55 mins,4.7
+453,53,Strawberry Squares,dessert,1.0,2.0,4.5,22.0,138.0,45.0,39.0,,13.5,15.0,30.0,45 mins,4.91
+454,54,Yogurt Panna Cotta with Macerated Berries,dessert,1.0,5.0,0.5,15.0,82.0,3.0,31.0,0.5,13.5,10.0,15.0,6 hrs 25 mins,5.0
+455,55,Sweet Potato Pie,dessert,1.0,3.5,6.5,38.0,208.0,41.0,135.0,2.0,15.0,,,2 hrs,4.85
+456,56,Cinnamon Apple Yogurt Bowls,breakfast,1.0,12.5,10.0,40.0,283.0,5.0,161.0,3.0,31.5,10.0,20.0,30 mins,4.85
+457,57,Pumpkin Roll,Dessert,3.0,5.0,7.0,42.5,198.0,42.0,134.0,1.0,21.0,20.0,15.0,1 hr 35 mins,4.74
+458,58,"Red, White and Blueberry Cheesecake Cupcakes",dessert,1.0,3.5,4.5,10.5,98.0,,29.5,0.5,7.5,10.0,,1 hr 35 mins,4.95
+459,59,Key Lime Yogurt Pie,dessert,1.0,3.0,6.0,19.0,139.0,9.0,132.5,0.5,14.0,30.0,15.0,45 mins,4.82
+460,60,Honey Lemon Bars with Whole Wheat Shortbread Crust,Breakfast,1.0,3.0,5.0,21.0,135.0,57.0,76.0,0.5,12.0,25.0,45.0,1 hr 10 mins,4.0
+461,61,Yogurt Waffles,breakfast,1.0,7.5,2.0,34.0,195.0,63.0,532.0,0.2,2.0,5.0,20.0,25 mins,4.82
+462,62,Banana Foster Crepes,dessert,1.0,4.5,4.5,35.5,185.0,42.5,49.0,2.0,19.0,5.0,30.0,35 mins,5.0
+463,63,No Bake Peanut Butter Pie,dessert,1.0,2.5,10.0,30.0,215.0,,83.0,1.0,15.0,10.0,,3 hrs,4.72
+464,64,Maple Pecan Cheesecake Shooters,dessert,1.0,4.0,14.5,16.0,213.0,17.0,128.0,1.0,16.0,15.0,0.0,15 mins,5.0
+465,65,Cinnamon Apple Crisp,dessert,2.0,2.0,4.5,44.0,207.0,10.0,4.5,5.0,30.0,15.0,15.0,1 hr 30 mins,5.0
+466,66,Banana Zucchini Cake with Cream Cheese Frosting,dessert,1.0,3.5,5.5,28.0,172.0,27.0,297.5,1.5,18.0,15.0,45.0,1 hr 20 mins,4.66
+467,67,Cheesecake Brownies,Dessert,1.0,4.0,10.0,21.0,182.0,34.5,164.0,1.5,18.0,15.0,30.0,45 mins,4.49
+468,68,Strawberry Crisp,Dessert,1.0,3.5,10.0,24.0,185.0,,38.0,4.0,18.5,15.0,40.0,55 mins,4.7
+469,69,Mixed Berry Pie,Dessert,1.0,3.5,7.0,39.0,217.0,51.0,129.0,6.0,18.5,15.0,40.0,55 mins,5.0
+470,70,Czech Crepes with Berries and Cream,breakfast,2.0,7.0,4.0,30.0,180.0,63.0,50.0,5.0,10.0,5.0,25.0,30 mins,4.89
+471,71,Gingerbread Christmas Tree Cookies,Dessert,2.0,1.5,1.0,24.0,106.0,11.0,50.0,,13.5,20.0,10.0,2 hrs 30 mins,4.35
+472,72,Delightfully Baked Apples,dessert,1.0,1.5,6.5,27.0,154.0,15.5,2.5,3.0,15.5,5.0,30.0,35 mins,4.81
+473,73,Turmeric Golden Milk Popsicles,Dessert,1.0,0.1,4.5,10.0,84.0,,5.5,0.1,8.5,5.0,0.0,5 hrs 5 mins,5.0
+474,74,No-Bake Strawberries and Cream Crêpe Cake,dessert,1.0,5.0,8.5,22.0,182.0,44.0,47.0,1.5,13.0,15.0,30.0,45 mins,5.0
+475,75,Dark Chocolate Nut Clusters with Sea Salt,Dessert,1.0,1.0,5.0,3.0,54.0,,3.0,0.5,2.0,30.0,0.0,30 mins,5.0
+476,76,Cranberry Bliss Bars,dessert,1.0,2.0,5.5,23.5,143.0,6.5,73.5,0.5,16.0,15.0,20.0,35 mins,4.57
+477,77,Donut-Shaped Apple Snacks,Snacks,1.0,1.0,3.0,7.5,57.0,1.0,19.0,1.0,4.0,5.0,5.0,15 mins,5.0
+478,78,Five-Ingredient Chocolate Cheesecake Cups,breakfast,1.0,1.5,4.0,6.0,65.0,20.0,48.0,,6.0,15.0,20.0,3 hrs 35 mins,4.0
+479,79,Flourless Chocolate Cake,dessert,1.0,3.0,8.0,16.0,136.0,23.0,48.0,2.0,11.0,,,,4.89
+480,80,Skinny Pumpkin Pie,dessert,1.0,3.0,5.0,25.0,137.0,23.5,114.0,1.5,16.5,10.0,10.0,1 hr 20 mins,4.43
+481,81,Easy 3-Ingredient Low-Fat Graham Cracker Crust,Dessert,1.0,1.0,4.0,13.0,88.0,8.0,101.0,1.0,6.0,,,,5.0
+482,82,No Bake Pumpkin Cheesecake,dessert,1.0,2.5,10.0,21.0,187.0,5.5,178.0,1.5,13.0,15.0,0.0,15 mins,4.95
+483,83,Whipped Coconut Cream,dessert,2.0,0.5,7.0,4.0,77.0,,10.0,,3.0,,,,5.0
+484,84,Gluten-Free S’mores Tartlets,dessert,2.0,4.0,10.0,27.0,199.0,37.0,111.0,2.0,18.0,15.0,,1 hr 15 mins,
+485,85,Mixed Berry Tartlet with Dark Chocolate,Dessert,1.0,1.0,6.5,16.0,124.0,14.0,85.0,1.0,10.0,10.0,,55 mins,5.0
+486,86,Grilled Peaches With Honey and Yogurt,dessert,1.0,2.0,,19.0,78.0,,5.0,2.0,18.0,5.0,20.0,25 mins,5.0
+487,87,Sprinkle Dipped Meringues,Dessert,2.0,1.0,2.0,15.5,85.0,2.0,15.0,,5.0,25.0,,3 hrs,
+488,88,Coconut Macaroon Nests,Dessert,2.0,3.0,8.0,20.0,158.0,2.0,25.0,1.0,19.0,20.0,40.0,1 hr,4.25
+489,89,Coconut Obsessed Pie,Dessert,1.0,5.0,9.0,27.0,205.0,8.0,130.0,2.0,18.0,40.0,10.0,3 hrs 50 mins,
+490,90,Deep Dish Chocolate Chip Cookie Pie,dessert,1.0,3.0,9.0,40.0,226.0,,262.0,6.0,25.0,20.0,35.0,55 mins,4.84
+491,91,Poached Pears with Yogurt,dinner,1.0,2.0,1.0,29.0,134.0,,28.0,3.5,21.5,5.0,30.0,35 mins,
+492,92,White Chocolate Oatmeal Lace Cookies,Dessert,2.0,1.0,4.0,12.5,84.0,6.5,8.5,,9.0,25.0,10.0,35 mins,4.5
+493,93,Baked Pears with Walnuts and Honey,breakfast,1.0,1.5,5.0,17.0,110.5,,,3.0,12.0,5.0,30.0,35 mins,4.85
+494,94,Pumpkin Butterscotch Bars,dessert,1.0,2.0,5.0,21.0,133.0,1.0,71.0,1.0,15.0,30.0,15.0,45 mins,4.85
+495,95,Coconut Lime Raspberry Chia Pudding,dessert,1.0,4.0,10.0,15.0,157.0,,31.0,10.0,1.0,5.0,,6 hrs,4.84
+496,96,Red White + Blue Fruit Pizza,dessert,1.0,2.0,5.0,24.5,144.0,10.0,77.0,1.5,17.0,45.0,15.0,1 hr,5.0
+497,97,Citrus Basil Mojito Pops,Dessert,1.0,,,8.0,34.0,,1.0,,7.0,5.0,,4 hrs,
+498,98,Avocado Coconut Popsicles,Dessert,1.0,1.0,4.5,11.0,84.5,,30.0,1.5,9.0,10.0,0.0,3 hrs 10 mins,3.0
+499,99,Fruit Pizza,dessert,1.0,2.0,5.0,24.0,140.0,10.0,72.0,1.0,17.0,30.0,15.0,45 mins,
+500,100,PB2 Flourless Chocolate Brownies,Dessert,1.0,6.0,5.0,26.0,131.0,20.0,217.0,3.0,20.0,10.0,30.0,40 mins,4.61
+501,101,Amazing Flour-less Black Bean Brownies,Dessert,1.0,4.0,5.0,25.0,144.0,23.5,91.0,3.5,17.5,15.0,30.0,45 mins,4.84
+502,102,Vanilla Bean Panna Cotta,dessert,1.0,5.0,7.0,20.0,158.0,25.0,48.0,1.0,19.0,10.0,25.0,4 hrs 35 mins,5.0
+503,103,Dark Chocolate Oatmeal Lace Cookies,Dessert,1.0,1.0,3.0,10.0,66.0,6.0,7.0,,7.0,20.0,10.0,30 mins,4.58
+504,104,Mini Sweet Potato Meringue Pie,appetizer,1.0,2.0,4.0,24.0,136.0,20.0,106.0,1.0,13.0,,32.0,1 hr 32 mins,4.5
+505,105,Cranberry Swirl Cheesecake Squares,Dessert,1.0,6.0,10.0,22.0,197.0,,101.0,1.0,14.0,10.0,45.0,2 hrs 55 mins,4.63
+506,106,Skinny Mummy Cake Balls,Dessert,1.0,1.5,4.0,15.0,102.5,2.0,68.0,,7.0,45.0,18.0,1 hr 48 mins,5.0
+507,107,Candy Corn Fruit Parfaits,dessert,1.0,3.0,6.0,23.0,151.0,19.5,20.0,1.0,21.0,15.0,0.0,15 mins,
+508,108,Coconut Mango Ice Pops,Dessert,1.0,,2.0,14.0,68.0,,2.0,1.0,13.0,15.0,0.0,10 mins,5.0
+509,109,Tropical Fruit Salad,dessert,1.0,1.0,1.0,28.0,116.0,,4.0,3.5,20.0,15.0,0.0,15 mins,5.0
+510,110,Mexican “Unfried” Ice Cream,dessert,1.0,7.5,2.5,30.0,149.5,45.0,248.0,4.0,11.5,30.0,,30 mins,5.0
+511,111,Easter Egg Cake Pops,dessert,1.0,1.5,4.0,15.0,102.5,2.0,68.0,,7.0,40.0,20.0,2 hrs,
+512,112,Chocolate Drizzled Coconut Macaroons,dessert,2.0,2.0,5.5,13.0,105.0,,15.0,1.0,12.0,30.0,45.0,1 hr 15 mins,5.0
+513,113,St Patricks Day Cake Pops,Dessert,1.0,1.5,4.0,15.0,102.5,2.0,68.0,,7.0,,,2 hrs,
+514,114,Shamrock Shake,dessert,1.0,7.0,6.0,23.0,169.5,2.0,90.5,2.5,19.0,10.0,0.0,10 mins,5.0
+515,115,Valentine’s Day Cake Balls,dessert,1.0,1.5,4.0,15.0,102.5,2.0,68.0,,7.0,10.0,20.0,1 hr 45 mins,
+516,116,Skinny Chocolate Parfaits,dinner,6.0,5.0,10.0,30.5,217.0,33.0,73.0,1.5,22.5,5.0,45.0,2 hrs 50 mins,5.0
+517,117,Chocolate Raspberry Cheesecake,dessert,1.0,5.0,7.5,15.0,150.0,,57.5,0.5,10.0,15.0,30.0,45 mins,5.0
+518,118,Skinny Eggnog Cake,dessert,1.0,2.5,5.0,32.0,188.0,0.3,204.0,0.5,4.3,15.0,30.0,45 mins,5.0
+519,119,Skinny Frozen Hot Chocolate,Dessert,,7.0,1.0,20.0,111.0,3.0,166.0,1.0,18.0,10.0,,10 mins,
+520,120,Skinny Cake Pops,Dessert,1.0,1.4,4.0,15.0,102.5,2.0,68.0,,7.0,,18.0,1 hr 18 mins,5.0
+521,121,Dark Chocolate and Mint Chip Clouds,Dessert,2.0,1.0,5.0,23.0,130.5,,11.0,,22.0,20.0,45.0,1 hr 5 mins,5.0
+522,122,Mini Pecan Phyllo Tarts,dessert,1.0,1.0,4.5,6.5,68.0,,23.0,0.5,4.0,5.0,10.0,15 mins,4.92
+523,123,Guiltless Banana Ice Cream (Nice Cream),breakfast,1.0,1.0,,27.0,105.0,,1.0,3.0,14.0,10.0,0.0,10 mins,5.0
+524,124,Pumpkin Hazelnut White Chocolate Biscotti,Dessert,1.0,2.0,4.0,15.5,101.5,15.5,40.0,0.5,8.0,20.0,25.0,45 mins,5.0
+525,125,Pumpkin Cheesecake Shooters,dessert,1.0,1.0,4.0,11.5,78.0,5.0,16.5,,7.5,30.0,0.0,30 mins,5.0
+526,126,Spooky Spider Halloween Cupcakes,Dessert,1.0,1.5,3.5,26.0,139.5,,291.0,2.0,17.0,10.0,20.0,50 mins,
+527,127,Oatmeal Raisin Walnut Cookies,Dessert,2.0,3.0,4.5,31.5,172.0,16.5,119.0,2.0,16.5,20.0,20.0,40 mins,3.0
+528,128,Raspberry Blueberry Gazpacho with Fresh Mint,dessert,1.0,3.0,0.3,32.0,139.0,,37.0,5.4,22.8,10.0,,4 hrs,5.0
+529,129,Guiltless Banana Split in a Jar,Dessert,1.0,3.5,1.3,36.0,169.0,5.0,62.0,1.8,27.5,5.0,,5 mins,
+530,130,Cherry Custard,dessert,1.0,5.5,2.6,27.8,156.0,93.5,204.0,1.3,8.8,15.0,,45 mins,5.0
+531,131,Cherry Lime Ice Pops,Dessert,1.0,1.3,0.2,31.0,122.0,,0.2,2.4,27.0,10.0,5.0,2 hrs 15 mins,4.75
+532,132,"Frozen Mango, Kiwi, Raspberry Fruit Pops",Dessert,1.0,1.0,0.5,22.0,91.5,,1.8,4.0,11.0,15.0,5.0,20 mins,5.0
+533,133,Frozen Banana Pop,Dessert,1.0,0.3,4.9,15.0,99.0,,0.3,1.7,10.0,20.0,0.0,2 hrs 20 mins,
+534,134,Skinny Chocolate Chip Fro-Yo Sandwiches,Dessert,1.0,3.0,3.0,38.0,168.5,,88.5,1.0,27.5,15.0,,1 hr,
+535,135,Very Berry Banana Fro Yo Shake,dessert,1.0,5.6,2.1,48.0,211.7,,90.6,5.7,26.3,5.0,,5 mins,
+536,136,Coconut Cupcakes,Dessert,1.0,2.5,6.5,31.0,196.0,1.3,150.0,1.0,11.5,30.0,25.0,1 hr 30 mins,5.0
+537,137,Rainbow Fruit Skewers with Yogurt Fruit Dip,dessert,1.0,5.2,,12.0,65.4,,23.3,,11.9,10.0,,10 mins,
+538,138,Chocolate Stout Cupcakes with Bailey’s Irish Cream Cheese Frosting,Dessert,1.0,3.5,6.5,31.0,189.0,,214.5,1.5,19.5,20.0,30.0,50 mins,4.93
+539,139,Homemade Skinny Chocolate Cake,dessert,2.0,3.0,3.0,33.0,163.0,9.5,335.0,1.5,19.5,20.0,40.0,1 hr,5.0
+540,140,Brownie Batter Pancakes,breakfast,6.0,5.5,2.5,32.0,172.0,,241.5,6.5,4.5,10.0,15.0,25 mins,2.34
+541,141,Cranberry Pistachio Biscotti,Breakfast,1.0,1.5,2.1,10.3,65.2,10.0,24.4,0.3,5.0,15.0,30.0,45 mins,4.8
+542,142,Vanilla Bean Sugar,Dessert,,,,,,,,,,10.0,,10 mins,
+543,143,Rudolph the Red Velvet Cupcake,Dessert,1.0,2.5,2.8,29.6,151.0,1.6,190.5,0.8,20.4,30.0,25.0,1 hr,3.0
+544,144,Gingerbread Cookies,Dessert,2.0,1.9,1.7,29.8,133.0,11.6,61.8,0.2,15.3,20.0,10.0,2 hrs 30 mins,4.7
+545,145,S’mores Pops,Dessert,1.0,0.7,2.4,15.9,84.3,,61.5,0.8,11.0,35.0,,35 mins,
+546,146,Homemade Vanilla Bean Marshmallows,Dessert,2.0,0.4,,13.0,52.0,,13.0,,13.0,35.0,5.0,40 mins,4.0
+547,147,Vanilla Snowman Cupcakes with Vanilla Icing,dessert,1.0,2.1,2.7,27.3,143.5,,143.2,,19.6,30.0,25.0,1 hr,5.0
+548,148,Skinny No-Bake Chocolate Peanut Butter Cookies,breakfast,2.0,3.1,2.3,18.8,105.9,0.1,12.2,2.3,7.9,25.0,2.0,30 mins,3.0
+549,149,Pumpkin Hazelnut Custard (Clafoutis),dessert,1.0,5.0,4.0,24.0,149.0,56.5,71.5,1.0,18.0,10.0,30.0,40 mins,4.5
+550,150,Frozen Chocolate Banana Ghost Pops,dessert,1.0,1.5,5.0,14.5,103.0,1.5,14.0,1.0,11.5,,20.0,2 hrs 20 mins,5.0
+551,151,Chocolate Mummy Cupcakes,Dessert,1.0,1.0,3.7,32.0,165.0,0.1,301.0,1.5,23.5,45.0,25.0,1 hr 10 mins,2.0
+552,152,Super Moist Low Fat Chocolate Cupcakes with Chocolate Glaze,Dessert,1.0,1.0,2.5,20.0,104.5,,288.5,1.5,12.5,,,1 hr,4.63
+553,153,Pumpkin Ice Cream,breakfast,1.0,4.0,1.0,31.0,153.0,5.5,165.0,0.5,29.0,15.0,15.0,1 hr 30 mins,5.0
+554,154,Meringue Ghosts,Dessert,1.0,0.4,0.3,6.1,27.5,,6.4,0.1,5.9,30.0,30.0,2 hrs,
+555,155,Pumpkin Spice Cookies,Dessert,2.0,1.4,5.0,34.7,171.4,5.0,113.0,1.5,25.4,35.0,10.0,45 mins,4.5
+556,156,Pumpkin Swirl Cheesecake Yogurt Cupcakes,Dessert,1.0,4.0,5.0,16.0,117.0,2.0,24.0,0.5,12.5,25.0,25.0,50 mins,5.0
+557,157,Pumpkin Cupcakes with Pumpkin Cream Cheese Frosting,Dessert,1.0,1.5,3.0,23.0,121.0,,142.5,0.5,14.0,20.0,20.0,55 mins,4.3
+558,158,Pineapple Zucchini Cupcakes with Cream Cheese Frosting,Dessert,1.0,3.0,6.5,31.1,197.8,20.5,284.2,1.7,21.7,35.0,23.0,1 hr,5.0
+559,159,Chocolate Sorbet,dinner,1.0,1.7,1.2,24.7,97.7,,1.7,2.9,20.2,,,,4.67
+560,160,Piña Colada Sorbet,dinner,1.0,,1.5,20.0,91.0,,0.5,0.5,18.5,30.0,0.0,1 hr 30 mins,5.0
+561,161,Skinny Strawberry Fool,dessert,3.0,5.9,7.2,35.1,222.8,,52.0,2.1,,,,,
+562,162,Pink Lemonade Confetti Cupcakes,Dessert,1.0,1.0,2.5,17.5,97.5,,103.5,,10.0,15.0,25.0,40 mins,5.0
+563,163,Cherry Sorbet,Dessert,1.0,1.0,0.5,37.0,136.0,,5.0,2.5,31.0,,,,3.0
+564,164,Sweet Light Angel Food Cupcakes with Meringue Icing,Dessert,1.0,4.0,,26.5,122.0,,,,21.5,,,50 mins,4.0
+565,165,Strawberry Rhubarb Compote,breakfast,1.0,0.6,,8.0,33.0,,,1.7,5.0,,,,5.0
+566,166,Bananas Foster Topped Overnight French Toast,Dessert,1.0,10.5,5.0,59.0,295.0,50.0,115.0,1.5,32.0,10.0,40.0,8 hrs 50 mins,5.0
+567,167,Piña Colada Cupcakes,dessert,1.0,1.0,4.0,27.0,153.5,,,1.5,16.5,,,45 mins,4.25
+568,168,Pineapple Bliss Cupcakes,Dessert,1.0,0.5,0.8,20.9,93.5,,,0.2,12.2,,,,5.0
+569,169,Banana Nut Oatmeal Cookies,Dessert,2.0,3.5,7.0,28.0,176.0,,,1.6,14.0,,,,4.84
+570,170,Healthy Creme Brulee,breakfast,1.0,7.0,,35.0,168.0,5.0,120.0,0.5,31.0,5.0,5.0,10 mins,5.0
+571,171,Black and White Chocolate Chip Meringues,Dessert,1.0,1.0,2.1,8.2,55.6,,6.0,0.8,7.9,15.0,40.0,1 hr,4.8
+572,172,Strawberry Swirl Cheesecake,dessert,1.0,6.0,5.5,15.0,133.0,16.0,135.0,0.5,8.5,15.0,30.0,45 mins,4.17
+573,173,Dark Chocolate Chunk Bread Pudding,dessert,1.0,9.0,11.0,34.0,277.0,110.0,68.0,3.0,17.0,10.0,,1 hr 15 mins,5.0
+574,174,Chocolate Chocolate Chip Biscotti,lunch,1.0,1.9,2.9,18.2,100.9,17.5,41.0,1.1,10.0,15.0,30.0,45 mins,4.0
+575,175,Strawberry Kiwi Pavlova,dessert,1.0,3.5,0.5,51.0,221.5,,50.0,3.0,38.0,15.0,,1 hr 15 mins,
+576,176,Chocolate Ricotta Mousse,dessert,1.0,11.0,7.0,18.0,166.0,38.0,180.0,1.0,25.0,12.0,3.0,3 hrs 15 mins,5.0
+577,177,No-Bake Fudge Snow Balls,dessert,1.0,2.0,4.0,9.0,70.0,,,2.0,,20.0,0.0,20 mins,5.0
+578,178,Pumpkin Spiced Crepes with Pumpkin Butter,breakfast,1.0,3.8,1.1,23.5,107.1,18.3,33.4,1.7,0.1,,,,
+579,179,Low Fat Rice Krispy Treats,dessert,1.0,0.8,0.7,18.9,84.4,,,,,,,,5.0
+580,180,Phyllo Fruit Tart,dessert,1.0,4.5,6.0,26.0,183.0,,,3.0,,,,,
+581,181,Creamy Grape Salad Dessert,Dessert,1.0,5.5,8.0,34.0,171.0,,,1.5,,10.0,0.0,10 mins,5.0
+582,182,Fruit Kabobs,dessert,,,,,,,,,,,,,
+583,183,Low Fat Strawberry No-Bake Cheesecake,dessert,1.0,3.1,9.6,29.9,233.5,,,1.5,,,,,5.0
+584,184,Low Fat Banana Fritters,Dessert,4.0,3.2,3.0,22.7,124.8,,,1.5,,,,,5.0
+585,185,Red Velvet Cupcakes,Dessert,1.0,3.0,4.0,23.5,137.0,18.0,170.5,1.0,13.5,20.0,25.0,1 hr,5.0
+586,186,Chocolate Crepes with Strawberries,breakfast,1.0,3.5,1.5,24.0,139.5,17.0,36.5,1.0,13.5,10.0,35.0,45 mins,5.0
+587,187,Chocolate Covered Strawberries,dessert,1.0,0.5,3.0,6.8,49.0,,1.2,0.8,5.5,20.0,,20 mins,
+588,188,Chocolate Banana Soufflés,Dessert,6.0,4.8,3.6,23.5,131.2,106.0,33.0,3.2,14.0,15.0,15.0,30 mins,4.25
+589,189,Banana Cream Pie,dessert,1.0,2.5,11.5,34.5,255.0,13.0,163.5,2.0,20.5,,,,4.5
+590,190,Pineapple Zucchini Cake with Cream Cheese Frosting,Dessert,1.0,3.5,8.0,30.0,228.0,27.0,298.5,2.0,26.0,30.0,35.0,1 hr,4.84
+591,191,Low Fat Cream Cheese Frosting,Dessert,,1.0,3.0,8.0,64.9,,,2.0,7.4,,,,5.0
+592,192,Super Light Blueberry Cream Pie,dinner,1.0,3.0,9.0,33.0,230.0,1.5,128.5,2.0,19.0,10.0,,1 hr 10 mins,5.0
+593,193,Coconut Cream Pops,Dessert,,2.8,4.5,13.6,106.3,,,0.4,10.7,,,,5.0
+594,194,Blueberry Compote,Breakfast,2.0,0.5,,22.7,89.0,,,2.0,,,,,5.0
+595,195,No-Bake Cheesecake,dessert,1.0,3.0,12.0,23.0,181.0,14.5,168.0,1.0,6.5,20.0,0.0,3 hrs 20 mins,5.0
+596,196,Strawberries and Cream,dessert,3.0,0.3,1.7,6.8,31.2,,,1.2,5.8,,,,
+597,197,Banana Apricot Puff Pastry Tarts,dessert,1.0,,,,,,,,,,,40 mins,2.5
+598,198,Black Bean Brownies,Dessert,1.0,2.9,2.6,28.0,138.1,,,1.8,,,,,4.71
+599,0,Carrot Banana Protein Smoothie,breakfast,1.0,28.5,6.5,34.0,294.0,,290.5,7.0,17.5,5.0,0.0,5 mins,4.84
+600,1,Grapefruit-Ginger Kombucha Mocktail,,1.0,0.5,0.5,15.0,66.0,,1.5,0.5,12.5,,,,5.0
+601,2,Peanut Butter and Jelly Smoothie,lunch,1.0,6.0,11.0,29.0,222.0,,216.0,8.0,19.0,5.0,0.0,5 mins,5.0
+602,3,Orange Moscow Mule Mocktail,,1.0,1.0,,27.0,104.0,,,3.0,20.5,5.0,0.0,5 mins,5.0
+603,4,Zero-Proof Jalapeño Paloma,,1.0,0.5,,17.0,66.0,16.0,1.0,,14.0,5.0,0.0,5 mins,5.0
+604,5,Virgin Bloody Mary,appetizer,2.0,1.0,0.5,7.0,33.0,,295.0,1.5,4.5,10.0,0.0,10 mins,4.91
+605,6,Citrus Immunity Shots,,1.0,0.5,,6.0,25.0,,0.5,1.0,4.0,10.0,0.0,10 mins,4.67
+606,7,Boozy Watermelon Lime Granita,dessert,1.0,0.5,0.5,,109.0,,2.0,0.5,11.5,,0.0,3 hrs,5.0
+607,8,Tropical Mango Blueberry Lassi,Breakfast,1.0,8.0,6.0,34.5,215.0,2.5,221.0,5.0,24.5,5.0,0.0,5 mins,4.6
+608,9,Green Apple Lemon Cucumber Ginger Smoothie,Breakfast,1.0,2.0,0.5,30.5,110.0,,20.0,6.5,18.0,10.0,,10 mins,4.29
+609,10,Basil Cucumber Gin Cooler,,1.0,,,7.0,137.0,,7.0,,5.0,10.0,0.0,10 mins,5.0
+610,11,Summer Mango Stone Fruit Smoothie,Breakfast,1.0,2.0,0.5,35.0,122.0,,20.0,4.0,24.0,20.0,,20 mins,
+611,12,Chia Watermelon Fresca,,1.0,5.0,6.0,22.0,6.0,,5.0,6.0,15.0,5.0,,5 mins,5.0
+612,13,Pina Banana Colada Smoothie,breakfast,1.0,2.0,6.0,27.0,160.0,,95.0,4.0,18.0,5.0,,5 mins,4.75
+613,14,Bali Banana Date Smoothie,Breakfast,1.0,5.0,1.0,39.0,195.0,6.0,136.0,3.0,31.0,1.0,4.0,5 mins,4.75
+614,15,Superfood PB Banana and Cacao Green Smoothie,breakfast,1.0,6.0,11.5,21.0,188.0,,210.0,6.5,8.5,5.0,,5 mins,4.34
+615,16,Roasted Strawberry Protein Smoothie,cottage cheese,1.0,16.0,3.4,33.0,213.0,5.5,360.0,7.5,27.0,3.0,12.0,15 mins,4.63
+616,17,"Kale, Banana, Chia, Hemp Superfood Smoothie",breakfast,1.0,8.0,10.0,30.0,220.0,,158.0,8.0,14.0,5.0,,5 mins,4.75
+617,18,Blueberry Kale Smoothie,Breakfast,1.0,9.0,12.0,51.0,312.0,,241.0,10.0,31.0,5.0,,5 mins,
+618,19,Blueberry Banana Oatmeal Smoothie,breakfast,1.0,3.0,2.0,38.0,180.0,,52.5,4.0,8.0,5.0,,5 mins,4.0
+619,20,Watermelon Agua Fresca,lunch,1.0,1.5,1.0,16.5,73.0,,4.5,1.0,15.0,10.0,,10 mins,5.0
+620,21,Matcha Green Tea Shots,,2.0,1.0,2.0,10.0,55.0,,76.0,1.0,9.0,5.0,,5 mins,5.0
+621,22,Peach Banana Green Smoothie with Hemp Seeds,breakfast,16.0,7.0,8.0,31.0,205.0,,170.0,6.0,20.0,,,,4.34
+622,23,Mango Banana Hemp Seed Green Smoothie,Breakfast,16.0,5.0,6.0,27.0,173.5,,171.0,4.5,15.5,10.0,,10 mins,
+623,24,Tropical Papaya Batido Fruit Shake,breakfast,,3.0,1.0,49.0,205.0,,6.0,4.0,35.5,10.0,,10 mins,
+624,25,Shamrock Shake,dessert,1.0,7.0,6.0,23.0,169.5,2.0,90.5,2.5,19.0,10.0,0.0,10 mins,5.0
+625,26,Blueberry Banana PB Smoothie,Breakfast,1.0,13.0,4.0,48.5,261.0,,212.4,8.0,26.5,5.0,,5 mins,4.89
+626,27,Skinny Frozen Hot Chocolate,Dessert,,7.0,1.0,20.0,111.0,3.0,166.0,1.0,18.0,10.0,,10 mins,
+627,28,Iced Green Tea Mojito,,1.0,0.5,0.5,11.0,110.0,,4.0,0.5,9.0,10.0,,10 mins,
+628,29,Very Berry Banana Fro Yo Shake,dessert,1.0,5.6,2.1,48.0,211.7,,90.6,5.7,26.3,5.0,,5 mins,
+629,30,Citrus Margarita Spritzer,,1.0,0.5,0.5,12.0,137.0,,13.5,0.5,9.0,5.0,,5 mins,5.0
+630,31,Celery Cilantro Cocktail,,1.0,0.2,,19.9,135.0,,15.8,1.2,15.8,10.0,,10 mins,
+631,32,Skinny Green Tropical Smoothie,Breakfast,1.0,10.2,7.7,30.2,228.0,,70.5,3.9,19.4,5.0,,5 mins,4.5
+632,33,Watermelon Martini,,6.0,1.0,0.5,11.5,90.5,,2.5,0.5,7.5,15.0,,15 mins,
+633,34,Colombian Salpicón,dessert,1.0,0.5,0.5,14.0,52.0,,10.0,2.0,7.0,15.0,0.0,15 mins,5.0
+634,35,Freshly Brewed Ice Tea with Fresh Mint,,1.0,,,0.8,3.0,,0.1,,0.2,,,,3.0
+635,36,Horchata,Breakfast,1.0,3.0,0.5,31.5,138.0,1.0,30.5,1.5,2.5,10.0,0.0,8 hrs 10 mins,5.0
+636,37,Healthy Pumpkin Oatmeal Smoothie,breakfast,1.0,3.8,0.9,21.5,95.0,1.3,30.0,2.6,11.0,10.0,5.0,15 mins,5.0
+637,38,Pumpkin Smoothie,breakfast,1.0,10.6,0.5,40.0,185.5,1.2,66.8,2.6,10.2,5.0,0.0,5 mins,4.67
+638,39,Skinny Pumpkin Spice Latte,breakfast,1.0,6.6,0.4,20.8,115.6,3.7,100.0,0.7,4.7,10.0,5.0,15 mins,5.0
+639,40,Nojito (Virgin Mojito Mocktail),,1.0,0.5,0.1,15.2,58.5,,,0.9,,,,,
+640,41,Skinny Margarita,,1.0,0.2,,3.3,185.5,,1.0,0.2,1.0,5.0,,5 mins,
+641,42,Mango Peach Smoothie,Breakfast,1.0,2.3,0.3,26.0,99.7,,,5.0,,,,,5.0
+642,43,Triple Berry Smoothie,breakfast,1.0,9.4,0.3,9.7,75.9,,40.3,2.7,6.0,,,,
+643,44,Very Blueberry Smoothie,Breakfast,1.0,3.4,,16.2,80.5,,,3.0,,,,,
+644,45,Pomegranate Martini,,4.0,0.4,,13.1,117.0,,11.5,,13.0,3.0,,3 mins,
+645,46,Skinny Eggnog Latte,,,,,,73.0,,,,,,,,
+646,47,Skinny Eggnog,,1.0,5.3,2.5,15.3,106.7,,,,,,,,4.5
+647,48,Mango Lassi,Breakfast,1.0,9.2,0.3,26.7,138.7,1.5,22.5,1.3,,5.0,,5 mins,4.75
+648,49,Wine Spritzer,dinner,4.0,,,0.5,40.0,,15.5,,,2.0,,2 mins,
+649,50,Mango Bellini,Breakfast,1.0,,,3.5,86.5,,,,1.5,3.0,,3 mins,
+650,51,Skinny Cuban Mojito,,1.0,,,5.0,102.0,,44.5,,0.5,5.0,,5 mins,3.0
+651,0,Italian Shrimp Salad,lunch,1.0,20.0,11.5,5.0,198.0,152.0,442.5,1.5,1.0,20.0,0.0,3 hrs 20 mins,4.86
+652,1,Deviled Eggs,appetizer,2.0,6.3,7.5,1.0,96.8,187.0,156.1,,0.3,10.0,15.0,25 mins,4.78
+653,2,Spanish Tortilla with Pimenton Aioli,appetizer,1.0,9.0,14.5,21.5,247.0,188.0,363.5,2.0,2.5,15.0,,1 hr 15 mins,4.44
+654,3,Crispy Butter Beans,appetizer,1.0,8.5,8.0,27.5,187.0,,777.0,8.5,3.0,5.0,15.0,20 mins,4.34
+655,4,Bloody Mary Deviled Eggs,Appetizer,2.0,9.0,7.5,1.5,113.0,197.5,1289.5,0.5,1.0,15.0,20.0,35 mins,5.0
+656,5,White Bean Crostini,Appetizer,2.0,3.0,2.0,10.0,67.0,,144.0,1.5,0.5,10.0,5.0,15 mins,5.0
+657,6,Cacio e Pepe Cheese Crisps,appetizer,2.0,3.5,4.0,1.0,58.0,13.5,255.5,,,10.0,10.0,30 mins,5.0
+658,7,Sugar Plum Baked Brie Bites,appetizer,1.0,2.5,5.0,6.0,78.0,9.5,133.0,,2.0,15.0,15.0,30 mins,5.0
+659,8,Spinach-Artichoke Crostini,appetizer,2.0,4.5,2.5,15.0,97.0,7.5,219.0,2.0,2.0,10.0,20.0,30 mins,4.67
+660,9,Mummy Hot Dogs,appetizer,1.0,6.0,2.5,8.0,81.0,15.5,342.0,0.5,0.5,30.0,12.0,52 mins,5.0
+661,10,Mummy Jalapeno Poppers,appetizer,1.0,4.0,2.0,8.0,65.0,7.0,162.5,0.5,1.0,30.0,30.0,1 hr,5.0
+662,11,Hummus,Appetizer,1.0,10.0,12.0,28.5,252.0,,447.5,7.5,4.5,15.0,0.0,15 mins,4.95
+663,12,Corn Salsa,Appetizer,1.0,2.0,0.5,12.0,57.0,,10.0,2.0,4.0,15.0,0.0,1 hr 15 mins,5.0
+664,13,Spicy Salmon Sushi Pizza,Dinner,1.0,24.5,26.5,17.0,403.0,68.0,527.0,4.5,2.0,5.0,12.0,20 mins,5.0
+665,14,Grilled Pesto Chicken and Tomato Kebabs,dinner,1.0,18.0,7.5,3.0,147.0,2.5,104.0,1.0,,10.0,10.0,1 hr 20 mins,5.0
+666,15,Vegetable Charcuterie Board,asparagus,,,,,,,,,,20.0,0.0,20 mins,5.0
+667,16,Chicken Summer Rolls,Appetizer,2.0,23.0,16.0,30.0,299.0,98.0,899.5,2.0,6.0,10.0,30.0,40 mins,4.84
+668,17,Artichoke Dip,appetizer,1.0,4.5,4.0,4.8,73.7,,,0.7,,5.0,20.0,25 mins,5.0
+669,18,Best Guacamole Recipe,Appetizer,1.0,1.0,8.0,6.0,93.0,,75.0,4.0,,5.0,0.0,5 mins,5.0
+670,19,Pico de Gallo,Appetizer,1.0,1.0,0.5,8.0,36.5,,13.0,1.5,0.3,5.0,0.0,5 mins,5.0
+671,20,Chicken Satay with Spicy Peanut Sauce,boneless chicken thighs,4.0,34.5,9.0,8.0,265.0,103.5,918.5,1.0,5.5,20.0,10.0,40 mins,4.87
+672,21,How To Make a Colorful Crudite Platter,appetizer,,,,,,,,,,20.0,0.0,15 mins,
+673,22,Baked Salmon Cakes,appetizer,1.0,7.0,3.0,8.0,87.0,23.0,297.0,1.0,1.0,5.0,25.0,30 mins,4.91
+674,23,Buffalo Chicken Dip,appetizer,1.0,15.0,6.5,4.5,121.0,48.0,707.0,,2.5,10.0,30.0,40 mins,4.94
+675,24,Baked Buffalo Chicken Jalapeño Poppers,appetizer,2.0,7.0,5.0,5.0,92.0,14.0,346.0,1.0,1.0,20.0,25.0,45 mins,5.0
+676,25,"Loaded Nachos with Ground Turkey, Beans and Cheese",appetizer,1.0,28.0,17.5,45.0,386.0,32.0,990.0,1.5,8.5,10.0,15.0,25 mins,4.96
+677,26,Buffalo Chicken Meatballs,dinner,1.0,4.0,2.0,1.0,37.0,26.0,135.0,,,15.0,20.0,35 mins,4.92
+678,27,Tortilla Encrusted Chicken Tenders,Appetizer,2.0,34.0,11.0,22.0,331.0,137.0,695.0,1.5,2.0,5.0,,25 mins,4.95
+679,28,Breaded Shrimp,Dinner,1.0,20.0,3.0,10.0,149.0,145.0,934.5,0.5,1.0,15.0,10.0,25 mins,4.86
+680,29,Whipped Feta Dip,appetizer,1.0,7.5,13.0,2.5,155.0,36.0,437.0,0.5,0.5,15.0,0.0,15 mins,4.91
+681,30,Spinach Dip Stuffed Mushrooms,appetizer,3.0,7.0,7.0,5.0,105.0,20.0,219.0,1.0,2.0,15.0,25.0,40 mins,5.0
+682,31,"Veggie Stromboli with Mushroom, Spinach and Mozzarella",appetizer,1.0,11.0,6.0,31.5,217.5,7.5,519.5,1.5,3.5,20.0,35.0,55 mins,5.0
+683,32,Butternut Squash Galette,dinner,1.0,5.5,15.5,32.0,274.0,43.5,410.0,2.0,7.0,30.0,,1 hr 30 mins,5.0
+684,33,How To Make a Charcuterie Board,appetizer,,,,,,,,,,30.0,0.0,30 mins,4.78
+685,34,Greek Yogurt Caesar Dip,,1.0,4.5,4.0,3.5,68.0,9.0,207.0,0.5,1.5,10.0,0.0,25 mins,5.0
+686,35,Oysters Rockefeller,appetizer,2.0,11.0,4.5,7.5,116.0,55.5,167.5,0.5,1.0,20.0,10.0,30 mins,5.0
+687,36,Asian Chicken Lettuce Wraps,Lettuce Wraps,1.0,8.5,3.0,9.5,102.0,32.0,344.0,1.0,4.5,10.0,40.0,50 mins,5.0
+688,37,Everything Bagel Pigs in a Blanket,snacks,2.0,12.0,5.0,14.0,160.0,32.0,755.0,0.5,1.0,20.0,25.0,55 mins,5.0
+689,38,Pizza Sausage Rolls,dinner,1.0,22.0,10.0,30.0,302.0,51.0,957.0,1.5,4.0,20.0,30.0,50 mins,4.91
+690,39,Baked Mexican Layer Dip,appetizer,1.0,15.5,8.5,11.5,173.0,37.0,550.5,3.5,2.0,10.0,50.0,1 hr,4.77
+691,40,Tuna Tartare,appetizer,1.0,11.0,6.5,2.5,114.0,16.0,342.5,1.5,0.5,10.0,0.0,10 mins,5.0
+692,41,Air Fryer Popcorn Chicken,appetizer,15.0,30.0,8.0,21.0,283.0,129.0,385.0,1.5,2.0,30.0,10.0,40 mins,4.94
+693,42,"Black Bean, Avocado, Cucumber and Tomato Salad",lunch,1.0,3.5,4.0,12.5,94.0,,152.0,4.0,1.5,10.0,0.0,10 mins,4.67
+694,43,Air Fryer Empanadas,lunch,1.0,11.0,5.0,22.0,183.0,16.0,196.0,1.0,2.5,10.0,16.0,30 mins,4.82
+695,44,Greek Turkey Meatballs,appetizer,4.0,27.0,11.0,13.5,254.0,,,3.5,,10.0,15.0,25 mins,4.82
+696,45,Tuna Croquettes (Baked or Air Fryer),canned tuna,2.0,22.5,3.5,21.5,215.0,69.0,426.5,1.5,1.5,10.0,40.0,1 hr,4.8
+697,46,Mini Bell Pepper Loaded Turkey “Nachos”,lunch,7.0,18.0,11.0,6.5,187.0,62.0,418.0,1.0,0.5,15.0,25.0,40 mins,4.91
+698,47,Spinach and Bacon Stuffed Mushrooms,Appetizer,1.0,3.0,1.5,3.0,34.5,2.5,58.5,1.0,0.5,15.0,30.0,45 mins,4.91
+699,48,Air Fryer Buffalo Chicken Nuggets,lunch,,27.0,3.0,9.5,180.0,83.0,501.5,0.5,1.0,5.0,16.0,21 mins,4.95
+700,49,Jalapeno Poppers,appetizer,2.0,4.0,2.5,3.5,52.0,10.0,92.0,0.5,1.5,15.0,20.0,35 mins,4.93
+701,50,Jalapeno Popper “Nachos”,appetizer,2.0,10.0,6.5,3.0,111.0,25.5,262.0,1.0,2.0,15.0,30.0,45 mins,4.93
+702,51,Pepperoni Pizza Bites,appetizer,4.0,18.0,9.5,31.0,286.0,30.0,974.0,1.5,4.0,10.0,30.0,40 mins,4.81
+703,52,Sausage and Broccoli Rabe Egg Rolls (Air Fryer or Oven),appetizer,1.0,10.0,3.5,15.0,136.0,29.5,465.0,1.0,1.0,15.0,30.0,45 mins,4.5
+704,53,Chilled Calamari Salad with Lemon and Parsley,appetizer,1.0,18.0,2.0,8.0,122.0,,66.0,0.9,1.2,10.0,5.0,15 mins,5.0
+705,54,Drunken Mussels,appetizer,11.0,29.0,12.0,11.0,307.0,75.5,858.5,0.5,0.5,10.0,15.0,25 mins,5.0
+706,55,Waffled Vegetable Latkes,Appetizer,2.0,9.0,4.0,35.0,205.0,139.5,575.5,6.0,6.0,25.0,5.0,30 mins,4.75
+707,56,Baked Brie Phyllo Tarts with Craisins and Walnuts,appetizer,1.0,2.0,3.0,6.5,60.0,,59.0,0.5,4.0,8.0,7.0,15 mins,5.0
+708,57,Sausage and Pepper Stromboli (Stuffed Sausage Bread),appetizer,1.0,12.5,5.5,43.5,272.0,20.5,671.0,1.5,1.0,10.0,50.0,2 hrs,5.0
+709,58,Shrimp Ceviche,appetizer,1.0,24.0,2.0,7.0,147.0,167.0,553.0,1.0,2.0,10.0,0.0,30 mins,5.0
+710,59,Shrimp Egg Rolls (Air Fryer or Baked),Appetizer,1.0,11.0,3.0,16.0,137.0,,414.0,1.0,1.5,10.0,15.0,25 mins,4.93
+711,60,Asparagus and Feta Tartlet with Phyllo Crust,Asparagus,1.0,4.5,5.0,7.5,91.0,73.5,170.0,0.5,1.5,15.0,35.0,50 mins,4.62
+712,61,Spicy Crunchy Tuna Tartare,appetizer,1.0,18.6,10.3,7.9,197.6,,,3.1,,15.0,0.0,15 mins,5.0
+713,62,Air Fryer Lobster Jalapeño Empanadas,lunch,1.0,9.5,5.0,21.5,165.0,56.0,252.0,1.0,2.0,10.0,20.0,30 mins,
+714,63,Air Fryer Buffalo Chicken Zucchini Skins,appetizer,1.0,9.5,3.0,3.5,80.0,25.5,452.5,1.0,2.0,15.0,10.0,25 mins,5.0
+715,64,Caramelized Onion Empanadas (Chilean pequenes),appetizer,2.0,5.0,9.5,29.0,218.0,41.5,497.0,3.0,6.0,25.0,50.0,1 hr 15 mins,4.13
+716,65,Pastrami Reuben Egg Rolls,appetizer,2.0,23.0,9.5,44.0,360.0,50.0,1297.0,3.0,3.0,15.0,10.0,25 mins,4.97
+717,66,Pumpkin Pie Dip,appetizer,1.0,2.0,4.0,21.0,105.0,1.0,10.0,1.0,17.0,15.0,0.0,15 mins,4.93
+718,67,Easy Crustless Spinach and Feta Pie,appetizer,1.0,9.0,5.0,12.0,126.0,69.0,433.0,2.5,1.5,10.0,30.0,40 mins,4.6
+719,68,Salmon Croquettes with Dill Sauce,appetizer,1.0,26.0,16.0,4.5,278.0,169.0,542.0,0.5,1.0,20.0,10.0,30 mins,3.96
+720,69,The Best Baba Ganoush,appetizer,1.0,2.5,9.0,15.5,140.0,,743.5,4.5,5.0,5.0,25.0,30 mins,4.7
+721,70,Jamaican Beef Patties,Appetizer,1.0,11.5,4.5,25.0,191.0,29.0,412.0,2.0,1.0,30.0,30.0,2 hrs,3.96
+722,71,Avocado Mango Salsa,appetizer,1.0,1.5,6.0,11.5,96.0,,6.5,3.0,7.0,5.0,0.0,5 mins,4.95
+723,72,Eggplant Sticks (Baked or Air Fryer),appetizer,1.0,4.5,3.0,12.0,87.0,2.0,441.0,2.5,1.0,10.0,15.0,25 mins,4.92
+724,73,Whole Roasted Baby Cauliflower,appetizer,1.0,1.5,3.5,3.5,46.5,,600.0,1.5,1.5,5.0,40.0,45 mins,4.77
+725,74,Air Fryer Bacon-Burger Bites,appetizer,2.0,13.5,6.5,2.0,125.0,39.5,521.5,0.5,0.5,10.0,20.0,30 mins,4.91
+726,75,Stuffed Mushrooms with Broccoli Rabe and Sausage,appetizer,3.0,13.0,5.5,6.0,121.0,45.0,422.0,1.0,1.5,15.0,50.0,1 hr 5 mins,5.0
+727,76,Baked Turkey Croquettes,Dinner,3.0,13.8,6.2,26.9,217.0,60.5,713.5,2.7,2.0,20.0,15.0,35 mins,4.69
+728,77,Prosciutto Wrapped Figs with Blue Cheese (Grill or Air Fryer),appetizer,2.0,7.5,10.5,27.0,221.0,20.5,572.0,4.0,22.0,10.0,5.0,15 mins,5.0
+729,78,Air Fryer Bacon Wrapped Scallops,dinner,4.0,20.0,4.0,3.5,138.0,32.0,654.0,,,5.0,20.0,25 mins,4.82
+730,79,Caprese Salad,appetizer,1.0,6.5,7.5,2.0,100.0,22.5,180.0,0.5,0.5,5.0,0.0,5 mins,
+731,80,Air Fryer Shishito Peppers,asparagus,2.0,1.5,,2.5,15.0,,76.5,0.5,2.0,2.0,8.0,10 mins,5.0
+732,81,Bruschetta with Tomato and Basil,appetizer,1.0,1.1,0.6,9.1,49.6,,2.0,0.5,0.2,10.0,15.0,25 mins,4.91
+733,82,Grilled Vegetable Platter with Yogurt Mint Sauce,asparagus,1.0,11.0,9.5,21.0,196.0,6.5,167.5,6.0,10.0,15.0,10.0,25 mins,5.0
+734,83,Zesty Lime Shrimp and Avocado Salad,appetizer,1.0,25.0,8.0,7.0,197.0,221.0,330.0,3.0,,20.0,0.0,20 mins,4.91
+735,84,Everything Parmesan Crisps,appetizer,1.0,5.5,4.5,1.5,66.0,10.0,233.0,0.5,0.5,15.0,15.0,30 mins,5.0
+736,85,Crispy Avocado Egg Rolls (Air Fryer or Oven),Appetizer,1.0,3.5,8.0,17.5,148.0,4.5,304.0,3.0,1.5,15.0,15.0,30 mins,4.43
+737,86,Buffalo Chicken Egg Rolls,appetizer,2.0,20.0,6.0,24.5,231.5,24.5,1020.0,1.0,1.5,15.0,30.0,45 mins,4.88
+738,87,Air Fryer Bacon Wrapped Chicken Bites,appetizer,3.0,16.0,3.5,,98.0,44.0,130.5,,,10.0,8.0,18 mins,4.75
+739,88,How To Make An Antipasto Salad Platter,appetizer,,,,,,,,,,10.0,0.0,10 mins,5.0
+740,89,Leftover Turkey Pot Pie Empanadas,Appetizer,1.0,9.5,5.0,24.5,174.0,31.0,315.0,0.5,,10.0,30.0,40 mins,5.0
+741,90,Zucchini Carpaccio,appetizer,1.0,3.0,6.0,5.0,81.0,5.0,90.0,2.0,2.0,20.0,,20 mins,5.0
+742,91,Steamed Mussels with Piri Piri,dinner,1.0,13.5,18.0,7.0,274.0,36.0,723.5,0.5,1.0,20.0,6.0,26 mins,5.0
+743,92,Zucchini Pork Dumplings,appetizer,5.0,16.0,14.5,12.0,240.0,51.0,616.5,2.0,5.5,45.0,15.0,1 hr,4.62
+744,93,Avocado Fries with Lime Dipping Sauce (Air Fryer or Oven),appetizer,4.0,7.0,12.5,15.0,197.0,94.5,521.5,4.0,1.5,,,15 mins,4.63
+745,94,Smoked Salmon Pinwheels,appetizer,4.0,13.5,10.0,5.0,168.0,22.0,898.0,1.0,1.5,,,20 mins,5.0
+746,95,Tuna Deviled Eggs,lunch,4.0,26.5,16.0,3.0,264.0,397.0,472.0,,1.0,20.0,,20 mins,4.59
+747,96,Bangin Good Shrimp,lunch,2.0,24.0,7.5,12.0,215.0,178.0,438.0,1.0,6.0,15.0,5.0,20 mins,4.97
+748,97,Air Fryer Tostones (Twice Air Fried Plantains),appetizer,4.0,1.0,,27.0,102.0,,250.0,2.0,12.0,5.0,20.0,25 mins,4.5
+749,98,Easy Garlic Knots (Air Fryer or Baked),appetizer,1.0,5.0,1.5,14.0,87.0,3.0,145.0,0.5,1.0,10.0,20.0,30 mins,4.84
+750,99,Cauliflower Rice (Arancini) Balls,Cauliflower Rice,3.0,21.5,11.5,15.6,257.0,95.5,644.0,3.0,2.5,5.0,25.0,30 mins,4.74
+751,100,Easy No-Cook Salsa Recipe,appetizer,3.0,1.0,,5.0,28.0,,201.0,1.0,2.0,5.0,0.0,5 mins,4.91
+752,101,California Spicy Crab Stuffed Avocado,Appetizer,1.0,12.0,13.0,7.0,194.0,60.0,746.0,4.0,1.0,10.0,0.0,10 mins,4.88
+753,102,Ahi Tuna Watermelon Salad,appetizer,1.0,29.5,5.5,13.0,217.0,44.0,429.5,1.0,8.0,10.0,,1 hr,5.0
+754,103,Baked Zucchini Sticks (Oven or Air Fryer),appetizer,16.0,9.0,2.0,26.0,154.0,,327.0,3.0,7.0,10.0,25.0,35 mins,4.72
+755,104,Waffled Crab Cakes,appetizer,1.0,15.5,4.5,9.5,133.0,111.0,635.0,1.5,0.5,,,30 mins,4.78
+756,105,Baked Shrimp Taquitos,lunch,2.0,18.0,7.5,27.5,245.0,98.5,201.5,4.0,0.5,15.0,15.0,30 mins,4.82
+757,106,Salsa Verde,appetizer,1.0,0.5,0.5,4.0,20.0,,161.0,1.2,2.3,10.0,20.0,30 mins,5.0
+758,107,Asparagus and Caramelized Onion Tartlets,Asparagus,2.0,3.0,2.5,5.0,48.0,4.0,77.0,0.5,0.5,10.0,20.0,30 mins,5.0
+759,108,Korean-Inspired Turkey Gochujang Meatballs,appetizer,3.0,14.0,7.0,6.0,140.0,75.0,321.0,0.5,3.0,10.0,25.0,35 mins,5.0
+760,109,Burger Slider Skewers,burger,1.0,8.0,2.5,1.5,66.0,20.0,293.5,0.5,0.5,20.0,10.0,30 mins,4.75
+761,110,Hot Spinach Dip,Appetizer,1.0,5.5,6.0,3.5,85.0,14.0,181.5,0.5,0.5,10.0,20.0,30 mins,4.69
+762,111,Shrimp Ceviche Cocktail,appetizer,1.0,11.0,4.0,5.0,100.0,98.0,135.0,2.0,1.0,20.0,0.0,20 mins,5.0
+763,112,Sweet Potato and Carrot “Tots”,Appetizer,5.0,4.0,2.0,16.0,98.0,33.5,255.0,2.0,1.5,,,40 mins,4.67
+764,113,Baked Sweet Potato Skins,appetizer,2.0,8.0,6.0,25.0,150.5,6.0,445.0,5.0,6.0,10.0,50.0,1 hr,
+765,114,Baked Mozzarella Sticks,appetizer,2.0,7.5,5.0,7.0,87.0,21.0,168.5,0.5,0.5,15.0,10.0,1 hr 25 mins,4.6
+766,115,Shrimp Summer Rolls with Peanut Hoisin Dipping Sauce,appetizer,1.0,5.0,6.0,17.0,138.0,22.0,193.0,3.0,3.0,30.0,,30 mins,4.82
+767,116,Hot Spinach Artichoke Dip,Appetizer,1.0,5.0,4.5,3.5,73.0,10.5,245.0,1.0,0.5,10.0,5.0,15 mins,4.95
+768,117,Sweet ‘n Spicy BBQ Turkey Meatballs with Bacon,appetizer,3.0,12.0,5.5,5.0,122.0,60.0,207.0,0.5,3.0,25.0,16.0,40 mins,5.0
+769,118,Spicy Garlic Edamame,appetizer,1.0,10.0,7.0,14.0,152.0,,573.0,4.5,7.0,5.0,10.0,15 mins,5.0
+770,119,Avocado and Lump Crab Salad,lunch,1.0,9.5,13.0,9.0,178.0,50.0,447.0,5.0,1.0,10.0,0.0,10 mins,4.91
+771,120,Eggplant Meatballs,appetizer,4.0,10.5,7.5,31.0,222.5,41.0,1066.0,6.0,6.0,20.0,30.0,50 mins,4.85
+772,121,Shrimp Salsa,appetizer,1.0,14.5,0.5,4.0,74.0,107.0,277.0,1.0,2.0,10.0,0.0,15 mins,5.0
+773,122,Grilled Rainbow Peppers with Herb Cream Cheese,appetizer,4.0,3.0,4.0,4.0,94.0,8.0,131.0,0.5,3.0,15.0,15.0,30 mins,3.34
+774,123,Watermelon “Pizza” with Feta and Balsamic,appetizer,2.0,2.0,3.0,14.0,90.0,6.0,148.0,1.0,12.0,15.0,0.0,15 mins,4.67
+775,124,Mushroom Ceviche,appetizer,1.0,3.0,5.0,11.0,90.0,,406.0,2.0,2.0,15.0,,3 hrs 15 mins,5.0
+776,125,Spiralized Mediterranean Beet and Feta Skillet Bake,appetizer,1.0,5.0,12.0,9.0,160.5,25.0,483.0,2.0,3.0,,,30 mins,5.0
+777,126,Two Tomato Bruschetta,appetizer,2.0,5.0,9.0,17.0,162.0,9.0,338.5,2.5,3.5,10.0,10.0,20 mins,
+778,127,Honey-Lime Meatballs (Slow Cooker),appetizer,4.0,14.0,4.0,12.0,140.0,34.0,350.0,1.0,5.0,20.0,,4 hrs 20 mins,5.0
+779,128,Crab Guacamole,dinner,1.0,6.0,6.0,4.5,96.0,25.0,144.0,2.0,,10.0,0.0,10 mins,
+780,129,Mini Greek Spinach Pies,Appetizer,2.0,2.0,4.0,6.0,69.0,2.0,107.0,1.0,1.0,10.0,35.0,45 mins,5.0
+781,130,Baked Buffalo Chicken Nuggets,appetizer,10.0,28.0,6.0,11.0,211.0,83.0,379.0,2.0,,10.0,15.0,25 mins,5.0
+782,131,Chilled Lobster Salad with Sweet Summer Corn and Tomatoes,Appetizer,1.0,39.0,10.5,25.5,349.0,122.0,668.0,4.0,3.5,10.0,5.0,15 mins,5.0
+783,132,BBQ Shrimp Skewers,appetizer,1.0,23.0,2.0,6.0,139.0,172.0,253.0,,4.0,20.0,10.0,30 mins,
+784,133,Baked Tostones (Green Plantains),appetizer,6.0,1.0,1.0,36.5,137.0,,6.0,3.0,16.0,10.0,20.0,30 mins,4.89
+785,134,Picadillo Quesadillas,lunch,1.0,22.0,10.0,15.0,211.0,30.0,563.0,8.0,1.0,10.0,5.0,15 mins,5.0
+786,135,Asian Turkey Meatballs With Lime Sesame Dipping Sauce,dinner,3.0,30.0,15.0,7.0,300.0,148.0,866.0,1.0,1.0,20.0,15.0,35 mins,4.74
+787,136,Spicy Shrimp with Chilies and Garlic,appetizer,2.0,23.0,4.0,3.0,147.0,172.0,171.0,,,7.0,8.0,15 mins,
+788,137,Crab and Avocado Phyllo Bites,appetizer,1.0,2.0,2.0,3.0,37.0,12.0,134.0,,,10.0,10.0,20 mins,5.0
+789,138,Skinny Buffalo Chicken Strips,appetizer,2.0,21.0,2.0,2.0,111.0,43.0,640.0,1.0,,10.0,20.0,30 mins,4.72
+790,139,Baked Mini Spinach and Sausage Arancini,Appetizer,2.0,5.0,3.0,11.0,89.0,27.0,254.0,1.0,1.0,,,45 mins,
+791,140,Ceviche Cucumber Cups,lunch,2.0,4.0,1.0,2.0,31.0,8.0,16.0,,1.0,,,,5.0
+792,141,Cauliflower Tots,Appetizer,8.0,10.0,5.0,16.0,148.0,57.0,397.0,3.0,3.0,10.0,20.0,30 mins,4.75
+793,142,Sweet Potato Irish Nachos,appetizer,1.0,9.0,9.0,28.0,227.0,10.0,189.0,5.0,10.0,15.0,15.0,30 mins,5.0
+794,143,Grilled Cilantro Lime Shrimp Kebabs,appetizer,1.0,13.0,1.0,3.0,74.0,94.0,384.0,1.0,,25.0,5.0,30 mins,5.0
+795,144,Southwestern Black Bean Salad,appetizer,1.0,3.0,3.5,12.0,79.5,,127.0,3.0,1.0,5.0,0.0,35 mins,5.0
+796,145,Guacamole Deviled Eggs,appetizer,2.0,5.0,6.0,3.0,88.0,62.0,60.0,2.0,0.5,30.0,,30 mins,4.88
+797,146,Hot and Spicy Buffalo Shrimp Dip,appetizer,1.0,13.0,7.0,2.0,120.0,87.0,672.0,,0.9,10.0,30.0,40 mins,4.0
+798,147,Skinny Queso Dip,appetizer,1.0,6.5,4.5,7.0,92.5,,143.0,1.0,2.0,,,30 mins,4.67
+799,148,Spicy Buffalo Cauliflower Bites,appetizer,,4.0,2.0,21.5,119.5,,1172.0,3.0,0.2,5.0,25.0,30 mins,4.35
+800,149,Hot and Cheesy Crab and Artichoke Dip,appetizer,1.0,6.0,4.0,4.0,78.0,14.5,427.0,,,15.0,30.0,45 mins,3.86
+801,150,Veggie Shooters (Crudites with Ranch Dip),appetizer,1.0,4.0,2.0,10.0,73.0,4.4,331.0,1.0,4.0,20.0,,20 mins,5.0
+802,151,Skinny Buffalo Chicken Potato Skins,lunch,1.0,8.0,2.0,7.0,82.0,17.0,110.0,1.0,0.5,15.0,30.0,4 hrs 45 mins,4.0
+803,152,Pan con Tomate (Spanish Tomato Bread),appetizer,2.0,5.5,4.5,31.0,186.0,,385.0,2.0,,10.0,5.0,15 mins,5.0
+804,153,Oven “Fried” Pickles with light Herb Ranch Dip,Appetizer,6.0,2.4,1.4,9.1,58.6,23.0,1248.8,0.6,0.3,30.0,10.0,40 mins,4.0
+805,154,Bang Bang Grilled Shrimp Skewers,appetizer,2.0,18.5,4.5,4.0,140.0,140.0,267.0,0.5,3.0,10.0,8.0,18 mins,5.0
+806,155,Skinny Texas Cheese Fries,Appetizer,1.0,10.5,12.0,30.0,265.0,19.5,305.5,3.0,1.5,10.0,15.0,25 mins,4.75
+807,156,Loaded Turkey Santa Fe Baked Potato Skins,breakfast,1.0,6.5,2.0,10.0,76.5,8.5,93.0,1.5,0.5,10.0,55.0,1 hr 5 mins,5.0
+808,157,Asian Flank Steak Skewers,appetizer,4.0,18.0,7.0,2.0,150.0,,400.0,0.5,,,10.0,1 hr 10 mins,4.1
+809,158,Bacon Wrapped Chicken Bites,appetizer,3.0,16.0,3.5,,98.0,44.0,130.5,,,5.0,24.0,30 mins,4.67
+810,159,Easy Baked Coconut Shrimp,appetizer,3.0,10.0,3.5,22.0,161.5,,164.0,2.0,15.5,,,30 mins,4.88
+811,160,"Summer Tomatoes, Corn, Crab and Avocado Salad",appetizer,1.0,9.0,6.0,11.5,131.0,,263.5,4.0,2.5,,,15 mins,5.0
+812,161,Persian Turkey Kofta Kebabs,appetizer,3.0,23.0,8.5,5.0,185.5,79.0,114.5,1.0,0.5,15.0,10.0,55 mins,4.78
+813,162,Salsa Picante Roja (Spicy Red),Appetizer,1.0,0.5,1.0,3.5,22.5,,6.0,1.0,0.5,10.0,20.0,30 mins,
+814,163,Healthy Baked Chicken Nuggets,lunch,4.0,26.0,4.5,8.0,188.0,57.0,427.0,,0.5,,,30 mins,4.73
+815,164,Baked Onion Rings,burger,1.0,3.0,0.6,15.0,75.0,1.0,53.0,2.0,2.0,10.0,12.0,22 mins,3.5
+816,165,Papaya Avocado Salad,Appetizer,,2.0,8.5,10.5,112.5,,,6.0,,,,20 mins,5.0
+817,166,Baked Seasoned Fries with Skinny Garlic Aioli,Appetizer,1.0,3.5,5.3,36.1,198.0,,22.1,4.0,,,,,5.0
+818,167,Southwest Turkey Meatballs,cauliflower rice,2.0,10.5,2.0,2.5,67.0,,,0.5,,10.0,15.0,25 mins,5.0
+819,168,Creamy Parmesan Spinach Dip,Appetizer,1.0,3.2,6.2,3.3,79.4,,,0.9,,,,,4.8
+820,169,Chipotle Sweet Potato Fries,Appetizer,6.0,3.0,5.0,42.0,223.0,,309.0,5.5,7.0,5.0,25.0,30 mins,5.0
+821,170,Skinny Ranch Dip,Appetizer,1.0,0.8,3.5,1.7,41.3,,,0.2,,,,,5.0
+822,171,Shrimp Salad on Cucumber Slices,appetizer,7.0,18.8,2.8,3.7,117.0,165.0,275.0,1.0,,10.0,0.0,10 mins,5.0
+823,172,Tzatziki Sauce,Appetizer,1.0,2.6,,1.7,18.0,,,0.1,,10.0,0.0,10 mins,4.89
+824,173,Steamed Clams with Fresh Basil,lunch,1.0,22.4,8.5,6.1,234.3,,,0.2,,,,,5.0
+825,174,Edamame Hummus,lunch,1.0,6.1,6.7,7.2,107.4,,11.4,3.8,0.5,,,,5.0
+826,175,Taco Dip,appetizer,1.0,2.0,3.5,4.5,59.0,11.5,223.5,0.5,2.0,20.0,0.0,20 mins,4.85
+827,176,Broccoli and Cheddar Skinny Potato Skins,Appetizer,2.0,13.1,2.9,30.0,192.7,,,4.3,,,,,
+828,177,Easy Beef Carpaccio,appetizer,1.0,8.3,5.3,0.6,79.6,,,0.1,,,,,
+829,178,Baked Lump Crab Cakes with Red Pepper Chipotle Lime Sauce,Appetizer,1.0,13.0,9.0,12.0,174.0,,,1.3,,15.0,20.0,1 hr 5 mins,4.92
+830,179,Italian Stuffed Artichokes,lunch,,17.6,10.7,46.2,357.9,,,8.5,,,,,5.0
+831,180,Chicken Quesadilla,Dinner,1.0,47.5,31.5,30.5,435.0,102.5,1009.5,16.5,5.0,10.0,15.0,25 mins,5.0
+832,181,Mozzarella Basil and Tomato Skewers,appetizer,1.0,7.3,7.2,3.3,106.1,,137.1,0.6,0.1,,,,
+833,182,Chickpea and Roasted Pepper Dip,Appetizer,1.0,6.0,5.0,28.0,171.0,,323.0,5.0,,,,,5.0
+834,183,Mussels in Basil Cream Sauce,Appetizer,14.0,20.6,24.0,11.7,370.6,,973.1,0.4,2.1,,,,5.0
+835,184,Skinny Buffalo Wings,dinner,2.0,19.0,13.5,4.0,204.0,56.5,812.0,0.6,1.0,5.0,20.0,55 mins,4.55
+836,185,Baked Tostones,appetizer,1.0,1.1,4.8,38.2,184.0,,6.6,2.7,17.5,20.0,25.0,45 mins,3.67
+837,0,Cream of Asparagus Soup,asparagus,1.0,6.0,3.0,10.0,81.0,7.0,576.0,4.0,1.0,5.0,20.0,25 mins,4.83
+838,1,Slow Cooker Chicken and Lentil Soup,lunch,1.0,29.5,8.5,41.0,350.0,67.5,539.5,7.0,4.5,15.0,,4 hrs 15 mins,4.77
+839,2,Butternut Squash Soup,Dinner,1.0,3.0,4.0,28.0,144.0,,199.0,5.0,10.0,20.0,40.0,1 hr,5.0
+840,3,Chicken Pot Pie Soup,Dinner,1.0,30.0,3.5,32.0,268.0,64.0,983.0,4.0,12.0,10.0,35.0,45 mins,4.75
+841,4,Chicken Gnocchi Soup,Dinner,1.0,29.5,7.5,37.0,341.0,86.0,790.5,2.5,2.5,10.0,35.0,45 mins,4.95
+842,5,Roasted Red Pepper Soup,dinner,1.0,3.0,3.0,21.0,138.0,8.5,770.0,3.0,5.8,10.0,45.0,55 mins,4.8
+843,6,Italian Wedding Soup,lunch,1.0,22.0,3.0,12.0,167.0,25.0,647.5,2.5,0.5,20.0,10.0,30 mins,4.93
+844,7,Leftover Turkey Noodle Soup,Dinner,1.0,5.0,0.5,25.5,131.0,,57.0,4.5,2.5,10.0,,10 mins,5.0
+845,8,Turkey Stock for Gravy,,1.0,0.5,0.5,4.0,17.0,,158.0,1.0,2.5,10.0,30.0,5 hrs 10 mins,5.0
+846,9,Minestrone Soup,Dinner,1.0,8.0,2.0,31.5,175.0,,358.0,5.0,5.0,15.0,5.0,1 hr 20 mins,4.97
+847,10,Coconut Curry Butternut Squash Soup,,1.0,2.0,5.0,14.5,108.0,3.8,726.0,3.5,0.2,5.0,20.0,25 mins,4.89
+848,11,Loaded Baked Potato Soup,lunch,1.0,14.0,7.0,23.0,200.0,17.0,323.0,3.5,6.0,10.0,10.0,20 mins,4.76
+849,12,Instant Pot Chicken Noodle Soup,Instant Pot,1.0,26.5,6.5,13.5,223.0,117.0,775.0,1.4,3.0,15.0,35.0,50 mins,4.91
+850,13,Gazpacho,Appetizer,1.0,3.0,6.0,15.0,116.0,,755.0,3.5,7.5,30.0,0.0,3 hrs 30 mins,4.92
+851,14,Broccoli Cheddar Soup,lunch,1.0,12.5,12.5,24.0,242.0,37.5,360.0,4.0,6.0,20.0,30.0,50 mins,4.99
+852,15,Short Rib Soup (Instant Pot or Stove),Instant Pot,,21.0,9.5,10.0,206.0,62.0,497.0,3.5,4.0,15.0,20.0,1 hr 35 mins,4.19
+853,16,Wild Mushroom and Farro Soup,lunch,1.0,14.0,13.0,39.0,331.0,19.0,867.0,6.0,6.0,15.0,,1 hr 15 mins,4.88
+854,17,Cabbage Soup with Chicken and Pork,,1.0,26.5,5.0,13.0,217.0,93.5,212.5,4.0,4.5,10.0,,1 hr 10 mins,5.0
+855,18,Pasta Fagioli (Pasta and Beans),dinner,1.0,10.0,4.0,46.0,262.5,46.0,623.0,5.5,6.0,10.0,25.0,35 mins,4.94
+856,19,Avgolemono Chicken and Rice Soup,Dinner,1.0,27.5,6.5,21.5,265.0,168.5,413.0,0.5,2.0,10.0,45.0,55 mins,4.94
+857,20,Borscht,Dinner,1.0,4.5,5.0,28.0,167.0,,599.5,4.0,10.0,15.0,30.0,45 mins,5.0
+858,21,Tortilla Soup,Dinner,1.0,17.0,10.0,16.0,246.0,46.0,593.0,3.0,4.0,15.0,25.0,40 mins,4.67
+859,22,Creamy Roasted Acorn Squash Soup,Dinner,1.0,4.5,5.0,33.5,180.0,,230.0,5.0,7.0,15.0,,1 hr 15 mins,5.0
+860,23,"Sweet Potato Soup with Sausage (Slow Cooker, Instant Pot, Stove)",Instant Pot,1.0,23.5,8.5,23.0,265.0,66.0,1236.0,4.0,7.0,10.0,,6 hrs 10 mins,4.93
+861,24,"Healing Turmeric Chicken Noodle Soup (GF, DF)",Dinner,2.0,27.5,3.5,56.0,386.0,78.0,369.5,4.0,4.0,20.0,15.0,1 hr 35 mins,4.96
+862,25,Black Bean Soup (Freezer Friendly),lunch,1.0,13.5,3.0,45.0,256.0,0.5,132.5,10.5,3.0,10.0,20.0,2 hrs 30 mins,4.96
+863,26,Turmeric Roasted Sweet Potato and Macadamia Soup,Dinner,1.0,2.5,8.0,30.5,199.0,,196.0,5.0,2.0,10.0,10.0,1 hr 20 mins,4.91
+864,27,Potato Leek Soup,dinner,1.0,4.5,2.5,23.5,133.0,7.0,416.0,3.0,5.0,5.0,25.0,30 mins,4.87
+865,28,Creamy Sausage and Potato Soup,dinner,1.0,25.0,7.5,60.0,402.0,55.0,1164.0,9.5,8.0,10.0,45.0,55 mins,4.94
+866,29,Spaghetti and Meatball Soup,dinner,1.0,22.0,3.0,27.5,213.0,,739.0,4.0,2.0,10.0,20.0,30 mins,4.95
+867,30,Creamy Corn Soup with Queso Fresco,,1.0,11.5,6.5,28.5,206.0,18.0,462.5,2.0,14.0,10.0,25.0,35 mins,5.0
+868,31,Escarole and Chickpea Soup with Garlic Toast,Dinner,1.0,10.5,4.0,38.0,222.0,,466.0,8.5,5.5,5.0,20.0,25 mins,5.0
+869,32,Lobster Bisque,Dinner,1.0,14.0,6.0,17.0,203.0,65.0,852.0,2.5,7.0,15.0,50.0,1 hr 5 mins,4.75
+870,33,Colombian Chicken Sancocho (Sancocho de Pollo),lunch,1.0,34.0,8.0,41.0,405.0,140.0,599.5,5.5,10.0,15.0,,1 hr 15 mins,4.9
+871,34,Spring Green Pea Soup with Fresh Herbs,lunch,1.0,6.5,6.0,20.5,160.0,1.5,444.0,6.5,8.5,5.0,10.0,15 mins,4.91
+872,35,Quick Shrimp Pho with Vegetables,Dinner,1.0,30.5,2.5,19.5,233.0,172.5,1548.5,3.5,4.0,15.0,45.0,1 hr,4.91
+873,36,Butternut Squash Lentil Soup,lunch,1.0,4.0,1.5,25.0,122.0,,309.5,7.0,8.0,15.0,50.0,1 hr 5 mins,4.94
+874,37,Slow Cooker Butternut Squash Pear Soup,dinner,1.0,3.0,3.0,25.5,132.0,,275.0,6.0,10.0,5.0,,8 hrs 5 mins,4.76
+875,38,Detox Vegetable Soup,Dinner,1.0,15.0,12.5,34.0,293.0,,646.0,11.0,7.0,15.0,30.0,45 mins,4.74
+876,39,Turkey Meatball Tortellini Soup with Spinach,,1.0,20.0,9.0,26.0,271.0,89.0,1064.0,3.0,3.0,15.0,35.0,50 mins,4.8
+877,40,Clam Chowder Lightened Up,Dinner,1.0,16.0,6.0,23.5,209.0,,209.5,2.0,6.0,5.0,25.0,30 mins,4.49
+878,41,Lebanese Lentil Soup,dinner,1.0,13.5,3.0,45.5,260.0,6.0,275.5,9.0,6.0,10.0,,1 hr 20 mins,4.75
+879,42,Chicken Barley Soup,quinoa,1.0,31.0,4.0,24.0,262.0,83.0,744.0,5.0,2.0,5.0,,1 hr 5 mins,4.95
+880,43,Easy Wonton Soup,lunch,1.0,9.0,2.0,22.5,136.0,6.5,1218.0,2.5,5.0,15.0,15.0,30 mins,4.88
+881,44,French Onion Soup,Dinner,1.0,17.9,11.0,31.6,312.8,11.8,875.0,3.3,4.8,5.0,55.0,1 hr,4.34
+882,45,Changua (Colombian Milk and Egg Soup),breakfast,1.0,14.0,8.5,11.5,180.0,201.0,181.5,0.5,9.5,5.0,15.0,20 mins,4.8
+883,46,Creamy Pumpkin Ginger Soup,dinner,1.0,3.5,8.0,16.0,145.0,8.0,926.0,3.5,7.5,5.0,5.0,1 hr 10 mins,4.8
+884,47,Macaroni and Cheese Soup with Broccoli,dinner,1.0,17.0,9.5,28.0,253.0,,590.4,4.0,3.5,10.0,25.0,35 mins,4.69
+885,48,Creamy Roasted Cauliflower Chowder,dinner,1.0,7.5,11.0,20.0,205.0,26.0,460.0,5.0,8.0,10.0,45.0,55 mins,4.85
+886,49,Spinach Tortellini en Brodo (in Broth),dinner,1.0,11.5,5.5,33.0,228.0,32.5,915.5,2.5,3.5,5.0,25.0,30 mins,4.77
+887,50,Green Detox Soup with Toasted Hemp Gremolata,dessert,1.0,15.0,26.0,34.5,413.0,,890.0,11.0,12.5,5.0,25.0,30 mins,4.56
+888,51,Seattle Smoked Salmon Chowder,Instant Pot,2.0,31.0,11.5,36.0,377.0,77.0,783.0,6.0,9.0,10.0,30.0,40 mins,4.88
+889,52,Cream of Broccoli Soup,lunch,1.0,10.5,7.0,14.0,150.0,19.5,796.5,4.0,6.5,5.0,15.0,20 mins,4.64
+890,53,Kale and Potato Soup with Turkey Sausage,dinner,1.0,19.0,4.0,31.0,232.0,,647.0,5.5,3.0,10.0,35.0,45 mins,4.85
+891,54,Red Lentil Soup with Spinach,Instant Pot,1.0,17.0,3.0,40.0,255.0,,590.0,16.0,3.5,5.0,30.0,35 mins,4.61
+892,55,Chicken and Avocado Soup,Dinner,1.0,31.0,14.0,14.5,297.0,72.5,789.5,7.5,2.5,5.0,20.0,25 mins,4.81
+893,56,Cheddar Corn Chowder with Bacon,Instant Pot,1.0,15.0,11.0,42.0,309.0,27.0,638.0,5.5,10.0,15.0,45.0,1 hr,4.83
+894,57,Chicken Noodle Soup,lunch,1.0,26.5,6.5,13.5,223.5,117.0,775.5,1.5,3.0,5.0,25.0,30 mins,4.78
+895,58,Turkey Cheeseburger Soup,Instant Pot,1.0,20.0,11.5,19.0,254.0,52.0,670.0,3.5,5.0,10.0,20.0,30 mins,4.84
+896,59,Carrot Ginger Soup,lunch,1.0,3.0,5.0,16.0,115.0,13.5,114.0,4.0,8.0,10.0,40.0,50 mins,4.83
+897,60,Instant Pot Turkey Meatball and Ditalini Soup,Instant Pot,1.0,22.0,8.5,36.5,318.0,87.0,1003.0,2.5,7.5,20.0,35.0,55 mins,4.85
+898,61,Dad’s Creamy Cauliflower Soup,dinner,1.0,4.0,3.0,11.0,80.0,8.0,494.0,4.0,,5.0,25.0,30 mins,4.88
+899,62,Leftover Ham Bone Soup with Potatoes and Cabbage,Instant Pot,1.0,10.5,2.5,15.0,124.0,22.0,437.0,3.5,4.5,10.0,30.0,40 mins,4.81
+900,63,Stuffed Pepper Soup,Instant Pot,1.0,21.5,5.0,37.5,285.0,46.5,621.0,4.5,6.5,10.0,35.0,45 mins,4.83
+901,64,Pressure Cooker Split Pea Soup with Ham,Instant Pot,1.0,17.0,1.5,39.0,182.0,,459.0,15.0,4.0,5.0,20.0,25 mins,4.95
+902,65,Chicken Soup with Spinach and Whole Wheat Acini di Pepe,boneless chicken thighs,1.0,28.0,6.0,25.0,266.0,95.0,772.0,3.0,3.0,5.0,25.0,30 mins,4.95
+903,66,Asian Beef Zoodle Soup (Whole30 Low-Carb Pho),,1.0,23.0,8.5,19.5,241.0,,870.5,4.0,8.0,5.0,15.0,20 mins,4.82
+904,67,Instant Pot Tomato Basil Soup,Instant Pot,1.0,8.0,8.0,20.0,195.0,19.0,959.0,1.5,9.0,10.0,35.0,45 mins,4.44
+905,68,Lasagna Soup,dinner,1.0,22.5,10.0,29.5,292.0,63.5,747.5,4.0,2.5,10.0,50.0,1 hr,4.94
+906,69,"Chunky Beef, Cabbage and Tomato Soup (Instant Pot or Stove Top)",Dinner,1.0,15.5,6.0,14.0,181.0,40.0,592.0,2.0,4.5,10.0,30.0,40 mins,4.91
+907,70,Roasted Brussels Sprouts and Cauliflower Soup,Dinner,1.0,6.5,8.0,22.0,173.0,2.5,393.0,8.0,4.0,5.0,30.0,35 mins,4.65
+908,71,Turmeric Roasted Cauliflower Soup,,1.0,4.0,10.5,14.0,159.0,,293.0,5.0,2.0,15.0,45.0,1 hr,4.85
+909,72,Chickpea Tomato Soup,lunch,1.0,9.0,3.0,36.0,215.0,2.5,387.0,6.0,6.0,10.0,35.0,45 mins,5.0
+910,73,Chicken Enchilada Soup (Slow Cooker and Instant Pot),Instant Pot,1.0,30.0,10.0,35.0,333.0,65.5,812.5,9.5,6.0,10.0,20.0,30 mins,4.92
+911,74,Taco Soup,dinner,1.0,22.0,2.0,31.5,225.0,25.0,905.0,7.5,4.0,5.0,15.0,20 mins,4.98
+912,75,"Beef, Tomato and Acini di Pepe Soup (Instant Pot, SC + Stove)",,1.0,21.0,8.0,23.0,249.0,49.0,593.0,3.0,4.0,10.0,40.0,50 mins,4.9
+913,76,16 Bean Soup with Ham and Kale,dinner,1.0,13.5,2.0,36.0,155.0,4.0,647.0,18.5,3.5,10.0,30.0,2 hrs 40 mins,4.92
+914,77,Chicken and Lentil Soup (Instant Pot),Instant Pot,1.0,23.5,3.0,40.0,263.0,40.0,503.5,6.5,1.5,,,45 mins,4.88
+915,78,Broccoli Cheese Soup with Potato,lunch,1.0,16.0,9.5,25.5,239.0,30.0,603.0,3.5,,10.0,20.0,30 mins,4.87
+916,79,Slow Cooker Butternut Squash Soup,,1.0,3.0,3.0,35.0,152.0,2.5,310.0,8.5,1.5,15.0,,4 hrs 15 mins,4.75
+917,80,Chipotle Chicken Zucchini “Fideo” Soup (Slow Cooker or Instant Pot),Instant Pot,1.0,31.0,11.0,16.0,286.0,87.0,847.0,5.0,5.0,10.0,35.0,45 mins,4.5
+918,81,Chicken Sweet Potato and Kale Soup,lunch,1.0,28.0,4.0,19.0,223.0,63.0,1142.0,4.0,2.0,,,1 hr 5 mins,4.97
+919,82,50 Light and Healthy Soup Recipes,dinner,,,,,,,,,,,,,
+920,83,Instant Pot Smoked Turkey Black Bean Soup,Instant Pot,1.0,19.0,2.0,26.0,133.0,21.0,476.0,16.0,1.0,10.0,,1 hr 10 mins,4.92
+921,84,Cauliflower Leek Soup,lunch,1.0,5.5,3.0,20.0,115.0,6.0,511.0,5.0,4.0,5.0,25.0,30 mins,5.0
+922,85,Creamy Lentil Soup,lunch,1.0,12.0,1.0,30.0,139.0,,582.0,10.0,2.0,5.0,40.0,45 mins,4.84
+923,86,Turkey Meatball Vegetable Soup,,1.0,21.0,9.0,14.0,229.0,87.0,747.0,3.0,4.0,15.0,,1 hr 15 mins,4.99
+924,87,Caramelized Apple Onion Soup,lunch,,2.0,6.0,34.0,193.0,14.0,194.0,5.0,20.0,10.0,10.0,1 hr 15 mins,3.5
+925,88,Slow Cooker Minestrone Soup,Instant Pot,1.0,9.0,3.0,32.0,190.0,,483.0,8.0,4.0,15.0,45.0,1 hr,4.94
+926,89,Cream of Zucchini Soup,dinner,1.0,3.5,1.0,10.0,60.0,3.0,579.0,3.0,4.0,5.0,20.0,25 mins,4.82
+927,90,Cream of Asparagus Leek Soup with Creme Fraiche,asparagus,,7.0,5.0,20.0,141.0,14.0,476.0,5.0,4.0,5.0,40.0,45 mins,5.0
+928,91,Cauliflower Watercress Soup,,1.0,6.0,3.0,12.0,93.0,8.0,623.0,4.0,1.0,5.0,25.0,30 mins,5.0
+929,92,Three Cheese Tortellini and Mushroom Soup,Instant Pot,1.0,7.5,3.5,19.0,137.0,13.0,708.5,2.5,4.0,5.0,30.0,35 mins,4.34
+930,93,Chicken and Lentil Soup,lunch,1.0,23.5,3.0,40.0,263.0,40.0,503.5,6.5,1.5,5.0,45.0,50 mins,4.83
+931,94,Chicken Shiitake and Wild Rice Soup,Dinner,1.0,13.0,4.0,27.0,200.0,42.0,844.0,2.0,2.0,10.0,50.0,1 hr,4.92
+932,95,Creamy Slow Cooker Tomato Soup,lunch,1.0,8.0,10.0,17.0,177.0,21.0,600.0,3.0,8.0,10.0,40.0,6 hrs 50 mins,4.85
+933,96,Creamy Chicken and Mushroom Soup,,1.0,13.6,3.4,12.0,111.5,5.2,538.8,0.9,1.4,,,,5.0
+934,97,Corned Beef and Cabbage Soup,dinner,1.0,14.0,12.0,31.5,281.0,50.0,782.0,7.0,3.5,10.0,35.0,1 hr 45 mins,4.64
+935,98,Crock Pot Picante Chicken and Black Bean Soup,lunch,1.0,28.0,6.0,37.5,306.0,,698.5,13.5,3.0,10.0,,4 hrs 10 mins,5.0
+936,99,CrockPot Tuscan White Bean and Garlic Soup,,,15.0,3.0,41.0,241.0,,322.0,6.0,,5.0,,4 hrs 5 mins,4.5
+937,100,Turkey Pot Pie Soup,,1.0,18.0,2.0,27.0,192.0,,,3.0,8.5,,,45 mins,4.86
+938,101,Roasted Pumpkin Sage Soup,dinner,1.0,6.0,3.0,25.0,137.5,6.0,459.0,7.0,9.0,5.0,40.0,1 hr 45 mins,5.0
+939,102,Creamy Mushroom Soup,lunch,1.0,3.0,2.0,11.0,65.0,4.0,571.0,1.0,3.0,10.0,20.0,30 mins,4.92
+940,103,Beef Barley Soup,dinner,1.0,32.0,11.0,27.0,336.0,60.0,453.0,6.0,1.5,10.0,,2 hrs 10 mins,4.71
+941,104,Irish Oatmeal Leek Soup,Dinner,,7.5,3.0,23.0,140.5,2.0,529.0,2.5,6.0,5.0,,1 hr,4.75
+942,105,Roasted Red Kuri Coconut Curry Soup,appetizer,,1.7,4.0,14.1,98.0,,807.6,2.2,1.6,10.0,30.0,1 hr 40 mins,5.0
+943,106,Roasted Acorn Squash Soup with Leeks and Pepitas,lunch,1.0,3.9,4.9,19.4,121.8,,310.9,5.1,0.9,5.0,,1 hr 5 mins,4.5
+944,107,Halibut and Shellfish Soup,Dinner,1.0,49.8,5.8,9.4,300.4,220.0,1023.3,1.2,1.5,15.0,15.0,30 mins,4.67
+945,108,Chicken and Cavatelli Noodle Soup,lunch,1.0,35.0,8.0,33.0,347.0,129.5,1137.0,2.0,2.0,10.0,40.0,50 mins,4.67
+946,109,"Beef, Potato and Quinoa Soup",quinoa,1.0,15.7,13.8,31.3,307.9,38.6,277.0,4.6,2.0,10.0,,2 hrs,4.93
+947,110,Tomato Bisque,,2.0,4.5,4.4,19.5,125.0,15.0,1064.0,4.5,3.0,10.0,35.0,45 mins,4.64
+948,111,Homemade Chicken Broth From Your Crock Pot,,1.0,1.0,,,10.0,,860.0,,1.0,10.0,,4 hrs 10 mins,5.0
+949,112,"Turkey Sausage, Kale and White Bean Soup",Dinner,2.0,33.0,13.0,15.0,320.5,105.0,697.0,5.0,1.0,10.0,35.0,45 mins,4.67
+950,113,Spinach Stracciatella Soup with Orzo,dinner,1.0,10.0,4.0,11.0,127.0,69.0,868.0,1.0,2.0,10.0,20.0,30 mins,5.0
+951,114,Butternut Squash Soup with Sage,Dinner,1.0,2.5,0.5,11.5,56.0,,300.0,2.5,1.5,15.0,45.0,1 hr,4.28
+952,115,Dad’s Cauliflower Soup,,1.0,3.3,0.6,8.8,45.1,0.3,469.1,3.7,,5.0,25.0,30 mins,5.0
+953,116,Split Pea Soup with Ham,Dinner,1.0,27.0,8.5,54.5,394.0,33.5,606.0,18.0,7.5,5.0,,2 hrs,4.87
+954,0,Green Curry Noodles,Dinner,1.0,15.0,10.5,47.5,346.0,,1003.5,3.0,9.5,25.0,15.0,40 mins,
+955,1,18 Easy Taco Recipes,,,,,,,,,,,,,,
+956,2,Baked Steelhead Trout,Dinner,6.0,36.0,8.5,7.5,242.0,100.5,262.5,3.0,1.5,15.0,20.0,35 mins,4.34
+957,3,Chicken Saltimbocca,Dinner,1.0,21.7,4.3,4.5,155.2,,,0.2,,10.0,10.0,20 mins,5.0
+958,4,Italian Shrimp Salad,lunch,1.0,20.0,11.5,5.0,198.0,152.0,442.5,1.5,1.0,20.0,0.0,3 hrs 20 mins,4.86
+959,5,Ground Turkey Tacos,dinner,2.0,29.0,16.0,31.5,372.0,99.0,,5.5,5.0,20.0,30.0,50 mins,5.0
+960,6,Braised Brisket with Potatoes and Carrots,Dinner,4.0,29.0,6.5,29.0,293.0,46.5,355.0,4.5,3.0,30.0,30.0,4 hrs,5.0
+961,7,Pad Thai,Asparagus,1.0,40.0,18.5,25.0,420.0,,1391.0,2.0,9.5,10.0,15.0,25 mins,4.89
+962,8,Chicken Pasta Primavera,asparagus,1.0,30.0,6.5,48.0,369.0,69.0,706.0,7.0,8.0,20.0,30.0,50 mins,4.88
+963,9,Grilled Salmon Bruschetta with Avocado,Dinner,1.0,35.5,19.0,7.0,340.5,94.0,153.5,3.0,0.5,10.0,10.0,20 mins,4.92
+964,10,Chicken Marbella,dinner,1.0,38.0,12.0,14.0,323.0,179.0,713.0,2.0,8.0,15.0,43.0,58 mins,4.93
+965,11,One Pot Chicken and Orzo,dinner,1.0,23.5,18.0,41.5,425.0,92.0,724.0,3.0,7.0,15.0,50.0,1 hr 5 mins,4.77
+966,12,Italian Sub Salad,Dinner,2.0,22.0,19.0,11.5,298.0,71.5,1573.5,3.0,5.5,20.0,0.0,20 mins,5.0
+967,13,Baked Honey-Mustard Ham,Dessert,3.0,16.5,3.0,4.0,106.0,48.5,826.0,,4.0,5.0,,2 hrs 15 mins,5.0
+968,14,Risotto Primavera,asparagus,1.0,9.0,6.5,51.0,303.0,12.0,338.5,3.0,5.5,15.0,30.0,45 mins,4.95
+969,15,Honey Baked Spiral Ham,Dinner,3.0,16.0,5.0,7.5,135.0,48.5,764.0,,7.0,5.0,,2 hrs,5.0
+970,16,Spanish Tortilla with Pimenton Aioli,appetizer,1.0,9.0,14.5,21.5,247.0,188.0,363.5,2.0,2.5,15.0,,1 hr 15 mins,4.44
+971,17,Fish Cakes,Dinner,2.0,29.0,9.5,19.5,277.0,153.5,624.0,1.0,3.0,5.0,15.0,20 mins,4.84
+972,18,Slow Cooker Chicken and Lentil Soup,lunch,1.0,29.5,8.5,41.0,350.0,67.5,539.5,7.0,4.5,15.0,,4 hrs 15 mins,4.77
+973,19,Crock Pot Corned Beef and Cabbage,dessert,3.0,18.0,16.5,19.0,294.5,83.0,960.0,5.5,3.0,10.0,30.0,5 hrs 40 mins,4.87
+974,20,Butternut Squash Soup,Dinner,1.0,3.0,4.0,28.0,144.0,,199.0,5.0,10.0,20.0,40.0,1 hr,5.0
+975,21,Air Fryer Peanut Curry Tofu with Gingery Cauliflower Rice,Cauliflower Rice,1.0,30.0,29.0,24.0,453.0,,981.0,8.5,9.0,10.0,20.0,40 mins,4.8
+976,22,Chicken Pot Pie Soup,Dinner,1.0,30.0,3.5,32.0,268.0,64.0,983.0,4.0,12.0,10.0,35.0,45 mins,4.75
+977,23,Chicken Florentine,Dinner,1.0,31.5,13.5,11.5,291.0,100.0,632.5,2.5,3.5,15.0,25.0,40 mins,4.83
+978,24,White Chicken Chili,boneless chicken thighs,1.0,41.0,5.5,40.5,372.0,99.5,590.0,7.5,6.0,10.0,45.0,55 mins,4.74
+979,25,Chicken Gnocchi Soup,Dinner,1.0,29.5,7.5,37.0,341.0,86.0,790.5,2.5,2.5,10.0,35.0,45 mins,4.95
+980,26,Crock Pot Pasta Sauce with Sausage,Dinner,1.0,14.0,3.5,9.5,115.0,,455.0,2.0,4.0,15.0,,6 hrs 15 mins,4.88
+981,27,Penne alla Vodka with Chicken,Dinner,1.0,42.5,10.0,66.5,519.0,85.5,700.5,8.0,10.0,20.0,40.0,1 hr,4.84
+982,28,Korean-Inspired Salmon Rice Bowl,Rice Bowl,1.0,33.0,10.0,50.0,431.0,78.0,416.0,1.0,6.0,10.0,6.0,21 mins,4.92
+983,29,Lentil Bolognese,dinner,1.0,19.5,3.0,69.0,358.0,,748.0,10.0,11.0,10.0,,1 hr 10 mins,5.0
+984,30,Crock Pot Pork Roast,dinner,3.0,33.0,9.0,37.0,361.0,72.0,754.0,1.5,7.0,10.0,10.0,8 hrs 20 mins,4.94
+985,31,Pesto Salmon,Cauliflower Rice,1.0,30.0,17.0,2.0,290.0,83.5,230.0,,0.5,2.0,6.0,14 mins,5.0
+986,32,Marry Me Chicken,Dinner,1.0,30.0,13.0,12.0,286.0,96.0,504.5,1.5,2.0,10.0,25.0,35 mins,4.93
+987,33,Crispy Baked Chicken Thighs,Dinner,1.0,15.5,17.0,1.5,227.0,92.0,417.0,0.5,1.0,10.0,40.0,50 mins,4.84
+988,34,BBQ Chicken Tenders in Air Fryer,lunch,3.0,43.0,6.5,17.5,312.0,171.0,751.5,1.0,5.0,10.0,20.0,30 mins,5.0
+989,35,Italian Wedding Soup,lunch,1.0,22.0,3.0,12.0,167.0,25.0,647.5,2.5,0.5,20.0,10.0,30 mins,4.93
+990,36,Garlic Rosemary Beef Tenderloin,Dinner,1.0,33.5,8.5,0.5,211.0,93.5,343.5,,,10.0,45.0,1 hr 5 mins,5.0
+991,37,Roast Beef,Dinner,6.0,53.0,10.0,0.5,304.0,131.5,491.5,0.5,,5.0,,1 hr 15 mins,4.91
+992,38,King Crab Legs,Dinner,2.0,83.0,2.5,,380.0,190.0,3792.0,,,0.0,10.0,10 mins,3.0
+993,39,Escarole Pasta with Sausage and Peppers,Dinner,1.0,21.0,5.5,47.0,298.0,,,7.5,1.1,5.0,15.0,20 mins,4.97
+994,40,Slow Cooker Black Eyed Peas with Ham,Dinner,1.0,8.0,2.0,16.0,115.0,13.0,372.5,4.0,5.0,10.0,7.0,16 mins,5.0
+995,41,The Best Lasagna Recipe,cottage cheese,1.0,37.0,11.5,36.5,394.0,107.5,840.0,3.5,7.0,15.0,30.0,1 hr 45 mins,4.8
+996,42,Leftover Turkey Noodle Soup,Dinner,1.0,5.0,0.5,25.5,131.0,,57.0,4.5,2.5,10.0,,10 mins,5.0
+997,43,Leftover Turkey Enchiladas Skillet,Dinner,1.0,33.5,9.0,27.0,315.0,74.5,572.5,7.0,8.0,10.0,20.0,35 mins,4.88
+998,44,Turkey Roulade (Stuffed Turkey Breast),Dinner,2.0,68.5,12.5,19.0,484.0,,1700.0,2.0,2.5,30.0,,1 hr 30 mins,5.0
+999,45,Meximelt,lunch,1.0,21.5,12.0,20.0,224.0,61.0,640.5,12.0,2.0,10.0,30.0,40 mins,4.94
+1000,46,Butternut Squash Lasagna (No-Noodle),cottage cheese,1.0,29.0,19.0,30.0,402.0,109.0,918.0,5.0,5.0,20.0,20.0,1 hr 40 mins,4.95
+1001,47,Slow Cooker Chicken Enchiladas,Dinner,1.0,25.5,12.0,26.0,315.0,92.5,862.0,7.0,3.5,15.0,30.0,4 hrs 45 mins,4.91
+1002,48,Cheesy Baked Pumpkin Pasta,Dinner,1.0,16.0,7.0,49.0,307.0,14.0,237.0,8.0,5.0,10.0,50.0,1 hr,5.0
+1003,49,White Bean Pumpkin Turkey Chili (Slow Cooker or Instant Pot),Instant Pot,1.0,32.0,2.5,31.0,272.5,,499.0,12.0,2.5,5.0,,4 hrs 5 mins,4.58
+1004,50,Beef Stew,dinner,1.0,40.5,22.0,20.5,439.0,130.5,482.5,4.0,7.5,20.0,45.0,3 hrs 5 mins,4.9
+1005,51,Air Fryer Chicken Bites,dinner,1.0,38.5,7.5,1.0,233.0,124.0,868.0,0.5,0.5,5.0,24.0,29 mins,4.97
+1006,52,Autumn Kale Salad with Chicken,Dinner,1.0,30.0,27.0,38.0,504.0,70.5,514.5,8.5,17.5,15.0,30.0,45 mins,5.0
+1007,53,Stuffed Shells with Meat Sauce,cottage cheese,3.0,28.4,12.8,34.3,360.9,72.5,375.0,3.3,0.5,25.0,15.0,1 hr 40 mins,4.87
+1008,54,Chicken Nuggets,cauliflower rice,6.0,28.0,13.0,13.0,280.0,154.5,670.5,1.5,1.5,20.0,10.0,30 mins,4.92
+1009,55,Orange Chicken,asparagus,3.0,32.5,9.0,18.0,288.0,81.0,463.0,0.5,9.0,15.0,15.0,30 mins,4.96
+1010,56,Pasta with Creamy Zucchini Sauce,Dinner,1.0,14.0,8.0,66.0,390.0,5.5,244.0,4.0,7.5,5.0,30.0,35 mins,4.8
+1011,57,"Salisbury Steak Meatballs (Instant Pot, Stove, Slow Cooker)",instant pot,5.0,28.0,12.0,12.0,271.0,124.0,741.0,2.0,3.0,10.0,20.0,30 mins,4.65
+1012,58,Air Fryer Chicken Cutlets,dinner,1.0,30.5,9.5,14.0,268.0,131.5,743.0,0.5,2.0,20.0,16.0,1 hr 36 mins,4.91
+1013,59,Cajun Chicken Pasta,Dinner,1.0,26.0,6.0,44.0,324.0,44.0,126.0,6.0,3.0,10.0,20.0,30 mins,4.8
+1014,60,Loaded Baked Potato Soup,lunch,1.0,14.0,7.0,23.0,200.0,17.0,323.0,3.5,6.0,10.0,10.0,20 mins,4.76
+1015,61,Turkey Meatloaf with Zucchini,meatloaf,1.0,25.5,11.5,18.0,275.0,130.5,610.5,2.0,7.0,10.0,55.0,1 hr 10 mins,4.89
+1016,62,Chicken Stroganoff,Dinner,3.0,24.0,12.0,11.0,241.0,106.0,553.5,1.5,3.0,10.0,50.0,1 hr,4.83
+1017,63,21 Healthy Rice Bowl Recipes,dinner,,,,,,,,,,,,,
+1018,64,Air Fryer Fish Sticks,dinner,4.0,37.0,7.5,17.0,294.0,170.5,733.0,1.0,2.5,10.0,24.0,34 mins,4.65
+1019,65,Ratatouille with Farro,quinoa,1.0,8.5,6.5,42.0,243.0,,45.5,8.0,9.0,15.0,40.0,1 hr,5.0
+1020,66,Shrimp Quesadilla,dinner,1.0,24.0,16.0,27.5,299.0,132.0,998.0,14.0,4.0,10.0,35.0,45 mins,5.0
+1021,67,Zucchini Gnocchi,Dinner,1.0,7.5,4.0,38.0,216.0,5.0,679.5,4.0,13.0,40.0,20.0,1 hr,4.96
+1022,68,Chicken Eggplant Parmesan,Dinner,1.0,52.0,16.0,26.5,473.0,204.5,742.0,2.5,7.5,10.0,25.0,35 mins,4.45
+1023,69,Air Fryer Asian Meatballs,cauliflower rice,1.0,37.0,16.0,49.0,483.0,130.0,736.0,11.0,3.0,20.0,20.0,40 mins,4.75
+1024,70,Gazpacho,Appetizer,1.0,3.0,6.0,15.0,116.0,,755.0,3.5,7.5,30.0,0.0,3 hrs 30 mins,4.92
+1025,71,Spicy Salmon Sushi Pizza,Dinner,1.0,24.5,26.5,17.0,403.0,68.0,527.0,4.5,2.0,5.0,12.0,20 mins,5.0
+1026,72,Air Fryer Pork Chops,Dinner,1.0,33.0,13.0,8.0,378.0,121.0,373.0,,1.0,10.0,12.0,22 mins,4.87
+1027,73,BBQ Chicken,Dinner,2.0,27.0,13.5,7.5,267.0,134.5,357.0,0.5,4.0,10.0,20.0,1 hr 30 mins,5.0
+1028,74,20 Best Burger Recipes,,,,,,,,,,,,,,
+1029,75,Grilled Pesto Chicken and Tomato Kebabs,dinner,1.0,18.0,7.5,3.0,147.0,2.5,104.0,1.0,,10.0,10.0,1 hr 20 mins,5.0
+1030,76,Chicken Burger,burger,1.0,27.5,3.0,19.0,284.0,117.0,487.5,3.0,2.0,5.0,10.0,15 mins,4.92
+1031,77,Grilled Chicken Sandwich,Dinner,1.0,45.0,11.5,29.5,406.0,124.0,847.5,2.5,7.5,15.0,15.0,4 hrs 30 mins,4.85
+1032,78,Slow Cooker Pulled Pork,Dinner,3.0,30.5,3.0,12.5,203.0,92.0,593.5,0.5,10.5,5.0,,7 hrs 5 mins,4.94
+1033,79,Smash Tacos,burger,2.0,31.0,20.0,32.0,452.0,110.0,683.0,4.0,6.0,15.0,15.0,30 mins,4.63
+1034,80,Veggie Kabobs,,1.0,3.5,1.0,24.0,105.0,,239.5,3.5,11.5,15.0,15.0,30 mins,4.5
+1035,81,Chipotle Chicken,boneless chicken thighs,1.0,34.0,7.0,2.0,216.0,69.0,561.0,0.5,,15.0,15.0,30 mins,5.0
+1036,82,Turkey Burger Recipe,burger,1.0,29.0,12.0,33.5,351.0,84.0,768.5,2.0,8.5,10.0,15.0,25 mins,4.91
+1037,83,Chicken Summer Rolls,Appetizer,2.0,23.0,16.0,30.0,299.0,98.0,899.5,2.0,6.0,10.0,30.0,40 mins,4.84
+1038,84,Cheesy Stuffed Chicken Breast with Zucchini,dinner,1.0,63.0,18.0,5.0,429.0,235.0,732.0,1.5,2.0,10.0,20.0,35 mins,4.8
+1039,85,Lamb Keema with Peas,Dinner,3.0,15.6,14.5,13.0,240.0,,190.1,3.1,2.7,5.0,25.0,30 mins,4.8
+1040,86,Blackened Grilled Salmon Skewers,Dinner,2.0,26.5,9.0,10.5,199.0,72.5,352.5,5.0,2.5,20.0,10.0,1 hr 30 mins,5.0
+1041,87,Cilantro Lime Shrimp,dinner,2.0,19.0,3.0,2.0,119.0,144.0,140.0,,,5.0,5.0,10 mins,4.95
+1042,88,The Best Grilled Chicken Breast,boneless chicken thighs,2.0,51.0,12.5,1.5,339.0,165.5,523.5,0.5,,5.0,6.0,41 mins,5.0
+1043,89,"Pesto Pasta with Arugula, Asparagus, Peas, and Pistachios",Asparagus,1.0,14.0,15.0,52.0,380.0,3.0,245.0,9.0,6.0,15.0,20.0,35 mins,4.78
+1044,90,Lentil Curry,cauliflower rice,1.0,13.0,1.0,41.0,216.0,,294.0,8.0,7.0,10.0,30.0,40 mins,4.15
+1045,91,Creamy Orzo with Asparagus and Peas,asparagus,1.0,13.0,12.0,64.0,423.0,,323.0,6.0,6.0,15.0,30.0,45 mins,5.0
+1046,92,Spicy Shrimp Francese with Calabrian Chili,Dinner,8.0,27.5,11.0,9.0,256.0,281.0,476.0,0.5,1.0,20.0,20.0,40 mins,4.85
+1047,93,Yogurt-Marinated Chicken,boneless chicken thighs,2.0,46.0,11.5,4.0,314.0,215.0,584.0,0.5,1.5,10.0,15.0,1 hr 25 mins,5.0
+1048,94,The BEST Chicken Enchilada Recipe,Dinner,1.0,17.0,6.5,17.0,168.0,29.5,441.0,8.5,3.0,10.0,35.0,45 mins,4.9
+1049,95,Shrimp Tacos,dinner,2.0,20.0,10.5,28.5,288.0,149.0,975.5,4.5,3.5,10.0,10.0,20 mins,5.0
+1050,96,Greek Tofu Bowls,lunch,1.0,32.0,27.0,30.0,485.0,16.0,682.0,6.0,9.0,20.0,40.0,1 hr,4.67
+1051,97,Angel Hair Pasta with Shrimp and Tomato Cream Sauce,dinner,1.0,30.0,7.0,48.0,377.0,85.0,450.0,5.0,6.0,5.0,10.0,15 mins,4.88
+1052,98,Lasagna Roll Ups With Cottage Cheese,Cottage Cheese,2.0,32.5,15.0,52.0,462.0,82.0,1300.0,4.0,8.0,15.0,40.0,55 mins,4.82
+1053,99,Air Fryer Salmon Patties,Dinner,2.0,33.5,14.5,9.5,314.0,225.0,842.0,0.5,1.5,5.0,10.0,25 mins,4.95
+1054,100,Flounder Piccata,dinner,1.0,36.0,8.0,14.0,280.0,,366.5,3.0,0.1,5.0,15.0,20 mins,4.88
+1055,101,Mexican Shrimp Cobb Salad,dinner,2.0,28.0,9.0,24.0,267.5,157.5,578.5,8.0,4.0,15.0,0.0,15 mins,5.0
+1056,102,Ground Beef and Broccoli Stir Fry,dinner,3.0,29.0,11.0,26.0,327.0,71.0,1052.0,5.0,11.0,5.0,8.0,13 mins,4.75
+1057,103,Chicken Satay with Spicy Peanut Sauce,boneless chicken thighs,4.0,34.5,9.0,8.0,265.0,103.5,918.5,1.0,5.5,20.0,10.0,40 mins,4.87
+1058,104,Ropa Vieja,Instant Pot,3.0,35.0,15.5,11.5,350.0,64.0,982.5,2.5,5.0,20.0,15.0,1 hr 35 mins,4.75
+1059,105,Air Fryer Rotisserie Chicken,dinner,,,,,,,,,,10.0,,1 hr 10 mins,5.0
+1060,106,20-Minute Veggie Lo Mein Bowl,dinner,1.0,13.5,9.0,60.5,354.0,,1043.5,9.5,11.5,5.0,15.0,20 mins,4.81
+1061,107,Artichoke Pie,dessert,1.0,12.5,13.0,17.0,229.0,107.5,401.0,4.0,1.0,10.0,55.0,1 hr 5 mins,4.86
+1062,108,Ground Turkey with Potatoes and Spring Peas,dinner,1.0,21.0,7.0,17.0,209.0,,331.5,3.5,1.5,,,30 mins,4.67
+1063,109,Baked Shrimp Parmesan Hero,Dinner,1.0,29.6,8.0,57.5,433.0,,559.0,2.5,,5.0,25.0,30 mins,4.88
+1064,110,Broiled Tilapia Oreganata,Dinner,1.0,35.0,7.5,3.0,219.0,85.0,301.5,0.5,0.5,2.0,8.0,10 mins,4.92
+1065,111,Tofu Poke Bowl,dinner,1.0,29.0,24.0,47.0,520.0,,956.0,12.0,5.0,10.0,10.0,50 mins,4.74
+1066,112,Broccoli Cheddar Soup,lunch,1.0,12.5,12.5,24.0,242.0,37.5,360.0,4.0,6.0,20.0,30.0,50 mins,4.99
+1067,113,Turkey Shepherd’s Pie Stuffed Sweet Potato,dinner,1.0,27.5,11.0,50.0,401.0,84.0,647.5,8.0,11.0,10.0,50.0,1 hr,4.84
+1068,114,Filipino Chicken Adobo,Instant Pot,2.0,27.0,4.5,5.0,175.0,105.0,820.0,0.5,,10.0,,1 hr 10 mins,4.87
+1069,115,Honey-Mustard Air Fryer Pork Chops,dinner,1.0,35.0,4.5,12.0,241.0,79.5,621.5,0.5,3.5,10.0,15.0,4 hrs 25 mins,4.88
+1070,116,Short Rib Soup (Instant Pot or Stove),Instant Pot,,21.0,9.5,10.0,206.0,62.0,497.0,3.5,4.0,15.0,20.0,1 hr 35 mins,4.19
+1071,117,"30-Minute Shrimp, Peas and Rice",Dinner,1.0,28.5,8.0,36.0,346.0,156.0,1000.0,3.0,1.0,5.0,25.0,30 mins,4.88
+1072,118,"Honey Sriracha Roasted Salmon Rice Bowls (GF, DF)",rice bowl,1.0,38.5,17.5,48.0,506.0,93.5,489.0,5.0,10.5,20.0,10.0,30 mins,4.92
+1073,119,Wild Mushroom and Farro Soup,lunch,1.0,14.0,13.0,39.0,331.0,19.0,867.0,6.0,6.0,15.0,,1 hr 15 mins,4.88
+1074,120,"Spicy Gochujang Tofu Bowl (Vegan, Gluten-Free)",lunch,1.0,26.0,19.0,50.0,473.0,,942.0,6.0,17.0,10.0,15.0,25 mins,4.92
+1075,121,Air Fryer Salmon with Maple Soy Glaze (5 Ingredients),Dinner,1.0,35.0,11.0,12.0,292.0,94.0,797.0,0.5,10.0,5.0,8.0,33 mins,4.91
+1076,122,Chicken Divan,dinner,1.0,42.0,14.5,22.0,387.0,112.0,606.5,3.5,5.5,30.0,45.0,1 hr 15 mins,4.87
+1077,123,Air Fryer Breaded Cubed Steak,dinner,1.0,33.0,14.0,15.5,328.0,218.0,944.0,1.0,1.5,5.0,20.0,25 mins,4.95
+1078,124,Chicken Tenders Parmesan,Chicken Tenderloin,3.0,45.0,12.5,19.0,376.0,169.5,1188.0,2.0,4.5,5.0,30.0,35 mins,4.93
+1079,125,"Buffalo Chicken Lettuce Wraps (Slow Cooker, Instant Pot)",Lettuce Wraps,1.0,25.0,0.1,5.2,147.5,,879.0,1.5,1.5,5.0,,4 hrs,4.59
+1080,126,"Loaded Nachos with Ground Turkey, Beans and Cheese",appetizer,1.0,28.0,17.5,45.0,386.0,32.0,990.0,1.5,8.5,10.0,15.0,25 mins,4.96
+1081,127,Stuffed Buffalo Chicken Breasts,Dinner,1.0,22.0,5.0,5.0,172.0,58.5,799.0,0.6,1.7,15.0,30.0,45 mins,4.88
+1082,128,5-Minute Microwave Salmon Rice Bowl with Bok Choy,Rice Bowl,1.0,48.5,18.0,51.0,533.0,93.5,856.0,10.0,19.5,1.0,5.0,6 mins,5.0
+1083,129,Pasta Fagioli (Pasta and Beans),dinner,1.0,10.0,4.0,46.0,262.5,46.0,623.0,5.5,6.0,10.0,25.0,35 mins,4.94
+1084,130,Teriyaki Shrimp Quinoa Bowls with Mango-Cucumber Salsa,Quinoa,1.0,24.0,10.0,44.5,352.0,143.0,1389.0,6.5,14.5,10.0,30.0,40 mins,5.0
+1085,131,Black Beans and Rice,dinner,7.0,6.5,2.0,46.5,236.0,,331.0,4.5,0.5,15.0,30.0,50 mins,4.98
+1086,132,Tortilla Encrusted Chicken Tenders,Appetizer,2.0,34.0,11.0,22.0,331.0,137.0,695.0,1.5,2.0,5.0,,25 mins,4.95
+1087,133,Red Thai Coconut Curry Shrimp,cauliflower rice,1.0,16.0,5.0,5.0,136.0,143.0,1059.0,1.0,1.5,5.0,10.0,15 mins,4.82
+1088,134,Ground Turkey Skillet with Sweet Potatoes and Black Bean,dinner,1.0,28.0,14.5,41.0,394.0,84.0,635.0,10.0,7.5,5.0,25.0,30 mins,4.89
+1089,135,Avgolemono Chicken and Rice Soup,Dinner,1.0,27.5,6.5,21.5,265.0,168.5,413.0,0.5,2.0,10.0,45.0,55 mins,4.94
+1090,136,White Bean Scampi with Linguine,Dinner,1.0,26.5,9.5,93.0,571.0,7.5,1058.0,17.0,4.5,5.0,20.0,25 mins,4.81
+1091,137,Borscht,Dinner,1.0,4.5,5.0,28.0,167.0,,599.5,4.0,10.0,15.0,30.0,45 mins,5.0
+1092,138,Chicken Stuffed Peppers with White Beans,dinner,2.0,30.0,6.0,35.0,304.0,,,6.5,,5.0,40.0,45 mins,4.96
+1093,139,Perfect Air Fryer Shrimp,dinner,8.0,19.5,8.0,2.0,163.0,178.5,873.5,0.5,-1.0,4.0,6.0,10 mins,4.91
+1094,140,Juicy Oven Baked Chicken Breast,dinner,1.0,40.0,9.0,5.0,271.0,129.0,170.0,,0.5,5.0,30.0,1 hr 35 mins,4.83
+1095,141,Salmon Caesar Salad,lunch,1.0,42.0,20.0,6.5,364.0,97.5,414.5,3.0,1.5,15.0,15.0,30 mins,4.95
+1096,142,Spicy Hearts of Palm Noodle Stir Fry with Ground Chicken,lunch,1.0,26.0,12.0,16.5,275.0,98.0,1772.0,5.0,2.5,5.0,15.0,20 mins,4.75
+1097,143,Buffalo Chicken Rice Bowls,lunch,1.0,49.5,9.5,47.5,485.0,134.0,1200.0,7.0,1.5,15.0,15.0,30 mins,4.86
+1098,144,Breaded Shrimp,Dinner,1.0,20.0,3.0,10.0,149.0,145.0,934.5,0.5,1.0,15.0,10.0,25 mins,4.86
+1099,145,"One-Pot Orzo with Sausage, Spinach and Corn",dinner,1.0,26.0,12.0,44.0,381.0,83.0,1104.0,3.5,6.0,5.0,25.0,30 mins,4.85
+1100,146,Spinach Prosciutto and Mozzarella Stuffed Pork Tenderloin,dinner,2.0,29.0,8.5,3.0,208.0,98.5,219.0,1.0,1.0,15.0,30.0,45 mins,4.69
+1101,147,Butternut Squash Galette,dinner,1.0,5.5,15.5,32.0,274.0,43.5,410.0,2.0,7.0,30.0,,1 hr 30 mins,5.0
+1102,148,Buttermilk Marinated Air Fryer Whole Chicken,Dinner,1.0,50.0,12.5,1.0,329.0,153.0,162.0,,1.0,5.0,50.0,1 d 55 mins,4.88
+1103,149,Spicy Vodka Chicken Parmesan,dinner,1.0,39.0,14.0,25.5,386.0,154.0,1456.5,3.0,4.0,15.0,15.0,30 mins,5.0
+1104,150,Oysters Rockefeller,appetizer,2.0,11.0,4.5,7.5,116.0,55.5,167.5,0.5,1.0,20.0,10.0,30 mins,5.0
+1105,151,Asian Chicken Lettuce Wraps,Lettuce Wraps,1.0,8.5,3.0,9.5,102.0,32.0,344.0,1.0,4.5,10.0,40.0,50 mins,5.0
+1106,152,Air Fryer Chicken Thighs,Dinner,1.0,16.0,15.5,1.5,213.0,,263.0,,,5.0,24.0,29 mins,4.93
+1107,153,Tortilla Soup,Dinner,1.0,17.0,10.0,16.0,246.0,46.0,593.0,3.0,4.0,15.0,25.0,40 mins,4.67
+1108,154,Stuffed Butternut Squash with Wild Rice and Sausage,Dinner,1.0,16.5,7.5,51.0,314.0,42.0,624.5,8.0,12.0,15.0,,1 hr 15 mins,4.5
+1109,155,Sheet Pan Thanksgiving Dinner for Four,dinner,1.0,59.0,26.5,38.0,608.0,126.0,908.0,8.5,10.5,20.0,50.0,1 hr 20 mins,4.5
+1110,156,Creamy Roasted Acorn Squash Soup,Dinner,1.0,4.5,5.0,33.5,180.0,,230.0,5.0,7.0,15.0,,1 hr 15 mins,5.0
+1111,157,Chicken Parmesan Rolls,lunch,1.0,27.5,4.5,28.0,259.0,55.5,574.0,1.5,2.5,25.0,20.0,45 mins,4.68
+1112,158,Garlic-Ginger Chicken Stir-Fry,dinner,2.0,45.5,21.0,19.5,450.0,124.0,1034.0,3.0,9.0,10.0,10.0,35 mins,4.88
+1113,159,Instant Pot Bolognese Sauce,Instant Pot,1.0,12.0,8.5,12.5,191.0,124.0,568.0,0.5,6.5,15.0,45.0,1 hr,4.74
+1114,160,"Sweet Potato Soup with Sausage (Slow Cooker, Instant Pot, Stove)",Instant Pot,1.0,23.5,8.5,23.0,265.0,66.0,1236.0,4.0,7.0,10.0,,6 hrs 10 mins,4.93
+1115,161,Black Bean Soup (Freezer Friendly),lunch,1.0,13.5,3.0,45.0,256.0,0.5,132.5,10.5,3.0,10.0,20.0,2 hrs 30 mins,4.96
+1116,162,Blackened Air Fryer Salmon Bites,Dinner,1.0,34.0,11.0,2.0,251.0,93.5,356.5,1.0,0.5,3.0,7.0,10 mins,4.97
+1117,163,Tofu Tacos with Potatoes and Jalapeños,Dinner,2.0,16.0,24.0,44.0,444.0,1.0,856.0,9.0,5.0,15.0,35.0,50 mins,5.0
+1118,164,Sweet Potato Turkey Meatloaf,Meatloaf,1.0,24.0,10.5,19.0,264.0,130.0,635.0,2.0,8.0,15.0,55.0,1 hr 15 mins,4.9
+1119,165,Lemony Hearts of Palm Salad with Avocado,Dinner,1.0,2.5,12.5,8.0,145.0,,166.0,4.0,-1.0,10.0,0.0,10 mins,4.75
+1120,166,Korean-Inspired Salmon Tacos with Spicy Slaw,Dinner,2.0,27.0,18.0,33.0,404.0,70.0,735.0,5.0,8.0,10.0,10.0,2 hrs 20 mins,4.84
+1121,167,Slow Cooker Ground Beef Ragu,dinner,7.0,16.0,7.0,15.0,176.0,47.0,553.0,3.0,8.0,15.0,,4 hrs 15 mins,4.73
+1122,168,Turmeric Roasted Sweet Potato and Macadamia Soup,Dinner,1.0,2.5,8.0,30.5,199.0,,196.0,5.0,2.0,10.0,10.0,1 hr 20 mins,4.91
+1123,169,Air Fryer Salmon Fish Sandwich,dinner,1.0,33.0,24.0,31.5,493.0,77.5,824.5,3.5,4.0,5.0,10.0,15 mins,4.84
+1124,170,Potato Leek Soup,dinner,1.0,4.5,2.5,23.5,133.0,7.0,416.0,3.0,5.0,5.0,25.0,30 mins,4.87
+1125,171,Chicken Taco Poblano Rice Bowls,dinner,1.0,40.5,12.0,52.0,475.0,116.0,407.5,6.0,3.5,10.0,15.0,25 mins,4.96
+1126,172,"Sheet Pan Baked Feta with Broccolini, Tomatoes and Chickpeas",dinner,1.0,17.5,21.5,33.0,372.0,40.5,1127.5,9.0,13.5,15.0,30.0,45 mins,4.96
+1127,173,Creamy Sausage and Potato Soup,dinner,1.0,25.0,7.5,60.0,402.0,55.0,1164.0,9.5,8.0,10.0,45.0,55 mins,4.94
+1128,174,Parmesan-Herb Baked Salmon,Dinner,5.0,31.0,13.0,2.0,256.0,87.5,210.5,0.5,0.5,5.0,20.0,25 mins,4.95
+1129,175,Avocado Toast with Halloumi and Egg,Breakfast,1.0,16.0,17.0,19.0,295.0,211.0,812.0,3.0,2.0,5.0,15.0,20 mins,5.0
+1130,176,Fish Taco Bowls,quinoa,6.0,31.5,12.5,9.0,264.0,84.0,1084.0,3.0,3.5,5.0,10.0,15 mins,4.87
+1131,177,Spaghetti and Meatball Soup,dinner,1.0,22.0,3.0,27.5,213.0,,739.0,4.0,2.0,10.0,20.0,30 mins,4.95
+1132,178,"Grilled Chicken Panini with Zucchini, Tomato, and Mozzarella",dinner,1.0,36.0,17.5,33.5,433.0,109.5,899.0,2.0,4.0,10.0,10.0,30 mins,4.91
+1133,179,Chicken Caprese Skillet,dinner,1.0,47.5,16.5,21.0,419.0,141.0,585.0,2.0,7.0,15.0,20.0,35 mins,4.84
+1134,180,Air Fryer Popcorn Chicken,appetizer,15.0,30.0,8.0,21.0,283.0,129.0,385.0,1.5,2.0,30.0,10.0,40 mins,4.94
+1135,181,Easy Zucchini Casserole,breakfast,1.0,4.0,3.0,11.0,83.0,,253.0,1.0,2.0,10.0,45.0,55 mins,4.43
+1136,182,Scallops with Corn and Tomatoes,Dinner,4.0,19.0,11.0,27.5,269.0,50.0,620.0,3.0,9.0,5.0,20.0,25 mins,4.93
+1137,183,Giant Zucchini Parmesan,Dinner,3.0,16.5,10.0,24.0,242.0,113.0,999.0,3.5,6.0,10.0,45.0,55 mins,4.86
+1138,184,Broiled or Grilled Pollo Sabroso,boneless chicken thighs,1.0,29.5,6.0,0.5,181.0,140.0,383.5,,,5.0,20.0,25 mins,4.97
+1139,185,"Summer Cavatelli Pasta with Corn, Tomatoes and Zucchini",Dinner,1.3,10.5,5.0,59.5,297.5,7.5,184.0,3.0,4.0,5.0,15.0,20 mins,4.98
+1140,186,Bacon-Wrapped Air Fryer Chicken Breast,Dinner,1.0,56.0,10.5,,332.0,170.5,482.0,,,5.0,18.0,23 mins,4.93
+1141,187,Air Fryer Baked Potato,Dinner,1.0,4.0,0.5,36.0,157.0,,150.0,2.52,1.0,5.0,38.0,43 mins,4.95
+1142,188,Chickpea Milanese,breakfast,1.0,10.0,13.5,41.0,320.0,0.5,428.5,8.5,5.0,15.0,10.0,25 mins,4.37
+1143,189,Broiled Fish with Tomato Caper Sauce,cauliflower rice,1.0,37.5,10.5,2.0,257.0,,,0.2,1.0,5.0,15.0,20 mins,4.83
+1144,190,Chili-Lime Air Fryer Salmon,Dinner,1.0,37.5,12.5,0.5,262.0,109.0,322.5,0.5,,5.0,10.0,15 mins,4.97
+1145,191,Tuna Poke Salad,Dinner,1.0,36.0,23.0,16.0,404.0,43.0,1211.5,7.5,3.5,15.0,0.0,15 mins,5.0
+1146,192,Arugula Pasta Salad with Chickpeas and Sun Dried Tomatoes (no mayo),Dinner,2.0,11.0,9.0,43.5,280.0,2.0,337.0,8.0,3.0,5.0,10.0,15 mins,5.0
+1147,193,Honey Sriracha Chicken and Broccoli Meal Prep Bowls,lunch,1.0,44.0,9.5,41.0,428.0,124.0,570.0,4.0,12.0,10.0,20.0,30 mins,4.69
+1148,194,"Seared Scallop Salad with Grapefruit, Arugula and Spinach",lunch,1.0,19.0,10.0,16.5,217.0,,,2.9,1.4,10.0,10.0,20 mins,5.0
+1149,195,Coconut Chicken Salad with Warm Honey Mustard Vinaigrette,lunch,1.0,27.0,11.0,32.5,397.0,,,4.5,10.0,10.0,30.0,40 mins,4.88
+1150,196,Grilled Vegetable Orzo Pasta Salad,lunch,1.0,6.5,9.0,39.5,267.0,,6.0,4.0,4.5,10.0,15.0,25 mins,4.91
+1151,197,Italian Turkey Meatballs,dinner,4.0,25.5,11.5,25.0,280.0,104.0,997.0,5.0,10.5,5.0,30.0,35 mins,4.93
+1152,198,"Grilled Chicken Tacos with Lettuce Slaw, Avocado and Cotija",dinner,2.0,33.0,16.0,22.0,330.0,83.0,697.0,5.0,2.0,10.0,15.0,1 hr 25 mins,5.0
+1153,199,Slow Cooker Chicken Tacos,dinner,3.0,45.5,13.5,44.5,474.0,124.5,470.5,9.5,4.0,2.0,,4 hrs 2 mins,4.97
+1154,0,Green Goddess Potato Salad,,1.0,4.5,3.5,23.0,141.0,0.5,202.0,2.5,2.5,20.0,15.0,1 hr 35 mins,5.0
+1155,1,Italian Shrimp Salad,lunch,1.0,20.0,11.5,5.0,198.0,152.0,442.5,1.5,1.0,20.0,0.0,3 hrs 20 mins,4.86
+1156,2,Arugula Salad,,1.0,3.5,8.5,2.0,96.0,5.0,161.0,0.5,1.0,5.0,0.0,5 mins,
+1157,3,Italian Sub Salad,Dinner,2.0,22.0,19.0,11.5,298.0,71.5,1573.5,3.0,5.5,20.0,0.0,20 mins,5.0
+1158,4,Pea Salad,Lunch,1.0,5.0,4.5,8.0,89.0,11.5,150.5,2.5,1.0,10.0,18.0,28 mins,4.67
+1159,5,Avocado Egg Salad,lunch,1.0,9.0,12.0,4.5,155.0,148.0,132.0,3.0,0.5,15.0,0.0,15 mins,4.92
+1160,6,Shaved Brussels Sprout Salad with Pears and Pomegranate,,1.0,4.0,9.0,15.5,154.0,5.5,240.0,4.5,7.0,15.0,0.0,15 mins,4.75
+1161,7,Autumn Kale Salad with Chicken,Dinner,1.0,30.0,27.0,38.0,504.0,70.5,514.5,8.5,17.5,15.0,30.0,45 mins,5.0
+1162,8,Classic Egg Salad,breakfast,1.0,9.5,15.5,1.0,185.0,282.0,215.5,,2.0,5.0,20.0,25 mins,4.89
+1163,9,Coleslaw Recipe,dinner,1.0,1.0,5.0,7.0,73.0,,302.0,2.0,3.0,15.0,0.0,45 mins,4.89
+1164,10,Italian Pasta Salad,,1.0,9.0,9.5,28.0,237.0,13.0,345.0,2.0,2.5,15.0,15.0,1 hr 30 mins,4.87
+1165,11,Mexican-Inspired Grilled Corn Salad with Cotija,,3.0,4.0,6.5,13.0,117.0,7.5,211.0,1.5,4.0,15.0,15.0,30 mins,5.0
+1166,12,Macaroni Salad with Tomatoes,,3.0,3.5,3.5,21.5,125.0,2.5,165.5,1.5,0.5,15.0,10.0,25 mins,4.84
+1167,13,Creamy Cucumber Salad,,3.0,5.0,1.5,7.0,60.0,7.0,229.5,1.0,4.0,10.0,0.0,10 mins,5.0
+1168,14,Red Potato Salad,,3.0,2.2,3.2,17.8,107.0,,,2.1,,15.0,10.0,25 mins,4.92
+1169,15,Mexican Shrimp Cobb Salad,dinner,2.0,28.0,9.0,24.0,267.5,157.5,578.5,8.0,4.0,15.0,0.0,15 mins,5.0
+1170,16,Fiesta Bean Salad,lunch,1.0,14.0,11.5,47.0,335.0,,481.5,15.5,0.5,10.0,0.0,10 mins,4.99
+1171,17,Italian Sub Broccoli Salad,lunch,2.0,21.0,23.5,20.0,373.0,41.0,1278.0,6.0,8.0,15.0,0.0,15 mins,4.99
+1172,18,5-Ingredient Salmon Salad (easy lunch idea),Lettuce Wraps,1.0,17.5,7.0,2.5,139.0,39.5,185.0,0.5,1.0,2.0,3.0,15 mins,4.71
+1173,19,Classic Chicken Salad Recipe,lunch,1.0,18.0,5.0,2.0,131.0,50.0,307.0,,1.0,5.0,5.0,10 mins,4.92
+1174,20,Air Fryer Egg Salad,lunch,2.0,12.5,20.0,1.0,237.0,378.0,299.5,,0.5,5.0,15.0,20 mins,5.0
+1175,21,Raw Beet Salad with Apples and Carrots,,,1.0,7.0,13.0,112.0,,81.0,3.0,8.5,10.0,0.0,10 mins,5.0
+1176,22,Broccoli Salad,burger,1.0,6.5,11.5,11.0,171.0,8.5,279.0,2.0,6.0,5.0,10.0,15 mins,5.0
+1177,23,Salmon Caesar Salad,lunch,1.0,42.0,20.0,6.5,364.0,97.5,414.5,3.0,1.5,15.0,15.0,30 mins,4.95
+1178,24,Rainbow Quinoa Salad with Lemon Dressing,Quinoa,2.0,10.5,17.0,51.0,394.0,,184.0,7.0,7.0,15.0,15.0,30 mins,4.62
+1179,25,Kale and Brussels Sprout Salad with Parmesan and Pecans,,1.0,4.0,14.0,7.0,165.0,6.0,218.0,2.5,2.5,20.0,0.0,20 mins,4.89
+1180,26,Lemony Hearts of Palm Salad with Avocado,Dinner,1.0,2.5,12.5,8.0,145.0,,166.0,4.0,-1.0,10.0,0.0,10 mins,4.75
+1181,27,"Fall Brussels Sprout Salad with Apples, Pecans, and Blue Cheese",,1.0,5.0,13.5,17.0,202.0,4.5,154.0,5.0,8.0,20.0,0.0,20 mins,5.0
+1182,28,Lentil Salad,lunch,1.0,10.0,3.5,29.5,181.0,,251.0,5.5,3.0,15.0,20.0,35 mins,4.96
+1183,29,Corn Tomato Avocado Salad,,1.0,2.5,8.5,14.0,128.0,,83.0,4.0,3.5,5.0,10.0,15 mins,4.98
+1184,30,"Black Bean, Avocado, Cucumber and Tomato Salad",lunch,1.0,3.5,4.0,12.5,94.0,,152.0,4.0,1.5,10.0,0.0,10 mins,4.67
+1185,31,Grilled Chicken Chickpea Salad,lunch,1.0,34.0,19.5,41.0,462.0,73.5,1103.0,11.5,16.0,5.0,0.0,5 mins,5.0
+1186,32,Grilled Tuna over Arugula with Lemon Vinaigrette,Dinner,1.0,35.5,15.5,4.0,298.0,,326.3,1.6,1.8,5.0,5.0,10 mins,4.8
+1187,33,Watermelon Arugula and Feta Salad,Lunch,1.0,4.0,11.5,11.0,157.5,,219.5,1.0,9.0,10.0,0.0,10 mins,5.0
+1188,34,Tuna Poke Salad,Dinner,1.0,36.0,23.0,16.0,404.0,43.0,1211.5,7.5,3.5,15.0,0.0,15 mins,5.0
+1189,35,Arugula Pasta Salad with Chickpeas and Sun Dried Tomatoes (no mayo),Dinner,2.0,11.0,9.0,43.5,280.0,2.0,337.0,8.0,3.0,5.0,10.0,15 mins,5.0
+1190,36,Greek Pasta Salad,,1.0,5.0,7.0,24.0,176.0,4.0,164.0,1.5,2.0,15.0,15.0,30 mins,4.81
+1191,37,Sous Vide Chicken Breast and a Cilantro Lime Chicken Avocado Salad,lunch,1.0,25.0,22.5,7.5,329.0,72.5,364.5,4.0,1.0,30.0,,2 hrs 30 mins,4.58
+1192,38,"Seared Scallop Salad with Grapefruit, Arugula and Spinach",lunch,1.0,19.0,10.0,16.5,217.0,,,2.9,1.4,10.0,10.0,20 mins,5.0
+1193,39,Coconut Chicken Salad with Warm Honey Mustard Vinaigrette,lunch,1.0,27.0,11.0,32.5,397.0,,,4.5,10.0,10.0,30.0,40 mins,4.88
+1194,40,Lemon Asparagus Couscous Salad with Tomatoes,Asparagus,1.0,6.5,4.0,30.0,170.0,,10.0,5.0,,5.0,,30 mins,4.78
+1195,41,Avocado Quinoa Salad,Quinoa,1.0,11.0,23.0,55.0,443.0,,174.0,16.0,9.5,5.0,20.0,25 mins,4.87
+1196,42,"Warm Salad with Artichoke Hearts, Roasted Peppers, Mozzarella",dinner,1.0,14.5,22.0,23.0,339.0,45.0,843.5,5.0,12.0,5.0,5.0,10 mins,5.0
+1197,43,BBQ Chicken Salad,dinner,1.0,30.0,5.0,22.0,241.0,83.0,221.0,4.0,7.0,5.0,10.0,15 mins,4.89
+1198,44,Tuna Egg Salad,lunch,1.0,30.0,20.0,4.0,316.0,450.0,420.0,,,0.0,15.0,15 mins,4.95
+1199,45,Taco Salad (Perfect for Meal Prep),dinner,1.0,28.5,17.5,13.0,313.0,92.5,917.5,4.0,5.5,10.0,20.0,30 mins,4.98
+1200,46,Leftover Turkey Harvest Cobb Salad,lunch,1.0,28.0,26.0,37.0,466.0,50.0,660.0,9.0,9.0,30.0,0.0,30 mins,5.0
+1201,47,Arugula Salmon Salad with Capers and Shaved Parmesan,dinner,1.0,32.5,16.0,2.0,288.0,86.0,288.5,0.5,1.2,5.0,10.0,15 mins,5.0
+1202,48,Air Fryer Chicken Milanese with Mediterranean Salad,Dinner,2.0,63.0,21.0,28.5,562.0,278.0,908.5,3.5,4.5,15.0,15.0,30 mins,5.0
+1203,49,Chicken Cutlet Caprese Salad,dinner,1.0,45.5,24.0,14.5,462.0,231.5,755.5,2.0,1.5,15.0,20.0,35 mins,4.93
+1204,50,Air Fryer Burst Tomato Burrata Caprese Salad,lunch,1.0,15.0,18.0,30.0,307.0,40.0,505.5,3.5,7.0,5.0,10.0,15 mins,4.93
+1205,51,Cilantro Chicken Salad,canned tuna,1.0,23.0,6.0,3.0,160.5,61.5,151.5,0.5,1.0,10.0,0.0,15 mins,4.97
+1206,52,Mayo-less Tuna Pasta Salad,lunch,1.0,24.5,10.5,23.0,271.5,37.0,463.0,3.5,1.5,10.0,0.0,10 mins,5.0
+1207,53,"Grilled Chicken, Strawberry, Avocado Salad with Citrus Dressing",lunch,1.0,30.0,26.0,14.0,399.0,83.0,164.0,5.5,6.0,10.0,15.0,55 mins,4.7
+1208,54,"Quinoa Salad with Kale, Cranberries and Mint",Quinoa,1.0,5.0,6.0,30.0,191.0,,,4.0,9.0,5.0,20.0,25 mins,5.0
+1209,55,Watermelon Feta Salad,,1.0,3.5,4.0,9.5,85.0,17.0,213.5,0.5,8.0,15.0,0.0,15 mins,5.0
+1210,56,Low-Yolk Egg Salad,Lunch,1.0,9.5,7.6,2.0,122.0,189.0,235.0,,0.5,5.0,20.0,25 mins,5.0
+1211,57,"Farro Salad with Feta, Cucumbers and Sun Dried Tomatoes",lunch,1.0,9.0,6.5,39.0,241.0,,177.5,6.0,2.0,10.0,20.0,30 mins,4.91
+1212,58,Navel Orange Salad with Avocado,Lunch,1.0,3.0,20.0,24.0,278.5,,48.5,7.0,15.0,15.0,0.0,15 mins,4.97
+1213,59,"Salmon Salad with Beets, Arugula, Pistachios and Pomegranates",lunch,1.0,33.5,26.5,18.0,437.0,85.0,727.5,4.5,12.0,15.0,15.0,30 mins,5.0
+1214,60,Greek Yogurt Caesar Salad Dressing,,3.0,6.0,6.5,2.5,91.0,10.0,278.0,0.5,1.0,5.0,0.0,5 mins,4.76
+1215,61,Buffalo Chickpea Salad,lunch,1.0,8.5,5.0,27.0,182.0,0.5,821.0,6.0,2.5,20.0,10.0,30 mins,4.91
+1216,62,"Baby Greens with Goat Cheese, Beets and Candied Pecans",Instant Pot,1.0,7.0,19.5,19.0,267.0,,211.0,2.0,14.0,10.0,0.0,10 mins,4.86
+1217,63,Tuna Salad Endive Wraps,lunch,1.0,22.0,6.0,4.5,160.0,30.0,415.0,1.0,1.0,5.0,0.0,10 mins,5.0
+1218,64,Kale and Butternut Squash Salad with Pears and Almonds,Dinner,1.0,10.0,27.0,44.0,428.0,11.0,456.0,8.5,17.0,10.0,25.0,35 mins,5.0
+1219,65,Creamy Shrimp and Celery Salad,lunch,4.0,25.0,4.5,4.0,160.0,,,0.7,1.8,5.0,5.0,10 mins,4.85
+1220,66,"Mixed Baby Greens with Pomegranate, Gorgonzola and Pecans",lunch,1.0,5.5,17.5,14.0,228.0,,206.0,3.5,9.5,5.0,,5 mins,5.0
+1221,67,Kale Salad with Quinoa and Cranberries,Quinoa,1.0,6.0,11.0,27.0,226.0,2.0,149.0,3.0,7.0,15.0,5.0,20 mins,4.83
+1222,68,Prosciutto Wrapped Figs with Blue Cheese (Grill or Air Fryer),appetizer,2.0,7.5,10.5,27.0,221.0,20.5,572.0,4.0,22.0,10.0,5.0,15 mins,5.0
+1223,69,Caprese Salad,appetizer,1.0,6.5,7.5,2.0,100.0,22.5,180.0,0.5,0.5,5.0,0.0,5 mins,
+1224,70,"Southwestern Black Bean, Quinoa and Mango Salad",Quinoa,1.0,6.0,4.0,27.0,164.0,,93.0,7.0,11.5,15.0,20.0,35 mins,4.9
+1225,71,Zesty Lime Shrimp and Avocado Salad,appetizer,1.0,25.0,8.0,7.0,197.0,221.0,330.0,3.0,,20.0,0.0,20 mins,4.91
+1226,72,Salmon Avocado Salad,lunch,1.0,25.5,20.5,12.0,329.0,62.5,287.0,6.0,2.5,10.0,15.0,25 mins,4.84
+1227,73,Chickpea Salad with Cucumbers and Tomatoes,lunch,1.0,6.0,5.0,29.0,182.0,29.0,464.0,6.0,2.0,10.0,0.0,10 mins,4.95
+1228,74,Vegan Caesar Salad,lunch,1.0,5.0,7.0,10.0,123.0,,10.0,2.5,2.0,10.0,20.0,30 mins,4.5
+1229,75,California Grilled Chicken Avocado and Mango Salad,Dinner,1.0,21.0,14.5,12.0,258.0,29.0,62.0,4.0,6.0,15.0,,15 mins,4.94
+1230,76,Ranch Chicken Salad,lunch,1.0,17.5,9.5,2.0,167.0,48.0,263.0,0.5,2.5,15.0,0.0,15 mins,4.95
+1231,77,Green Bean Salad,lunch,1.0,7.5,12.0,11.0,176.0,155.0,308.0,4.5,4.0,10.0,10.0,20 mins,4.86
+1232,78,Sesame Crusted Tuna Steak on Arugula,appetizer,4.0,36.0,8.0,16.5,290.0,15.5,626.0,1.5,11.0,15.0,3.0,20 mins,4.77
+1233,79,How To Make An Antipasto Salad Platter,appetizer,,,,,,,,,,10.0,0.0,10 mins,5.0
+1234,80,Houston’s Grilled Chicken Kale Salad with Peanut Vinaigrette,Lunch,1.0,31.0,22.0,26.0,410.0,73.0,600.0,5.0,8.0,10.0,20.0,30 mins,4.78
+1235,81,Chicken Salad with Avocado,lunch,2.0,21.5,15.0,10.5,255.0,52.5,61.0,4.0,0.5,15.0,0.0,15 mins,5.0
+1236,82,Summer Tomato Salad,quinoa,2.0,2.0,4.0,12.5,86.5,,21.5,3.0,1.0,5.0,0.0,25 mins,4.93
+1237,83,Chopped Wedge Salad,Lunch,1.0,10.0,8.0,5.5,132.0,9.5,406.0,2.0,2.5,10.0,5.0,15 mins,5.0
+1238,84,Greek Chickpea Salad,lunch,1.0,11.0,16.0,28.5,292.0,25.0,713.5,6.5,4.0,5.0,0.0,5 mins,4.96
+1239,85,Spicy Thai Shrimp Salad,dinner,1.0,28.0,19.5,38.0,420.0,135.0,864.0,6.0,14.0,20.0,5.0,25 mins,4.75
+1240,86,Chopped Feta Salad,dinner,2.0,4.0,16.5,4.5,173.0,11.0,289.0,2.0,2.5,15.0,0.0,15 mins,5.0
+1241,87,Zucchini Carpaccio,appetizer,1.0,3.0,6.0,5.0,81.0,5.0,90.0,2.0,2.0,20.0,,20 mins,5.0
+1242,88,Chilled Watermelon Cucumber Feta Salad,lunch,1.0,4.0,3.5,19.0,112.0,6.5,233.0,2.0,15.5,10.0,0.0,10 mins,5.0
+1243,89,Italian Chopped Salad,lunch,1.0,12.0,22.0,9.0,271.0,22.5,556.0,3.0,3.5,15.0,,15 mins,4.67
+1244,90,Chicken Waldorf Salad,lunch,1.0,19.5,10.5,17.0,236.0,46.5,622.0,3.0,15.5,10.0,20.0,30 mins,4.9
+1245,91,Grilled Peach and Watermelon Burrata Salad,Instant Pot,1.0,23.0,25.0,31.0,408.0,81.0,348.0,3.0,27.0,10.0,10.0,20 mins,4.89
+1246,92,Houston’s Grilled Chicken Salad,Lunch,1.0,29.0,19.5,19.0,365.0,73.0,745.0,4.0,8.0,20.0,15.0,35 mins,5.0
+1247,93,Low Carb Potato Salad,,3.0,8.0,20.0,5.5,222.0,206.0,289.5,2.0,2.0,10.0,25.0,35 mins,4.66
+1248,94,Grilled Corn Salad with Feta,lunch,2.0,5.0,8.0,18.0,153.0,11.0,200.0,2.5,6.5,5.0,15.0,20 mins,4.97
+1249,95,Chicken Salad with Lemon and Dill,lunch,3.0,31.0,8.0,1.4,207.0,84.0,167.0,,,5.0,0.0,5 mins,4.94
+1250,96,"Chopped Salad with Shrimp, Blue Cheese and Bacon",lunch,1.0,35.0,19.0,14.5,368.0,188.0,590.0,4.0,3.0,20.0,0.0,20 mins,5.0
+1251,97,Chickpea Egg Salad,lunch,1.0,20.0,16.0,36.0,375.0,279.0,278.0,7.5,2.5,5.0,,5 mins,4.94
+1252,98,Chickpea Tuna Salad,lunch,1.0,27.0,2.5,36.0,273.0,30.0,510.0,8.0,2.0,5.0,,5 mins,4.8
+1253,99,Houston’s Couscous Salad,,2.0,7.0,6.5,35.0,213.0,,218.0,4.5,11.0,10.0,10.0,20 mins,4.62
+1254,100,Carne Asada Steak Salad,Dinner,1.0,38.0,21.5,12.0,390.0,95.0,542.5,6.5,1.0,10.0,10.0,20 mins,4.92
+1255,101,Chickpea Avocado Salad,lunch,1.0,9.0,10.0,31.5,243.0,,42.0,8.5,2.5,15.0,,15 mins,4.93
+1256,102,Chicken and Shrimp Laap (Larb),lettuce wraps,3.0,34.0,6.5,5.0,220.0,68.0,795.0,1.5,2.0,10.0,20.0,30 mins,5.0
+1257,103,Seared Tuna Salad with Wasabi Butter Sauce,Lunch,1.0,37.0,11.0,12.0,311.0,80.0,552.0,2.5,2.0,15.0,15.0,30 mins,5.0
+1258,104,Ahi Tuna Watermelon Salad,appetizer,1.0,29.5,5.5,13.0,217.0,44.0,429.5,1.0,8.0,10.0,,1 hr,5.0
+1259,105,Lobster Cobb Salad,dinner,1.0,41.0,23.0,8.0,416.0,398.0,1171.0,3.5,2.0,20.0,0.0,20 mins,5.0
+1260,106,Grilled Chicken Salad with Strawberries and Spinach,Dinner,1.0,31.0,17.0,4.0,331.0,89.5,345.0,4.0,10.5,,,20 mins,5.0
+1261,107,Berry Salad with Almond-Cranberry Crusted Goat Cheese,dinner,2.0,7.5,17.0,16.0,239.0,13.0,126.0,3.0,12.0,20.0,0.0,20 mins,5.0
+1262,108,Breakfast BLT Salad,breakfast,1.0,17.5,18.0,18.0,292.0,191.0,335.5,7.0,3.0,,,15 mins,4.88
+1263,109,"Grilled Shrimp Salad with Orange, Endive, and Radicchio",Dinner,1.0,29.0,7.5,21.0,254.0,172.0,396.0,13.0,8.0,,,20 mins,5.0
+1264,110,"Asparagus Salad with Egg, Bacon and Dijon Vinaigrette",Asparagus,1.0,16.0,13.0,11.0,219.0,,306.0,5.0,1.0,,,20 mins,4.96
+1265,111,Brussels and Chickpea Salad in a Jar with Artichokes,lunch,1.0,15.0,16.0,35.0,335.0,14.0,695.0,9.0,5.0,5.0,0.0,10 mins,5.0
+1266,112,"Kale Salad with Roasted Sweet Potato, Dried Cherries, Feta & Pepitas",Lunch,1.0,8.5,11.0,42.5,288.0,,,6.0,16.0,,,,4.88
+1267,113,"Arugula Salad with Crispy Proscuitto, Parmesan and Fried Eggs",Dinner,1.0,18.5,24.0,8.0,344.0,216.0,1043.0,1.5,4.0,,,,5.0
+1268,114,Harvest Kale Salad with Roasted Winter Squash,,1.0,8.0,16.5,45.0,329.0,,98.0,11.0,8.0,,,50 mins,5.0
+1269,115,Blackened Chicken Fiesta Salad,lunch,1.0,60.0,13.5,40.0,516.0,166.0,855.0,9.0,2.0,10.0,15.0,25 mins,5.0
+1270,116,Chilled Italian Shrimp Tortellini Pasta Salad,lunch,1.0,37.0,3.0,29.0,366.0,251.0,1048.0,2.0,2.0,10.0,10.0,20 mins,4.81
+1271,117,Lobster Asparagus Chopped Salad,asparagus,1.0,27.0,10.5,14.0,247.0,165.0,699.0,5.5,0.5,,,15 mins,
+1272,118,"Summer Corn, Tomato and Avocado Salad with Buttermilk Dressing",lunch,1.0,3.5,11.0,11.5,147.0,1.0,137.0,3.5,2.5,10.0,,10 mins,5.0
+1273,119,Cobb Salad in a Jar with Buttermilk Ranch,Lunch,1.0,32.0,21.0,14.0,368.0,274.0,674.0,5.5,7.0,5.0,10.0,15 mins,5.0
+1274,120,"Prosciutto, Mozzarella and Fig Salad with Arugula",Dinner,1.0,10.0,12.5,12.0,196.0,32.0,586.0,2.0,9.0,,,10 mins,5.0
+1275,121,Peach Arugula Salad,Lunch,1.0,2.0,8.0,12.0,114.0,,43.0,3.0,7.0,10.0,0.0,10 mins,5.0
+1276,122,Cheeseburger Salad,burger,1.0,28.0,17.0,11.5,311.0,79.0,417.0,4.0,4.5,10.0,10.0,20 mins,4.99
+1277,123,Watermelon Feta Arugula Salad in Jars,lunch,1.0,4.5,11.5,14.0,170.0,19.0,281.0,1.0,10.0,,,15 mins,5.0
+1278,124,"Watermelon, Jicama and Cucumber Salad",,1.0,2.0,6.5,12.0,113.0,8.0,133.0,3.0,7.0,,,15 mins,4.0
+1279,125,Protein Egg and Quinoa Salad Jars,Quinoa,1.0,15.0,22.0,29.0,362.0,186.0,294.0,9.0,2.0,5.0,20.0,25 mins,4.88
+1280,126,"Grilled Romaine Salad with Chicken, Corn and Salsa Dressing",Dinner,1.0,25.0,14.5,17.0,288.0,108.0,521.0,5.0,4.0,5.0,25.0,30 mins,5.0
+1281,127,Spiralized Summer Roll Bowls with Hoisin Peanut Sauce,Dinner,1.0,12.0,7.0,15.0,164.0,65.0,382.0,4.0,6.0,,,10 mins,5.0
+1282,128,Shredded Raw Brussels Sprout Salad with Bacon and Avocado,lunch,2.0,10.0,21.0,18.5,284.0,3.5,535.0,9.0,4.0,8.0,7.0,15 mins,5.0
+1283,129,Mediterranean Bean Salad,lunch,3.0,8.0,4.5,26.0,175.0,,327.0,9.0,1.0,,,15 mins,5.0
+1284,130,Rosemary Chicken Salad with Avocado and Bacon,dinner,1.0,29.0,25.0,12.0,381.0,114.0,741.0,6.0,1.0,30.0,0.0,30 mins,5.0
+1285,131,Grilled Balsamic Steak with Tomatoes and Arugula,dinner,3.0,24.0,12.0,3.0,215.0,57.0,327.0,1.0,0.5,,,,5.0
+1286,132,Spiralized Carrot Salad with Lemon and Dijon,lunch,1.0,1.0,4.0,12.0,84.0,,278.0,3.0,6.0,,,15 mins,4.8
+1287,133,North African Spiced Shrimp and Chickpea Salad,lunch,6.0,15.0,8.0,29.0,243.0,64.0,458.0,5.0,0.5,,,30 mins,5.0
+1288,134,Asian Chicken Chopped Salad,Lettuce wraps,1.0,24.0,18.0,23.0,332.0,96.0,585.0,4.0,7.0,,,15 mins,5.0
+1289,135,Updated Waldorf Salad Cups,lettuce wraps,2.0,27.0,18.0,18.0,341.0,83.0,471.0,3.0,11.0,5.0,,35 mins,
+1290,136,Raw Spiralized Beet & Mandarin Salad with Mint,,1.0,1.0,10.0,23.0,184.0,,148.0,2.0,20.0,,,15 mins,5.0
+1291,137,Asian Chopped Salad with Sesame Soy Vinaigrette (In a Jar),lunch,1.0,8.0,13.5,23.0,231.0,,404.0,7.5,12.0,,,20 mins,4.45
+1292,138,Shrimp Ceviche and Avocado Salad,lunch,7.0,18.0,16.0,13.0,254.0,113.0,454.0,6.0,2.0,20.0,15.0,2 hrs 35 mins,5.0
+1293,139,Strawberry Cucumber Salad,lunch,3.0,1.0,1.5,7.0,47.0,1.0,20.0,2.0,4.0,15.0,,15 mins,4.6
+1294,140,White Bean Caprese Salad,lunch,3.0,8.0,4.5,18.0,142.0,12.0,127.0,4.0,2.0,,,20 mins,4.94
+1295,141,Avocado and Lump Crab Salad,lunch,1.0,9.5,13.0,9.0,178.0,50.0,447.0,5.0,1.0,10.0,0.0,10 mins,4.91
+1296,142,Watermelon Caprese Salad,,1.0,5.5,7.5,7.0,119.0,20.0,90.0,0.5,6.5,25.0,0.0,25 mins,5.0
+1297,143,Quick Cabbage Slaw,,1.0,1.0,7.0,7.0,88.0,,255.0,2.0,,,,15 mins,4.96
+1298,144,15 Light and Healthy Salad Recipes,asparagus,,,,,,,,,,,,,
+1299,145,Healthy Salmon Quinoa Burgers,Quinoa,1.0,23.0,13.0,17.0,277.0,105.0,338.0,2.0,5.0,10.0,20.0,30 mins,5.0
+1300,146,Spiralized Apple Cabbage Slaw,,1.0,1.0,6.0,12.0,98.0,,75.0,3.0,7.0,,,20 mins,5.0
+1301,147,BLT Salad with Avocado,lunch,2.0,10.0,13.0,13.0,197.0,19.0,397.0,5.0,5.0,5.0,10.0,15 mins,4.67
+1302,148,Bang Bang Chicken Salad,dinner,6.0,29.0,8.0,13.0,245.0,86.0,224.0,2.0,3.0,10.0,15.0,25 mins,4.91
+1303,149,Raw Shredded Brussels Sprout Salad with Lemon and Oil,,3.0,1.5,7.0,4.5,80.0,,16.0,2.0,1.0,15.0,,15 mins,5.0
+1304,150,Massaged Raw Kale Salad,lunch,1.0,4.0,6.0,3.0,80.0,7.0,304.0,1.0,1.0,5.0,0.0,5 mins,4.86
+1305,151,Chilled Lobster Salad with Sweet Summer Corn and Tomatoes,Appetizer,1.0,39.0,10.5,25.5,349.0,122.0,668.0,4.0,3.5,10.0,5.0,15 mins,5.0
+1306,152,Grilled Mediterranean Chicken and Quinoa Salad,Quinoa,1.0,20.0,8.0,8.0,180.0,7.0,255.0,1.0,1.0,15.0,20.0,35 mins,5.0
+1307,153,Steak & Caramelized Onions with Arugula and Pasta,quinoa,1.0,30.0,15.0,29.5,384.0,54.0,588.0,3.0,3.0,5.0,40.0,45 mins,5.0
+1308,154,Italian Tuna and Brown Rice Salad (Riso e Tonno),lunch,1.0,20.0,8.0,21.0,232.0,10.0,259.0,4.0,0.5,15.0,0.0,15 mins,4.28
+1309,155,Spiralized Greek Cucumber Salad with Lemon and Feta,lunch,1.0,7.0,16.0,16.0,225.0,25.0,697.5,4.0,1.0,15.0,,15 mins,4.72
+1310,156,Spiralized Raw Zucchini Salad with Avocado and Edamame,appetizer,1.0,8.0,18.0,20.0,254.0,,19.0,9.0,5.0,25.0,,25 mins,4.93
+1311,157,Grilled Shrimp and Watermelon Chopped Salad,dinner,1.0,22.0,18.0,12.0,293.0,121.0,257.0,2.0,7.0,25.0,4.0,29 mins,5.0
+1312,158,Canned Tuna Ceviche,Canned Tuna,3.0,15.0,8.0,8.5,153.0,26.0,187.0,3.0,1.0,25.0,0.0,25 mins,4.92
+1313,159,Quinoa Chickpea and Avocado Salad,Quinoa,1.0,9.0,7.0,41.0,248.0,,403.0,8.0,1.0,10.0,,10 mins,5.0
+1314,160,"Sea Scallops, Arugula and Beet Salad",,1.0,25.0,10.0,22.0,271.0,51.0,494.0,3.0,14.0,5.0,,1 hr 5 mins,3.67
+1315,161,Easy Crock Pot Chicken and Black Bean Taco Salad,Instant Pot,1.0,34.0,9.0,20.0,290.0,69.0,521.0,8.0,1.0,5.0,,4 hrs,4.94
+1316,162,Black-eyed Pea Dip,Lunch,1.0,4.5,4.0,15.0,107.0,,65.0,4.0,1.0,,,20 mins,5.0
+1317,163,Grilled Stone Fruit Salad with Honey Goat Cheese Dressing,Lunch,1.0,6.0,17.0,16.0,232.0,8.0,86.0,3.0,13.0,10.0,2.0,12 mins,
+1318,164,Orange and Arugula Salad with Red Onion and Gorgonzola,lunch,,8.0,10.5,18.5,196.0,20.0,294.0,4.0,11.0,,,15 mins,5.0
+1319,165,Southwestern Black Bean Salad,appetizer,1.0,3.0,3.5,12.0,79.5,,127.0,3.0,1.0,5.0,0.0,35 mins,5.0
+1320,166,Mediterranean Quinoa Salad,Quinoa,1.0,4.5,8.0,15.5,145.5,7.5,137.0,2.5,,10.0,20.0,30 mins,4.97
+1321,167,Grilled Shrimp Avocado Fennel and Orange Salad,dinner,1.0,26.0,12.0,19.0,283.5,172.5,196.0,6.0,8.0,30.0,15.0,45 mins,5.0
+1322,168,Antipasto Salad,lunch,1.0,16.0,16.0,19.5,254.0,37.5,,7.5,3.0,10.0,,10 mins,5.0
+1323,169,Homemade Croutons,,1.0,2.0,6.5,5.0,28.5,1.0,47.0,0.9,0.7,2.0,28.0,30 mins,5.0
+1324,170,Blood Orange Endive Salad,dinner,1.0,10.0,8.5,40.5,256.0,,246.5,23.0,16.0,,,15 mins,
+1325,171,Arugula Fig Salad with Goat Cheese,,1.0,2.0,4.5,20.5,125.0,,43.0,2.0,15.0,5.0,0.0,5 mins,5.0
+1326,172,Grilled Chicken and Spinach Salad with Balsamic Vinaigrette,Dinner,1.0,17.5,8.0,11.5,183.0,37.0,101.5,3.0,1.5,,10.0,20 mins,5.0
+1327,173,Mediterranean Chicken Kebab Salad,lunch,1.0,28.5,8.0,9.0,240.0,160.0,444.0,2.5,2.0,15.0,15.0,2 hrs 30 mins,4.8
+1328,174,Quinoa Salad with Spinach Grapefruit & Avocado,Quinoa,1.0,4.5,12.9,25.5,222.0,,26.8,5.9,1.6,10.0,10.0,20 mins,
+1329,175,Spinach and Butternut Squash Salad with Gorgonzola,lunch,1.0,7.5,13.5,26.5,241.5,5.0,160.0,5.5,8.5,5.0,25.0,30 mins,5.0
+1330,176,"Summer Tomatoes, Corn, Crab and Avocado Salad",appetizer,1.0,9.0,6.0,11.5,131.0,,263.5,4.0,2.5,,,15 mins,5.0
+1331,177,Tomato Mozzarella and Arugula Tower,lunch,1.0,12.2,23.0,9.2,276.6,,349.2,1.9,1.4,,,,5.0
+1332,178,BLT Macaroni Salad,,1.0,5.5,4.5,26.5,149.0,,146.5,4.0,,10.0,45.0,55 mins,4.56
+1333,179,Vietnamese Shaking Beef (Bo Luc Lac),Dinner,3.0,27.3,10.1,16.6,268.9,,1451.0,0.9,12.0,,,,4.55
+1334,180,Papaya Avocado Salad,Appetizer,,2.0,8.5,10.5,112.5,,,6.0,,,,20 mins,5.0
+1335,181,"Arugula with Pomegranates, Blue Cheese and Pistachios",lunch,1.0,6.5,13.0,13.5,195.5,,,4.0,,,,15 mins,
+1336,182,Shrimp Salad on Cucumber Slices,appetizer,7.0,18.8,2.8,3.7,117.0,165.0,275.0,1.0,,10.0,0.0,10 mins,5.0
+1337,183,Panzanella,lunch,1.0,3.1,2.9,17.7,104.3,,,2.2,,,,,5.0
+1338,184,Red Beet Salad,,1.0,1.0,,6.5,48.5,,,1.5,,10.0,,1 hr 10 mins,4.75
+1339,185,Avocado Salad with Citrus Vinaigrette,,1.0,3.0,14.0,14.0,171.5,,15.5,6.0,2.0,,,10 mins,4.34
+1340,186,Basil Green Goddess Salad Dressing,Lunch,2.0,1.3,4.9,2.9,60.3,,,0.3,,,,,5.0
+1341,187,Heirloom Tomato Salad,lunch,1.0,1.0,9.0,7.5,110.5,,139.0,1.5,,15.0,,15 mins,5.0
+1342,188,Swordfish Burgers with Lemon Vinaigrette,lunch,1.0,33.4,16.0,5.3,304.3,63.0,148.8,0.7,0.1,10.0,8.0,18 mins,5.0
+1343,189,"Blood Orange Salad with Gorgonzola, Pecans and Baby Greens",lunch,1.0,6.3,22.5,16.4,283.8,,263.1,4.4,13.1,,,,5.0
+1344,190,Pan Seared Scallops with Baby Greens and Citrus Mojo Vinaigrette,lunch,1.0,20.5,9.5,8.5,212.0,42.5,206.5,1.5,4.0,,,,5.0
+1345,191,Broccoli and Cauliflower Salad with Capers in Lemon Vinaigrette,,1.0,3.2,7.0,7.6,97.0,,121.5,3.5,,,,20 mins,
+1346,192,Autumn Salad with Pears and Gorgonzola,Lunch,1.0,4.5,12.5,10.5,160.5,,,2.0,2.0,5.0,,5 mins,5.0
+1347,193,Grilled Zucchini and Tomato Salad – 0 pts,,1.0,,,,,,,,,,,,
+1348,194,Mixed Baby Greens and Arugula with Blackberries and Pecans,Lunch,1.0,2.1,14.1,6.9,155.6,,14.8,2.8,2.8,,,,5.0

@@ -1,0 +1,1101 @@
+,Recipe_Name,Type,Protein,Fat,Carbs,Calories,cholesterol,sodium,fiber,sugar,Total_Time,Ratings
+0,Protein Waffles,Breakfast,4.25,2.25,6.0,60.5,40.5,112.2,0.75,0.75,15,4.9
+1,Deviled Eggs,Appetizer,3.15,3.75,0.5,48.4,93.5,78.0,0.5,0.15,25,4.78
+2,Crustless Quiche,Dinner,20.0,12.5,5.0,215.0,193.0,620.0,1.0,2.5,55,4.88
+3,Spanish Tortilla with Pimenton Aioli,Appetizer,9.0,14.5,21.5,247.0,188.0,363.5,2.0,2.5,75,4.44
+4,Corned Beef Hash,Breakfast,14.5,16.0,26.0,300.0,62.5,782.5,3.5,6.5,25,4.75
+5,Green Shakshuka,Breakfast,10.0,8.0,8.0,145.5,190.0,362.0,2.5,3.0,45,5.0
+6,Whole Wheat Irish Soda Bread Muffins,Breakfast,4.0,3.5,24.5,147.0,24.0,148.0,1.5,10.0,35,4.84
+7,High-Protein Egg Bagel,Breakfast,10.0,2.5,30.0,184.0,93.5,487.0,1.0,1.5,50,4.8
+8,Carrot Banana Protein Smoothie,Breakfast,28.5,6.5,34.0,294.0,5.0,290.5,7.0,17.5,5,4.84
+9,Chocolate Oat Flour Banana Bread,Breakfast,5.5,7.0,34.5,190.0,34.5,179.5,9.5,11.5,80,4.97
+10,Mushroom Toast,Breakfast,7.0,10.5,20.5,196.0,14.5,222.0,2.0,3.5,15,5.0
+11,Smoked Turkey Sausage Breakfast Skillet,Breakfast,22.5,19.0,5.5,284.0,355.5,547.5,1.5,1.5,27,5.0
+12,Breakfast Casserole with Spinach and Sausage,Breakfast,22.0,15.0,5.0,245.0,268.0,616.0,0.5,2.5,50,4.86
+13,Cheddar Biscuits,Dinner,8.0,5.0,26.5,185.0,16.0,480.5,1.0,1.0,45,4.78
+14,Cornbread Muffins,Breakfast,4.0,5.5,27.0,170.0,46.5,237.0,1.5,9.0,30,5.0
+15,Pumpkin Bread Recipe,Breakfast,2.1,2.2,18.7,103.0,5.0,280.5,0.7,10.2,75,4.9
+16,Pumpkin Baked Oatmeal Cups,Breakfast,6.0,3.0,37.0,104.0,64.0,137.0,1.5,2.0,45,4.73
+17,Apple Turnover,Dessert,1.5,1.0,24.0,111.0,5.0,129.0,2.0,11.5,70,5.0
+18,Classic Egg Salad,Breakfast,9.5,15.5,1.0,185.0,282.0,215.5,1.0,2.0,25,4.89
+19,Mini Pumpkin Chocolate Chip Muffins,Breakfast,1.0,2.5,13.5,80.0,2.5,59.0,1.0,9.0,40,4.82
+20,Banana Bread Recipe,Breakfast,3.0,3.0,29.0,123.0,15.5,165.0,1.5,4.0,70,4.96
+21,Cinnamon-Raisin Overnight Oats,Breakfast,10.0,14.0,58.0,378.0,5.0,176.5,12.0,21.0,9,5.0
+22,Mini Quiche,Breakfast,9.0,7.0,8.0,134.0,137.5,327.0,0.25,0.75,45,4.75
+23,Babka-Inspired Bagels,Breakfast,5.0,2.0,30.0,158.0,47.0,473.0,1.0,5.0,73,4.89
+24,Feta Eggs with Zucchini,Breakfast,8.75,10.25,3.75,142.0,198.5,235.5,0.5,1.75,13,5.0
+25,Zucchini Bread,Breakfast,3.5,5.5,21.0,144.0,15.5,125.0,2.0,8.0,75,4.84
+26,Loaded Egg Muffins,Breakfast,7.0,5.5,1.25,82.5,144.5,133.5,0.5,0.5,30,4.72
+27,Protein Bagels with Cottage Cheese,Breakfast,9.0,1.0,28.5,164.0,5.0,583.0,1.0,1.0,37,4.82
+28,Greek Cottage Cheese Bowl,Breakfast,21.5,7.0,9.5,186.0,28.5,695.0,1.5,6.0,15,4.72
+29,Broccoli and Cheese Egg Muffins,Breakfast,9.0,4.25,2.5,83.5,85.0,158.5,1.25,0.5,35,4.77
+30,English Muffin Breakfast Sandwich,Breakfast,18.5,9.5,29.5,242.0,211.0,671.0,8.0,3.2,15,5.0
+31,20+ High Protein Breakfast Ideas,Breakfast,3.0,5.0,12.0,122.0,5.0,10.0,1.0,1.0,30,5.0
+32,Roasted Strawberry Almond Flour Muffins,Breakfast,6.0,8.5,15.5,164.0,7.0,155.5,2.5,10.5,50,4.41
+33,Huevos Pericos,Breakfast,13.9,7.7,8.5,155.0,5.0,10.0,2.3,1.0,7,5.0
+34,Green Smoothie Bowl,Breakfast,9.0,10.5,74.0,404.0,5.0,115.0,12.0,51.5,5,5.0
+35,Insanely Good Blueberry Oatmeal Muffins,Appetizer,3.0,2.5,28.5,127.0,5.0,222.5,2.5,17.5,62,4.85
+36,Artichoke Pie,Dessert,12.5,13.0,17.0,229.0,107.5,401.0,4.0,1.0,65,4.86
+37,Hash Brown Egg White Nests,Breakfast,6.5,1.0,7.5,67.0,2.5,5.0,1.0,0.25,70,4.7
+38,Tropical Chia Pudding Breakfast Bowl (High Protein),Breakfast,18.0,13.0,35.0,305.0,7.0,110.0,12.0,19.0,12,4.95
+39,High Protein Egg White Muffins with Turkey Bacon,Breakfast,10.0,2.25,2.25,72.0,16.5,251.0,0.5,1.0,50,4.86
+40,Air Fryer Breakfast Banana Split,Breakfast,15.0,9.0,41.0,286.0,7.0,46.0,4.5,26.0,7,4.95
+41,Zoats or Zucchini Oats,Breakfast,24.0,12.5,63.0,441.0,5.0,207.0,12.0,18.0,10,4.69
+42,Breakfast Strata with Sausage and Mushrooms,Breakfast,24.3,12.4,18.2,289.0,86.7,355.0,1.3,0.6,60,5.0
+43,Slow Cooker Steel Cut Oats,Breakfast,3.0,2.67,16.83,100.67,1.67,11.7,3.17,4.17,7,4.92
+44,Bacon Spinach Breakfast Casserole with Gruyère Cheese,Breakfast,22.0,19.0,4.0,276.0,313.0,527.0,1.0,3.0,55,4.92
+45,Savory Steel Cut Oatmeal,Breakfast,21.0,12.0,26.0,290.0,72.0,605.0,4.0,2.0,17,4.92
+46,High-Protein Zucchini Omelet for One,Lunch,31.0,13.0,10.5,283.0,194.5,844.5,2.0,6.0,17,4.95
+47,High-Protein Enchilada Scrambled Eggs,Breakfast,25.5,14.0,12.0,270.0,15.0,882.5,5.0,3.0,7,5.0
+48,Apple Pie Overnight Oats,Dessert,8.0,11.0,59.0,361.0,5.0,154.0,10.0,21.0,33,4.73
+49,Avocado Toast with Egg – Four (4) Ways,Breakfast,12.0,10.0,23.0,229.0,186.0,223.0,5.0,4.0,10,4.97
+50,Pumpkin Banana Bread,Breakfast,2.7,2.7,33.3,146.5,23.0,131.5,1.6,20.0,85,4.92
+51,Lox and Eggs with Onions,Breakfast,21.5,17.0,9.0,279.0,397.0,690.0,1.5,4.0,20,5.0
+52,Whole Wheat Pumpkin Pancakes with Pecans,Breakfast,5.0,4.0,15.5,117.0,1.5,248.5,2.0,5.5,20,4.77
+53,Peanut Butter Banana Muffins,Breakfast,5.5,9.0,24.5,192.0,5.0,170.0,2.0,9.5,40,4.89
+54,Cream Cheese Pumpkin Muffins,Breakfast,3.5,6.0,25.0,170.0,34.0,160.0,2.0,16.0,40,4.85
+55,Pumpkin Overnight Oats,Breakfast,10.0,12.0,40.5,269.0,5.0,165.5,10.0,16.0,18,5.0
+56,Avocado Toast with Halloumi and Egg,Breakfast,16.0,17.0,19.0,295.0,211.0,812.0,3.0,2.0,20,5.0
+57,15-Minute Protein Chia Seed Cereal,Breakfast,29.0,10.0,30.0,318.0,5.0,380.0,15.0,6.0,17,4.59
+58,Three-Cheese Zucchini Quiche,Lunch,15.0,19.0,21.0,307.0,202.0,544.0,1.0,5.0,90,4.91
+59,Pineapple Chia with Cottage Cheese,Breakfast,16.5,8.5,38.0,295.0,10.0,233.5,11.5,21.5,7,5.0
+60,Peach Pie Cottage Cheese Bowls,Breakfast,31.0,9.0,25.0,272.0,30.0,714.0,3.0,21.0,15,5.0
+61,Overnight Oats (How To Make),Breakfast,6.0,10.0,34.5,236.0,5.0,95.0,8.5,11.5,13,4.92
+62,Mango Coconut Chia Pudding,Dessert,7.0,13.0,22.0,227.0,5.0,66.0,11.5,10.5,10,4.98
+63,Berry Cottage Cheese Breakfast Bowl,Breakfast,19.0,9.5,20.5,232.0,15.0,346.5,7.0,11.5,5,5.0
+64,Instant Pot Baked Oatmeal Bars,Dinner,9.0,6.5,45.0,266.0,5.0,61.0,8.0,11.0,60,4.86
+65,Swiss Chard Frittata,Dinner,12.0,5.5,13.0,139.0,130.0,446.0,5.0,2.0,40,4.89
+66,Banana Nut Pancakes,Breakfast,3.5,2.0,11.0,73.0,1.0,104.5,1.55,2.5,20,4.93
+67,Peanut Butter Breakfast Oatmeal Bowl,Breakfast,11.0,15.0,60.0,389.0,5.0,78.0,11.5,21.0,7,4.91
+68,Roasted Strawberry Banana Bread,Breakfast,2.0,2.0,19.0,88.0,4.0,111.0,2.0,10.0,75,4.79
+69,High-Protein Scrambled Eggs with Cottage Cheese,Breakfast,17.5,10.5,1.5,173.0,377.0,327.0,1.0,1.0,6,4.88
+70,Peanut Butter Oatmeal Protein Cookies,Dessert,6.0,7.25,19.5,152.0,23.5,70.0,4.25,4.5,30,4.77
+71,Meal Prep Breakfast Taco Scramble,Breakfast,46.0,19.0,24.5,450.0,435.0,1145.5,4.0,3.0,60,4.9
+72,Cream Cheese-Filled Almond Flour Banana Muffins (Gluten-Free),Breakfast,5.0,8.5,13.5,149.0,42.0,209.5,3.0,8.5,60,5.0
+73,Crustless Potato Jalapeño Quiche,Breakfast,11.5,12.5,12.0,207.0,177.5,410.0,1.5,3.5,60,4.92
+74,Mushroom-Spinach Scrambled Eggs,Breakfast,21.5,17.0,10.0,271.0,372.0,217.5,2.5,5.0,15,4.91
+75,Healthy 3-Ingredient Banana Oatmeal Cookies,Breakfast,1.0,1.75,7.5,46.5,2.5,0.2,1.0,2.25,25,4.67
+76,Baked Oatmeal with Blueberries and Bananas,Breakfast,5.5,5.5,38.0,211.0,31.5,77.0,4.0,23.0,45,4.75
+77,Waffled Vegetable Latkes,Appetizer,4.5,2.0,17.5,102.5,69.75,287.8,3.0,3.0,30,4.75
+78,Peanut Butter and Jelly Smoothie,Lunch,6.0,11.0,29.0,222.0,5.0,216.0,8.0,19.0,5,5.0
+79,Huevos Rancheros,Breakfast,11.25,9.25,21.0,207.0,193.5,5.0,5.0,5.75,15,5.0
+80,Banana Nut Protein Oats,Breakfast,18.5,9.0,63.5,388.0,9.5,203.0,6.5,23.0,10,4.84
+81,Strawberry Scones,Breakfast,4.5,6.5,32.0,201.0,5.0,10.0,2.5,1.0,50,4.85
+82,Asparagus and Swiss Cheese Frittata,Lunch,19.0,15.0,9.0,243.0,259.0,386.0,1.0,3.0,40,4.96
+83,Oatmeal Berry Smoothie Bowl,Breakfast,3.0,2.0,33.5,154.0,5.0,23.5,6.0,13.5,10,5.0
+84,Strawberries and Yogurt Whipped Cream,Dessert,0.42,1.25,2.17,20.83,4.58,2.6,0.33,1.83,15,5.0
+85,Protein PB & J Smoothie Bowl,Lunch,14.5,11.0,30.5,268.0,5.0,278.0,6.5,17.9,5,4.74
+86,Spanakopita Baked Eggs,Appetizer,15.0,11.0,13.5,198.0,205.0,703.5,6.0,3.0,35,4.75
+87,Cacio e Pepe Frittata with Cauliflower and Lemony Yogurt,Lunch,20.0,18.5,5.5,277.0,389.0,540.5,1.5,2.5,60,5.0
+88,Cottage Cheese Egg and Sausage Frittata,Breakfast,21.5,15.0,2.0,233.0,386.0,723.0,0.5,1.0,30,4.96
+89,Baked Sweet Potato Egg Cups,Breakfast,8.0,6.5,10.0,132.0,190.5,207.0,1.0,2.0,35,4.65
+90,Savory Cottage Cheese Bowl,Breakfast,25.0,8.0,19.0,221.0,23.0,624.0,4.5,13.0,5,4.98
+91,High Protein Bread (Oat Sandwich Rolls),Breakfast,10.5,3.0,18.0,135.5,5.0,582.5,2.5,1.5,30,4.41
+92,3-Ingredient Baked Bananas,Dessert,1.5,0.5,35.5,137.0,5.0,2.0,3.0,23.0,20,4.8
+93,Breakfast Egg Rolls,Breakfast,8.75,4.0,12.25,120.0,110.75,292.5,0.5,0.5,30,4.75
+94,Virgin Bloody Mary,Appetizer,0.5,0.25,3.5,16.5,2.5,147.5,0.75,2.25,10,4.91
+95,Yogurt Sheet Pan Pancakes with Mixed Berries,Breakfast,4.0,2.25,16.0,105.5,28.5,242.0,1.0,5.0,30,4.89
+96,Lemon Cranberry Scones,Breakfast,4.3,4.7,34.0,193.0,5.0,10.0,2.1,1.0,35,4.84
+97,Crustless Sausage and Spinach Quiche,Breakfast,21.5,14.0,6.5,233.0,208.0,652.0,1.0,2.0,70,4.92
+98,Lemon Blueberry Buttermilk Sheet Pan Pancakes,Breakfast,3.5,2.5,17.5,107.0,28.5,251.5,1.25,4.5,35,4.93
+99,Chocolate Zucchini Bread,Breakfast,4.0,8.0,28.0,190.5,5.0,147.0,2.5,14.5,75,4.64
+100,Easy Blueberry Buttermilk Cake,Dessert,3.1,2.9,33.0,168.0,17.5,191.8,1.2,17.1,50,4.78
+101,Crustless Quiche Lorraine,Breakfast,16.0,14.0,2.5,205.0,214.5,350.0,1.0,2.0,45,4.9
+102,"Caramelized Onion, Red Pepper and Zucchini Frittata",Breakfast,13.0,11.5,8.0,186.0,284.0,226.5,2.0,4.0,40,4.84
+103,Omelet Tortilla Breakfast Wrap,Breakfast,28.0,17.0,23.0,315.0,377.0,1037.0,14.5,2.0,15,4.93
+104,Banana Pancake Cereal,Breakfast,4.75,2.25,25.0,136.0,2.5,189.2,2.5,8.25,30,4.78
+105,Superfood Triple Berry Chia Pudding,Breakfast,4.0,5.0,12.0,110.0,5.0,64.0,7.5,3.0,25,3.5
+106,Lightened Up Blueberry Scones,Breakfast,5.0,6.5,33.5,216.0,43.0,335.0,0.5,9.5,30,4.71
+107,Tropical Mango Blueberry Lassi,Breakfast,8.0,6.0,34.5,215.0,2.5,221.0,5.0,24.5,5,4.6
+108,Egg Tomato and Scallion Sandwich,Breakfast,13.5,9.5,21.0,213.0,189.0,363.0,5.5,5.0,15,4.96
+109,Skillet Mixed Berry Buttermilk Cobbler,Dessert,2.0,4.0,28.0,151.0,5.5,100.5,4.5,16.5,80,4.8
+110,Hot Cross Buns,Breakfast,5.25,0.25,23.0,115.0,2.5,213.0,0.75,8.25,60,4.38
+111,Banana Bread Muffin in a Mug,Breakfast,2.0,0.5,25.5,108.0,5.0,123.0,2.0,7.0,20,4.57
+112,Chorizo Breakfast Bowls,Breakfast,31.0,24.0,23.0,429.0,428.0,656.0,5.0,1.5,30,5.0
+113,Chocolate Pistachio Biscotti,Breakfast,2.5,4.5,15.0,103.0,20.5,43.5,1.0,6.5,45,4.72
+114,Changua (Colombian Milk and Egg Soup),Breakfast,14.0,8.5,11.5,180.0,201.0,181.5,0.5,9.5,20,4.8
+115,Breakfast Casserole with Spinach and Feta,Breakfast,19.5,20.5,8.0,296.0,414.5,735.0,0.5,4.5,100,4.69
+116,Easy Healthy Ground Turkey Chorizo,Breakfast,15.0,5.5,2.0,116.0,53.0,253.0,0.5,1.0,20,4.95
+117,Banana Nut Bread,Breakfast,1.5,4.0,19.5,104.0,5.0,100.0,1.0,10.5,70,4.85
+118,Pumpkin Butter,Breakfast,0.25,0.25,6.5,21.0,2.5,2.5,0.5,6.0,45,4.9
+119,Cinnamon Apple Yogurt Bowls,Breakfast,12.5,10.0,40.0,283.0,5.0,161.0,3.0,31.5,30,4.85
+120,Baked Oatmeal Recipe with Pears Bananas and Walnuts,Dessert,5.5,6.0,39.5,225.0,32.0,72.0,4.5,22.0,55,4.88
+121,Breakfast BLT,Breakfast,21.0,14.5,21.0,288.0,193.0,681.0,6.0,3.0,15,5.0
+122,Air Fryer Hard Boiled Eggs,Appetizer,6.0,5.0,0.5,78.0,186.0,62.0,1.0,0.5,15,4.53
+123,Smoked Salmon Breakfast Flatbread,Breakfast,15.5,8.0,28.5,247.0,11.5,980.0,2.0,3.0,30,4.95
+124,Tex Mex Migas,Breakfast,17.0,19.0,22.5,326.0,377.5,360.0,5.0,1.5,20,4.86
+125,Veggie Ham and Cheese Breakfast Egg Casserole,Breakfast,14.0,8.0,5.0,152.0,102.0,385.0,1.0,1.0,60,4.98
+126,Freezer Breakfast Burritos,Breakfast,21.0,16.0,18.0,261.0,325.0,723.0,11.0,1.0,30,4.95
+127,How To Hard Boil Eggs (Perfect Everytime),Breakfast,6.0,5.0,1.0,77.0,212.0,62.0,1.0,1.0,25,5.0
+128,Swiss Chard Eggs Benedict,Breakfast,19.5,9.5,25.5,244.0,202.0,1136.0,10.0,4.5,30,5.0
+129,Yogurt Waffles,Breakfast,7.5,2.0,34.0,195.0,63.0,532.0,0.2,2.0,25,4.82
+130,Crustless Broccoli Cheddar Quiche,Dinner,12.5,12.0,5.0,174.0,178.0,358.0,1.5,3.0,50,4.92
+131,Instant Pot Steel Cut Oats,Dinner,7.0,3.0,50.5,235.0,5.0,26.0,6.5,15.0,25,4.68
+132,Huevos Pericos (Colombian Scrambled Eggs),Breakfast,19.5,19.0,5.0,272.0,558.0,220.5,1.0,1.5,20,4.91
+133,How To Setup an Easy Bagel Bar Brunch,Breakfast,3.0,5.0,12.0,122.0,5.0,10.0,1.0,1.0,60,4.86
+134,Tex Mex Breakfast Casserole,Breakfast,15.5,15.5,12.0,248.0,246.5,561.0,2.0,3.0,80,4.94
+135,Instant Pot Deviled Eggs,Dinner,3.25,4.0,0.25,52.0,93.75,59.5,0.5,0.5,20,4.29
+136,Hash Brown Recipe,Breakfast,5.0,1.5,25.5,129.0,46.5,306.0,2.5,1.0,30,3.67
+137,Maple Pecan Banana Muffins,Breakfast,3.0,5.0,23.0,142.0,5.0,113.0,2.0,12.0,45,4.92
+138,Bacon Egg and Avocado Breakfast Sandwich,Breakfast,25.0,16.0,30.0,369.0,427.0,668.0,3.0,2.5,35,5.0
+139,Crustless Summer Zucchini Pie,Lunch,8.1,4.8,13.1,125.3,52.0,420.1,2.0,2.5,45,4.77
+140,Spinach Ricotta Quiche,Breakfast,12.0,13.0,15.5,225.0,178.0,366.5,0.5,1.0,80,4.92
+141,Yogurt Chocolate Chip Muffins,Breakfast,6.0,5.5,30.0,187.0,8.0,256.0,0.5,17.0,30,4.74
+142,Strawberry Peanut Butter Swirl Smoothie Bowls,Breakfast,7.5,13.5,31.5,260.0,5.0,188.0,5.0,19.5,5,4.9
+143,Chicken Quiche,Lunch,26.5,17.0,19.5,333.5,269.5,507.0,0.5,2.0,100,4.61
+144,Smoked Salmon Pinwheels,Appetizer,3.38,2.5,1.25,42.0,5.5,224.5,0.25,0.38,20,5.0
+145,Breakfast Pizza,Breakfast,20.5,9.0,27.0,271.0,198.5,568.0,1.5,2.5,30,4.89
+146,Stuffed Bagel Balls (Baked or Air Fryer),Breakfast,5.25,1.5,12.5,86.5,1.75,274.5,0.5,1.5,35,4.83
+147,Czech Crepes with Berries and Cream,Breakfast,3.5,2.0,15.0,90.0,31.5,25.0,2.5,5.0,30,4.89
+148,Easy Bagel Recipe,Breakfast,10.0,0.3,26.5,152.0,5.0,434.0,1.0,2.5,30,4.76
+149,Spicy Breakfast Fajitas with Eggs and Guacamole,Lunch,9.5,13.0,19.0,227.0,190.0,142.0,4.5,0.5,20,5.0
+150,"Gluten-Free, Dairy-Free, Blueberry Oatmeal Muffins",Breakfast,3.0,2.5,32.5,148.0,5.0,168.5,2.5,18.0,60,4.72
+151,Goat Cheese Herb Omelet with Nova Lox,Breakfast,21.5,15.0,3.5,239.0,389.5,913.0,0.5,0.5,5,5.0
+152,Asparagus and Lentils with Poached Egg,Lunch,15.0,12.5,19.0,238.0,183.0,195.0,6.0,3.5,30,5.0
+153,Breakfast BLT Salad,Breakfast,17.5,18.0,18.0,292.0,191.0,335.5,7.0,3.0,15,4.88
+154,Instant Pot Hard Boiled Eggs (and Soft Boiled),Dinner,6.0,5.0,0.5,78.0,186.0,62.0,1.0,0.5,10,4.56
+155,Sheet Pan Home Fries,Breakfast,1.0,1.67,9.67,57.33,1.67,132.7,1.67,1.0,40,5.0
+156,4-Ingredient Flourless Banana-Nut Oatmeal Pancakes,Breakfast,3.33,5.5,12.0,106.0,62.0,24.2,1.83,5.17,15,4.55
+157,Whole Wheat Pancakes,Breakfast,4.5,1.0,15.75,86.0,2.5,280.5,2.5,1.25,25,4.65
+158,Crab Cakes Benedict with Avocado Relish,Breakfast,24.0,13.0,5.5,231.0,323.5,796.0,3.0,1.0,90,4.84
+159,Hummus Avocado Toast,Breakfast,5.25,4.75,16.0,124.5,2.5,233.5,4.0,2.0,5,4.88
+160,Avocado Toast with Lemon and Kale,Breakfast,5.5,7.0,18.0,149.0,2.5,120.5,5.0,2.5,15,4.89
+161,Asparagus-Pancetta Potato Hash,Lunch,4.0,3.0,7.33,72.33,65.33,177.0,1.33,0.33,30,4.94
+162,Miami Avocado Crab Toast,Breakfast,17.0,9.0,25.0,242.0,62.0,563.0,5.5,4.0,30,5.0
+163,Open-Faced Omelet with Avocado and Pico de Gallo,Breakfast,11.0,9.0,4.0,140.0,186.0,130.0,2.0,1.0,15,5.0
+164,Breakfast Burrito Bowl with Spiced Butternut Squash,Breakfast,9.0,11.0,21.0,227.0,191.0,339.0,5.0,5.0,30,4.93
+165,"Spinach, Feta, and Artichoke Breakfast Bake",Breakfast,11.0,7.0,4.0,128.0,196.0,439.0,1.0,1.0,60,4.91
+166,"Open-Faced Omelet with Feta, Roasted Tomatoes and Spinach",Breakfast,13.0,13.0,5.0,183.0,289.0,362.0,2.0,1.0,30,5.0
+167,Leftover Turkey and Sweet Potato Frittata,Breakfast,16.5,8.0,7.0,170.0,178.5,463.0,1.0,1.0,55,5.0
+168,Berry Quinoa Breakfast Bowls,Breakfast,6.0,4.5,47.0,240.0,5.0,95.0,6.0,23.0,30,5.0
+169,Pumpkin Pecan Banana Bread,Breakfast,3.0,5.0,27.0,146.0,5.0,116.0,2.0,16.0,80,4.7
+170,Pumpkin Spice Cream Cheese,Breakfast,0.75,1.75,2.75,28.5,5.0,0.8,0.5,2.0,15,5.0
+171,Eggs Pizzaiola,Lunch,9.5,7.5,6.5,133.0,190.0,402.0,1.5,3.0,25,5.0
+172,"Cucumber, Parsley, Pineapple and Lemon Smoothie",Breakfast,2.0,5.0,31.0,118.0,5.0,24.0,5.0,18.0,10,4.75
+173,Chocolate Chip Zucchini Bread,Breakfast,2.0,4.0,30.0,148.0,5.0,186.5,2.0,17.0,75,4.87
+174,Summer Mango Stone Fruit Smoothie,Breakfast,2.0,0.5,35.0,122.0,5.0,20.0,4.0,24.0,20,5.0
+175,Overnight Oats with Figs and Honey,Breakfast,5.5,10.5,36.0,245.0,5.0,91.0,7.0,17.0,5,5.0
+176,Blueberry Banana Bread,Breakfast,2.0,2.0,21.0,98.0,4.0,87.0,2.0,13.0,65,4.85
+177,Baked Eggs in Spaghetti Squash Nests,Breakfast,10.0,8.0,10.0,152.0,194.0,352.0,1.0,1.0,45,3.5
+178,Skillet Sweet Potato Chicken Hash with Eggs,Breakfast,25.0,10.0,18.0,265.0,222.0,328.0,3.0,3.0,30,4.95
+179,Bell Pepper and Potato Frittata,Breakfast,11.0,6.0,12.0,144.0,186.0,127.0,1.0,1.0,50,4.67
+180,Petite Crustless Quiche,Breakfast,9.0,5.5,6.0,108.5,85.0,276.0,0.5,1.0,40,4.89
+181,Turkey Sausage Patties From Scratch,Breakfast,15.0,6.0,3.0,134.0,54.0,55.0,1.0,1.0,30,4.2
+182,Avocado Toast Egg-in-a-Hole,Breakfast,12.0,10.0,23.0,229.0,186.0,223.0,5.0,4.0,5,5.0
+183,Poached Pears with Yogurt,Dinner,2.0,1.0,29.0,134.0,5.0,28.0,3.5,21.5,35,5.0
+184,Avocado Egg Salad and Salmon Sandwich,Appetizer,16.5,8.0,22.5,226.0,101.0,504.0,4.0,5.0,20,5.0
+185,"Sausage, Cheese and Veggie Breakfast Casserole",Breakfast,19.0,13.5,7.0,230.0,216.0,496.0,1.0,2.0,45,4.92
+186,Mini Greek Spinach Pies,Appetizer,1.0,2.0,3.0,34.5,1.0,53.5,0.5,0.5,45,5.0
+187,Gluten-Free Banana Nut Bread,Breakfast,3.0,5.0,24.0,130.0,5.0,106.0,2.0,12.0,60,4.77
+188,Baked Pears with Walnuts and Honey,Breakfast,1.5,5.0,17.0,110.5,5.0,10.0,3.0,12.0,35,4.85
+189,Apple Nut Bread,Breakfast,2.0,4.0,24.0,122.0,5.0,134.0,3.0,14.0,75,4.9
+190,Coconut Lime Raspberry Chia Pudding,Dessert,4.0,10.0,15.0,157.0,5.0,31.0,10.0,1.0,6,4.84
+191,Summer Quinoa Breakfast Bowl,Breakfast,4.5,4.0,36.0,180.0,5.0,136.0,4.0,17.0,25,5.0
+192,Pina Banana Colada Smoothie,Breakfast,2.0,6.0,27.0,160.0,5.0,95.0,4.0,18.0,5,4.75
+193,Bali Banana Date Smoothie,Breakfast,5.0,1.0,39.0,195.0,6.0,136.0,3.0,31.0,5,4.75
+194,Superfood PB Banana and Cacao Green Smoothie,Breakfast,6.0,11.5,21.0,188.0,5.0,210.0,6.5,8.5,5,4.34
+195,Roasted Strawberry Protein Smoothie,Breakfast,16.0,3.4,33.0,213.0,5.5,360.0,7.5,27.0,15,4.63
+196,"Kale, Banana, Chia, Hemp Superfood Smoothie",Breakfast,8.0,10.0,30.0,220.0,5.0,158.0,8.0,14.0,5,4.75
+197,Blueberry Kale Smoothie,Breakfast,9.0,12.0,51.0,312.0,5.0,241.0,10.0,31.0,5,5.0
+198,Banana Cranberry Bread,Breakfast,2.0,2.0,20.0,94.0,4.0,105.0,2.0,11.0,75,5.0
+199,Morning Maple Cranberry Pecan Oat Bars,Breakfast,5.0,13.0,27.0,228.0,5.0,46.0,4.0,12.0,35,5.0
+200,Italian Sub Salad,Dinner,11.0,9.5,5.75,149.0,35.75,786.8,1.5,2.75,20,5.0
+204,Fish Cakes,Dinner,14.5,4.75,9.75,138.5,76.75,312.0,0.5,1.5,20,4.84
+205,Avocado Egg Salad,Lunch,9.0,12.0,4.5,155.0,148.0,132.0,3.0,0.5,15,4.92
+206,Cranberry Chicken Salad on Apple Slices ,Lunch,36.0,20.0,30.0,439.0,105.0,245.0,5.0,22.5,15,5.0
+207,Butternut Squash Soup,Dinner,3.0,4.0,28.0,144.0,5.0,199.0,5.0,10.0,60,5.0
+208,Chicken Pot Pie Soup,Dinner,30.0,3.5,32.0,268.0,64.0,983.0,4.0,12.0,45,4.75
+209,Roasted Red Pepper Soup,Dinner,3.0,3.0,21.0,138.0,8.5,770.0,3.0,5.8,55,4.8
+210,Korean-Inspired Salmon Rice Bowl,Lunch,33.0,10.0,50.0,431.0,78.0,416.0,1.0,6.0,21,4.92
+212,BBQ Chicken Tenders in Air Fryer,Lunch,14.33,2.17,5.83,104.0,57.0,250.5,0.33,1.67,30,5.0
+213,King Crab Legs,Dinner,41.5,1.25,6.0,190.0,95.0,1896.0,0.5,0.5,10,3.0
+214,Leftover Turkey Noodle Soup,Dinner,5.0,0.5,25.5,131.0,5.0,57.0,4.5,2.5,10,5.0
+215,Meximelt,Lunch,21.5,12.0,20.0,224.0,61.0,640.5,12.0,2.0,40,4.94
+216,White Bean Pumpkin Turkey Chili (Slow Cooker or Instant Pot),Dinner,32.0,2.5,31.0,272.5,5.0,499.0,12.0,2.5,9,4.58
+217,Air Fryer Chicken Bites,Dinner,38.5,7.5,1.0,233.0,124.0,868.0,0.5,0.5,29,4.97
+218,Autumn Kale Salad with Chicken,Dinner,30.0,27.0,38.0,504.0,70.5,514.5,8.5,17.5,45,5.0
+219,Chicken Nuggets,Lunch,4.67,2.17,2.17,46.67,25.75,111.8,0.25,0.25,30,4.92
+221,Air Fryer Chicken Cutlets,Dinner,30.5,9.5,14.0,268.0,131.5,743.0,0.5,2.0,96,4.91
+222,Loaded Baked Potato Soup,Lunch,14.0,7.0,23.0,200.0,17.0,323.0,3.5,6.0,20,4.76
+224,21 Healthy Rice Bowl Recipes,Dinner,3.0,5.0,12.0,122.0,5.0,10.0,1.0,1.0,30,5.0
+225,Air Fryer Fish Sticks,Dinner,9.25,1.88,4.25,73.5,42.62,183.2,0.25,0.62,34,4.65
+226,Instant Pot Chicken Noodle Soup,Dinner,26.5,6.5,13.5,223.0,117.0,775.0,1.4,3.0,50,4.91
+227,Shrimp Quesadilla,Dinner,24.0,16.0,27.5,299.0,132.0,998.0,14.0,4.0,45,5.0
+228,Air Fryer Asian Meatballs,Lunch,37.0,16.0,49.0,483.0,130.0,736.0,11.0,3.0,40,4.75
+229,Spicy Salmon Sushi Pizza,Dinner,24.5,26.5,17.0,403.0,68.0,527.0,4.5,2.0,20,5.0
+230,Pupusas,Lunch,8.0,8.0,32.0,220.0,5.5,489.0,6.5,2.0,40,5.0
+231,Grilled Pesto Chicken and Tomato Kebabs,Dinner,18.0,7.5,3.0,147.0,2.5,104.0,1.0,1.0,80,5.0
+232,Chicken Burger,Breakfast,27.5,3.0,19.0,284.0,117.0,487.5,3.0,2.0,15,4.92
+233,Grilled Chicken Sandwich,Dinner,45.0,11.5,29.5,406.0,124.0,847.5,2.5,7.5,34,4.85
+234,Slow Cooker Pulled Pork,Dinner,10.17,1.0,4.17,67.67,30.67,197.8,0.17,3.5,12,4.94
+235,Chipotle Chicken,Dinner,34.0,7.0,2.0,216.0,69.0,561.0,0.5,1.0,30,5.0
+237,Turkey Burger Recipe,Breakfast,29.0,12.0,33.5,351.0,84.0,768.5,2.0,8.5,25,4.91
+239,Chicken Summer Rolls,Appetizer,11.5,8.0,15.0,149.5,49.0,449.8,1.0,3.0,40,4.84
+240,Blackened Grilled Salmon Skewers,Dinner,13.25,4.5,5.25,99.5,36.25,176.2,2.5,1.25,90,5.0
+241,Greek Tofu Bowls,Lunch,32.0,27.0,30.0,485.0,16.0,682.0,6.0,9.0,60,4.67
+242,Air Fryer Salmon Patties,Dinner,16.75,7.25,4.75,157.0,112.5,421.0,0.25,0.75,25,4.95
+243,Fiesta Bean Salad,Lunch,14.0,11.5,47.0,335.0,5.0,481.5,15.5,0.5,10,4.99
+244,Open Faced Tuna Sandwich with Avocado,Lunch,18.0,8.0,28.0,247.0,16.0,384.5,6.0,3.0,7,5.0
+246,Italian Sub Broccoli Salad,Lunch,10.5,11.75,10.0,186.5,20.5,639.0,3.0,4.0,15,4.99
+247,5-Ingredient Salmon Salad (easy lunch idea),Appetizer,17.5,7.0,2.5,139.0,39.5,185.0,0.5,1.0,15,4.71
+248,Baked Shrimp Parmesan Hero,Dinner,29.6,8.0,57.5,433.0,5.0,559.0,2.5,1.0,30,4.88
+249,Tofu Poke Bowl,Dinner,29.0,24.0,47.0,520.0,5.0,956.0,12.0,5.0,50,4.74
+250,Broccoli Cheddar Soup,Lunch,12.5,12.5,24.0,242.0,37.5,360.0,4.0,6.0,50,4.99
+251,Classic Chicken Salad Recipe,Lunch,18.0,5.0,2.0,131.0,50.0,307.0,1.0,1.0,10,4.92
+252,"Honey Sriracha Roasted Salmon Rice Bowls (GF, DF)",Lunch,38.5,17.5,48.0,506.0,93.5,489.0,5.0,10.5,30,4.92
+253,"Loaded Nachos with Ground Turkey, Beans and Cheese",Appetizer,28.0,17.5,45.0,386.0,32.0,990.0,1.5,8.5,25,4.96
+254,Air Fryer Egg Salad,Lunch,6.25,10.0,0.5,118.5,189.0,149.8,0.5,0.25,20,5.0
+255,5-Minute Microwave Salmon Rice Bowl with Bok Choy,Lunch,48.5,18.0,51.0,533.0,93.5,856.0,10.0,19.5,6,5.0
+256,Pasta Fagioli (Pasta and Beans),Dinner,10.0,4.0,46.0,262.5,46.0,623.0,5.5,6.0,35,4.94
+257,Teriyaki Shrimp Quinoa Bowls with Mango-Cucumber Salsa,Breakfast,24.0,10.0,44.5,352.0,143.0,1389.0,6.5,14.5,40,5.0
+258,Tortilla Encrusted Chicken Tenders,Appetizer,17.0,5.5,11.0,165.5,68.5,347.5,0.75,1.0,25,4.95
+259,Avgolemono Chicken and Rice Soup,Dinner,27.5,6.5,21.5,265.0,168.5,413.0,0.5,2.0,55,4.94
+260,Broccoli Salad,Breakfast,6.5,11.5,11.0,171.0,8.5,279.0,2.0,6.0,15,5.0
+261,Borscht,Dinner,4.5,5.0,28.0,167.0,5.0,599.5,4.0,10.0,45,5.0
+262,Perfect Air Fryer Shrimp,Dinner,2.44,1.0,0.25,20.38,22.31,109.2,0.06,-0.12,10,4.91
+263,Salmon Caesar Salad,Lunch,42.0,20.0,6.5,364.0,97.5,414.5,3.0,1.5,30,4.95
+264,Spicy Hearts of Palm Noodle Stir Fry with Ground Chicken,Lunch,26.0,12.0,16.5,275.0,98.0,1772.0,5.0,2.5,20,4.75
+265,Buffalo Chicken Rice Bowls,Lunch,49.5,9.5,47.5,485.0,134.0,1200.0,7.0,1.5,30,4.86
+266,Breaded Shrimp,Dinner,20.0,3.0,10.0,149.0,145.0,934.5,0.5,1.0,25,4.86
+267,"Veggie Stromboli with Mushroom, Spinach and Mozzarella",Appetizer,11.0,6.0,31.5,217.5,7.5,519.5,1.5,3.5,55,5.0
+268,Rainbow Quinoa Salad with Lemon Dressing,Breakfast,5.25,8.5,25.5,197.0,2.5,92.0,3.5,3.5,30,4.62
+269,Asian Chicken Lettuce Wraps,Appetizer,8.5,3.0,9.5,102.0,32.0,344.0,1.0,4.5,50,5.0
+270,Tortilla Soup,Dinner,17.0,10.0,16.0,246.0,46.0,593.0,3.0,4.0,40,4.67
+271,Chicken Parmesan Rolls,Lunch,27.5,4.5,28.0,259.0,55.5,574.0,1.5,2.5,45,4.68
+272,"Sweet Potato Soup with Sausage (Slow Cooker, Instant Pot, Stove)",Dinner,23.5,8.5,23.0,265.0,66.0,1236.0,4.0,7.0,16,4.93
+273,Blackened Air Fryer Salmon Bites,Dinner,34.0,11.0,2.0,251.0,93.5,356.5,1.0,0.5,10,4.97
+274,Lemony Hearts of Palm Salad with Avocado,Dinner,2.5,12.5,8.0,145.0,5.0,166.0,4.0,-1.0,10,4.75
+275,Pizza Sausage Rolls,Dinner,22.0,10.0,30.0,302.0,51.0,957.0,1.5,4.0,50,4.91
+276,Air Fryer Salmon Fish Sandwich,Dinner,33.0,24.0,31.5,493.0,77.5,824.5,3.5,4.0,15,4.84
+277,Chicken Taco Poblano Rice Bowls,Dinner,40.5,12.0,52.0,475.0,116.0,407.5,6.0,3.5,25,4.96
+278,Creamy Sausage and Potato Soup,Dinner,25.0,7.5,60.0,402.0,55.0,1164.0,9.5,8.0,55,4.94
+280,Fish Taco Bowls,Breakfast,5.25,2.08,1.5,44.0,14.0,180.7,0.5,0.58,15,4.87
+281,"Grilled Chicken Panini with Zucchini, Tomato, and Mozzarella",Dinner,36.0,17.5,33.5,433.0,109.5,899.0,2.0,4.0,30,4.91
+282,Chicken Caprese Skillet,Dinner,47.5,16.5,21.0,419.0,141.0,585.0,2.0,7.0,35,4.84
+284,Tuna Tartare,Appetizer,11.0,6.5,2.5,114.0,16.0,342.5,1.5,0.5,10,5.0
+285,BLT Roll Ups with Turkey and Avocado,Lunch,22.0,16.0,29.0,341.0,39.0,806.0,3.5,1.0,15,5.0
+286,Lentil Salad,Lunch,10.0,3.5,29.5,181.0,5.0,251.0,5.5,3.0,35,4.96
+287,Air Fryer Popcorn Chicken,Appetizer,2.0,0.53,1.4,18.87,8.6,25.7,0.1,0.13,40,4.94
+288,Lobster Rolls,Lunch,22.2,3.1,28.5,223.0,5.0,538.6,4.3,6.4,15,4.58
+289,Corn Tomato Avocado Salad,Lunch,2.5,8.5,14.0,128.0,5.0,83.0,4.0,3.5,15,4.98
+290,Chickpea Milanese,Breakfast,10.0,13.5,41.0,320.0,0.5,428.5,8.5,5.0,25,4.37
+291,Grilled Chicken Chickpea Salad,Lunch,34.0,19.5,41.0,462.0,73.5,1103.0,11.5,16.0,5,5.0
+292,Watermelon Arugula and Feta Salad,Lunch,4.0,11.5,11.0,157.5,5.0,219.5,1.0,9.0,10,5.0
+293,Chili-Lime Air Fryer Salmon,Dinner,37.5,12.5,0.5,262.0,109.0,322.5,0.5,1.0,15,4.97
+294,Tuna Poke Salad,Dinner,36.0,23.0,16.0,404.0,43.0,1211.5,7.5,3.5,15,5.0
+295,Arugula Pasta Salad with Chickpeas and Sun Dried Tomatoes (no mayo),Dinner,5.5,4.5,21.75,140.0,1.0,168.5,4.0,1.5,15,5.0
+296,Honey Sriracha Chicken and Broccoli Meal Prep Bowls,Lunch,44.0,9.5,41.0,428.0,124.0,570.0,4.0,12.0,30,4.69
+297,Sous Vide Chicken Breast and a Cilantro Lime Chicken Avocado Salad,Lunch,25.0,22.5,7.5,329.0,72.5,364.5,4.0,1.0,32,4.58
+298,"Seared Scallop Salad with Grapefruit, Arugula and Spinach",Lunch,19.0,10.0,16.5,217.0,5.0,10.0,2.9,1.4,20,5.0
+299,Burst Tomato Cottage Cheese Caprese Bowl,Breakfast,20.5,12.0,13.0,245.0,20.0,469.0,2.0,11.0,7,4.93
+300,Buffalo Chicken Salad,Appetizer,30.0,24.0,4.0,359.0,90.0,1401.5,1.0,2.5,5,4.6
+301,Grilled Vegetable Orzo Pasta Salad,Lunch,6.5,9.0,39.5,267.0,5.0,6.0,4.0,4.5,25,4.91
+302,Lemon Asparagus Couscous Salad with Tomatoes,Lunch,6.5,4.0,30.0,170.0,5.0,10.0,5.0,1.0,30,4.78
+303,Slow Cooker Chicken Tacos,Dinner,15.17,4.5,14.83,158.0,41.5,156.8,3.17,1.33,6,4.97
+304,Spicy Canned Salmon Rice Bowl,Lunch,25.0,14.0,39.0,389.0,65.0,757.0,4.0,4.0,5,4.89
+305,Avocado Quinoa Salad,Breakfast,11.0,23.0,55.0,443.0,5.0,174.0,16.0,9.5,25,4.87
+306,"Warm Salad with Artichoke Hearts, Roasted Peppers, Mozzarella",Dinner,14.5,22.0,23.0,339.0,45.0,843.5,5.0,12.0,10,5.0
+307,Air Fryer Empanadas,Lunch,11.0,5.0,22.0,183.0,16.0,196.0,1.0,2.5,30,4.82
+308,Greek Turkey Meatballs,Appetizer,6.75,2.75,3.38,63.5,1.25,2.5,0.88,0.25,25,4.82
+309,BBQ Chicken Salad,Dinner,30.0,5.0,22.0,241.0,83.0,221.0,4.0,7.0,15,4.89
+310,Sloppy Joe Recipe,Dinner,13.7,3.7,9.9,122.0,31.5,470.0,2.1,5.0,30,4.76
+311,Tuna Croquettes (Baked or Air Fryer),Appetizer,11.25,1.75,10.75,107.5,34.5,213.2,0.75,0.75,60,4.8
+312,Escarole and Chickpea Soup with Garlic Toast,Dinner,10.5,4.0,38.0,222.0,5.0,466.0,8.5,5.5,25,5.0
+313,Lobster Bisque,Dinner,14.0,6.0,17.0,203.0,65.0,852.0,2.5,7.0,65,4.75
+314,Roasted Sweet Potato Black Bean Bowls,Lunch,20.0,15.5,96.0,585.0,1.5,695.0,21.0,13.5,75,4.93
+315,Mini Bell Pepper Loaded Turkey “Nachos”,Lunch,2.57,1.57,0.93,26.71,8.86,59.7,0.14,0.07,40,4.91
+316,Air Fryer Buffalo Chicken Nuggets,Lunch,27.0,3.0,9.5,180.0,83.0,501.5,0.5,1.0,21,4.95
+317,Pepperoni Pizza Bites,Appetizer,4.5,2.38,7.75,71.5,7.5,243.5,0.38,1.0,40,4.81
+318,Tuna Egg Salad,Lunch,30.0,20.0,4.0,316.0,450.0,420.0,1.0,1.0,15,4.95
+319,Spaghetti Squash Crust Pizza,Dinner,14.0,8.5,9.0,151.5,69.5,427.5,2.75,2.75,60,4.97
+320,Taco Salad (Perfect for Meal Prep),Dinner,28.5,17.5,13.0,313.0,92.5,917.5,4.0,5.5,30,4.98
+321,Sausage and Broccoli Rabe Egg Rolls (Air Fryer or Oven),Appetizer,10.0,3.5,15.0,136.0,29.5,465.0,1.0,1.0,45,4.5
+322,Chilled Calamari Salad with Lemon and Parsley,Appetizer,18.0,2.0,8.0,122.0,5.0,66.0,0.9,1.2,15,5.0
+323,Leftover Turkey Harvest Cobb Salad,Lunch,28.0,26.0,37.0,466.0,50.0,660.0,9.0,9.0,30,5.0
+324,Arugula Salmon Salad with Capers and Shaved Parmesan,Dinner,32.5,16.0,2.0,288.0,86.0,288.5,0.5,1.2,15,5.0
+325,"Quick Beef Chili Recipe (Stove, Slow Cooker or Instant Pot)",Dinner,31.5,7.0,22.5,312.0,71.0,629.5,8.5,2.5,40,4.9
+326,Easy Black Bean Vegetarian Chili with Spiced Yogurt,Dinner,14.5,4.5,44.5,264.0,44.5,889.5,14.0,9.0,25,4.93
+327,Air Fryer Chicken Milanese with Mediterranean Salad,Dinner,31.5,10.5,14.25,281.0,139.0,454.2,1.75,2.25,30,5.0
+328,Chicken Cutlet Caprese Salad,Dinner,45.5,24.0,14.5,462.0,231.5,755.5,2.0,1.5,35,4.93
+329,Cilantro Lime Chicken Breast (Grilled or Air Fryer),Breakfast,38.5,5.5,0.5,217.0,124.0,360.0,0.5,0.5,80,4.74
+330,Spicy Sriracha Tofu Rice Bowls (Air Fryer or Oven),Lunch,29.0,20.0,38.0,453.0,5.0,1109.0,6.5,6.5,30,4.95
+331,Sausage and Pepper Stromboli (Stuffed Sausage Bread),Appetizer,12.5,5.5,43.5,272.0,20.5,671.0,1.5,1.0,2,5.0
+332,Air Fryer Roasted Cauliflower Tacos,Dinner,2.83,7.17,7.5,94.67,1.5,279.0,2.17,3.83,30,4.91
+333,Coconut Red Curry Shrimp Skewers,Dinner,18.0,2.5,6.5,126.0,125.0,424.0,1.5,2.0,50,4.91
+334,Air Fryer Burst Tomato Burrata Caprese Salad,Lunch,15.0,18.0,30.0,307.0,40.0,505.5,3.5,7.0,15,4.93
+335,Cilantro Chicken Salad,Appetizer,23.0,6.0,3.0,160.5,61.5,151.5,0.5,1.0,15,4.97
+336,Foil Packet Cheesy Sausage and Peppers,Dinner,18.5,11.5,12.5,223.0,67.5,886.5,3.0,5.5,45,5.0
+337,Grilled Shrimp Panzanella Skewers,Dinner,14.0,1.5,9.0,108.0,94.0,188.0,1.25,3.5,30,5.0
+338,"Ground Turkey Skillet with Zucchini, Corn, Black Beans and Tomato",Dinner,28.0,8.5,22.5,266.0,80.0,525.0,6.5,4.0,25,4.88
+340,Mayo-less Tuna Pasta Salad,Lunch,24.5,10.5,23.0,271.5,37.0,463.0,3.5,1.5,10,5.0
+341,"Grilled Chicken, Strawberry, Avocado Salad with Citrus Dressing",Lunch,30.0,26.0,14.0,399.0,83.0,164.0,5.5,6.0,55,4.7
+342,Shrimp Egg Rolls (Air Fryer or Baked),Appetizer,11.0,3.0,16.0,137.0,5.0,414.0,1.0,1.5,25,4.93
+343,Lobster Roll Pasta Salad,Dinner,11.75,2.75,17.0,141.0,68.5,383.0,1.0,0.75,25,4.75
+344,Air Fryer Chicken Sandwich with Sriracha Mayo,Dinner,35.0,8.0,31.0,334.0,100.0,796.0,6.0,7.0,39,4.67
+345,"Quinoa Salad with Kale, Cranberries and Mint",Breakfast,5.0,6.0,30.0,191.0,5.0,10.0,4.0,9.0,25,5.0
+346,Bisteces a la Mexicana (Mexican Style Beef Stew),Dinner,24.0,11.5,5.5,227.0,52.0,465.0,2.0,3.0,115,4.89
+347,Cheeseburger Crunch Wrap,Breakfast,33.0,18.5,22.0,354.0,103.5,1282.5,10.0,1.5,20,4.83
+348,Salmon Fried Rice,Lunch,34.0,17.5,28.0,408.0,248.5,733.0,4.0,2.5,25,5.0
+349,Low-Yolk Egg Salad,Lunch,9.5,7.6,2.0,122.0,189.0,235.0,1.0,0.5,25,5.0
+350,"Farro Salad with Feta, Cucumbers and Sun Dried Tomatoes",Lunch,9.0,6.5,39.0,241.0,5.0,177.5,6.0,2.0,30,4.91
+351,Easy (10-minute) Waffled Salmon Cakes,Dinner,11.0,3.25,2.75,84.5,62.75,268.2,0.25,0.25,15,4.91
+352,Coconut-Poached Chicken with Bok Choy and Mushrooms,Breakfast,42.0,12.0,12.0,321.0,124.5,630.0,2.5,4.0,30,4.56
+353,Italian Ground Turkey Meatball Sheet Pan Dinner,Dinner,6.88,3.5,3.5,73.0,32.62,147.1,1.25,1.12,60,4.83
+354,Ahi Tuna Poke Stacks,Dinner,24.25,12.25,18.75,280.5,38.0,810.2,3.75,2.5,20,5.0
+355,Navel Orange Salad with Avocado,Lunch,3.0,20.0,24.0,278.5,5.0,48.5,7.0,15.0,15,4.97
+356,Asparagus and Feta Tartlet with Phyllo Crust,Lunch,4.5,5.0,7.5,91.0,73.5,170.0,0.5,1.5,50,4.62
+357,Spring Green Pea Soup with Fresh Herbs,Lunch,6.5,6.0,20.5,160.0,1.5,444.0,6.5,8.5,15,4.91
+358,One-Pot Chicken and Artichoke Cavatappi,Dinner,19.5,2.5,28.25,214.0,41.5,527.5,2.5,4.25,45,4.65
+361,Hearts of Palm Noodle Peanut Stir Fry,Lunch,17.0,26.5,26.5,414.0,186.0,1110.0,11.5,7.5,15,4.82
+362,Pork Chops and Pears with Spicy Mustard Greens,Dinner,39.0,17.5,12.5,372.0,105.0,171.0,4.0,9.0,25,4.25
+363,Air Fryer Lobster Jalapeño Empanadas,Lunch,9.5,5.0,21.5,165.0,56.0,252.0,1.0,2.0,30,5.0
+364,"Salmon Salad with Beets, Arugula, Pistachios and Pomegranates",Lunch,33.5,26.5,18.0,437.0,85.0,727.5,4.5,12.0,30,5.0
+365,Beef Negimaki Stir Fry,Dinner,28.5,7.5,14.0,251.0,78.0,1211.0,2.5,9.5,20,4.74
+366,Buffalo Chickpea Salad,Lunch,8.5,5.0,27.0,182.0,0.5,821.0,6.0,2.5,30,4.91
+367,One-Pot Spaghetti Puttanesca,Dinner,9.0,7.0,48.0,293.0,2.5,651.0,3.5,3.0,20,4.84
+369,Peanut-Braised Chicken Breasts,Breakfast,45.0,15.0,14.0,365.0,124.5,490.0,4.5,6.5,50,4.55
+370,Instant Pot Braised Beef,Dinner,12.0,3.33,1.83,85.0,42.0,159.0,0.33,0.67,100,4.75
+371,Shrimp Dumpling Lettuce Wraps or Rice Bowls,Appetizer,6.38,1.62,2.38,50.25,43.12,238.9,0.38,0.75,20,4.76
+372,"Baby Greens with Goat Cheese, Beets and Candied Pecans",Dinner,7.0,19.5,19.0,267.0,5.0,211.0,2.0,14.0,10,4.86
+374,Salmon Coconut Curry with Spinach and Chickpeas,Dinner,41.0,20.0,23.5,453.0,94.0,275.0,5.0,1.5,25,4.92
+375,Spinach Stuffed Chicken Breast with Tomato and Feta,Dinner,44.5,22.0,7.0,407.0,148.0,830.0,1.5,3.5,35,4.83
+376,Sheet Pan Shrimp Oreganata,Dinner,9.5,2.3,1.2,66.6,69.2,88.4,0.1,0.1,25,4.95
+377,Butternut Squash Lentil Soup,Lunch,4.0,1.5,25.0,122.0,5.0,309.5,7.0,8.0,65,4.94
+378,Chicken Brown Rice Bowl (copycat Zinque’s Le Bowl),Lunch,48.0,15.0,33.0,455.0,151.0,819.0,5.5,7.0,15,4.93
+379,Slow Cooker Butternut Squash Pear Soup,Dinner,3.0,3.0,25.5,132.0,5.0,275.0,6.0,10.0,13,4.76
+380,Slow Cooker Chicken Enchilada Stuffed Sweet Potatoes,Dinner,34.0,10.0,47.0,413.0,101.5,809.5,6.0,9.0,16,4.75
+381,Pastrami Reuben Egg Rolls,Appetizer,11.5,4.75,22.0,180.0,25.0,648.5,1.5,1.5,25,4.97
+382,Detox Vegetable Soup,Dinner,15.0,12.5,34.0,293.0,5.0,646.0,11.0,7.0,45,4.74
+383,Broccoli and Cheese Twice Baked Potatoes,Dinner,8.0,3.5,23.0,146.5,1.2,152.5,2.5,1.5,30,4.77
+384,Spicy Pork Brussels Bowls,Breakfast,35.0,10.0,15.5,280.5,252.5,474.0,6.0,3.5,30,4.85
+385,Ratatouille Baked Chicken,Dinner,31.75,10.0,14.25,271.5,140.0,170.2,4.5,5.0,70,4.85
+386,Greek Turkey Burgers,Breakfast,29.0,14.5,2.5,255.0,111.0,360.0,0.5,1.0,30,4.96
+388,Easy Crustless Spinach and Feta Pie,Appetizer,9.0,5.0,12.0,126.0,69.0,433.0,2.5,1.5,40,4.6
+389,Air Fryer Fried Shrimp Sandwich with Tartar Sauce,Lunch,34.5,9.35,33.5,352.0,228.0,873.0,7.0,6.5,30,5.0
+391,Salmon Croquettes with Dill Sauce,Appetizer,26.0,16.0,4.5,278.0,169.0,542.0,0.5,1.0,30,3.96
+392,Vegetarian Black Bean Tacos,Dinner,6.5,7.7,21.0,183.5,5.0,334.5,6.0,1.0,25,4.95
+393,Zesty Lime Grilled Chicken with Pineapple Salsa,Dinner,6.83,3.08,2.75,65.83,20.75,37.5,0.33,1.33,45,4.96
+394,Jamaican Beef Patties,Appetizer,11.5,4.5,25.0,191.0,29.0,412.0,2.0,1.0,2,3.96
+396,Margherita Pizza,Appetizer,7.5,3.25,13.5,118.0,11.75,318.0,0.5,1.75,45,4.84
+397,Turkey Club,Lunch,35.0,11.5,28.5,351.0,65.0,652.5,6.5,4.5,10,5.0
+398,Open-Faced Tuna Melt Sandwich Recipe,Lunch,28.5,6.5,14.5,231.0,5.0,10.0,3.5,1.0,10,4.75
+399,Paprika Chicken Stew,Dinner,49.0,11.0,14.0,361.0,214.0,954.0,3.0,4.0,75,4.58
+400,Almond Cake,Dessert,7.0,11.0,17.0,179.0,47.0,39.0,3.0,13.0,60,4.86
+401,Lemon-Coconut Almond Cake,Dessert,6.5,10.5,20.5,198.0,46.5,32.5,4.0,14.0,65,4.91
+402,Lemon Poppy Seed Cupcakes,Dessert,3.5,4.0,42.0,152.0,23.5,160.0,1.5,6.5,50,5.0
+404,Cottage Cheese Cheesecake,Breakfast,6.5,10.5,15.0,159.0,60.0,243.0,0.5,3.0,63,4.88
+405,Coconut Cookies,Dessert,0.75,1.25,9.5,94.0,2.5,26.5,1.0,7.0,40,4.86
+406,Snowman Chocolate Bark,Dessert,2.0,8.0,18.0,118.0,5.0,1.5,10.0,1.0,45,5.0
+407,Coconut Macaroons,Dessert,1.0,3.5,7.25,64.5,27.25,37.0,0.5,6.75,80,4.95
+408,Chewy Chocolate Chip Cookies (Low-Fat),Dessert,1.0,3.0,10.0,66.5,7.75,22.5,1.5,4.0,20,4.7
+409,Oatmeal Chocolate Chip Cookies,Breakfast,1.5,1.5,12.0,64.0,8.0,59.5,0.5,5.0,30,4.84
+410,Pumpkin Mug Cake,Dessert,4.0,3.0,41.5,134.0,5.0,21.5,3.5,1.5,7,4.55
+411,Pumpkin Chocolate Chip Cookies,Dessert,1.25,1.75,12.75,47.5,7.5,53.5,1.5,0.5,25,4.84
+413,Apple Cobbler Recipe,Dessert,1.5,4.0,44.5,215.0,5.5,71.0,4.0,32.0,70,5.0
+415,Grilled Pineapple,Dessert,0.3,0.5,12.0,51.0,2.5,1.0,1.0,10.5,15,4.97
+416,Blueberry Galette,Dessert,2.5,6.5,31.0,155.0,5.0,137.5,2.0,7.5,75,4.97
+417,Carrot Cake Recipe with Cream Cheese Frosting,Dessert,4.0,8.0,32.0,216.0,33.0,392.0,2.0,22.0,60,4.85
+418,Chocolate Brownie Date Balls,Dessert,2.5,6.5,26.0,153.0,5.0,1.5,4.0,20.5,15,4.91
+419,Healthy Chocolate Chip Oat Cookies,Dessert,2.0,5.0,10.0,87.0,7.75,25.0,2.25,3.25,20,4.59
+420,Apple and Grape Fall Fruit Salad,Dessert,6.0,8.5,36.0,209.0,5.0,16.0,3.0,19.0,15,5.0
+421,Raspberry Coconut Chia Pudding Popsicles,Dessert,1.8,5.0,6.8,74.0,5.0,27.0,4.6,0.6,11,5.0
+422,"Red, White and Blueberry Trifle",Dessert,2.5,5.5,28.5,158.0,5.0,143.5,2.0,15.5,75,4.96
+425,Blueberry Frozen Yogurt,Dessert,2.5,2.5,36.0,76.0,8.5,29.0,1.5,9.5,20,4.89
+426,Chocolate Frozen Yogurt in the Ninja™ CREAMi®,Dessert,4.0,3.5,20.5,88.0,11.0,54.0,1.0,8.5,15,5.0
+427,Lemon Cheesecake Yogurt Cups,Dessert,3.5,4.5,12.0,108.0,6.5,108.0,1.0,9.0,35,4.72
+428,3-Ingredient Strawberries Romanoff,Dessert,0.2,0.6,3.0,15.8,1.8,2.4,0.4,2.4,5,4.93
+430,Red White and Blue Fruit Skewers with Cheesecake Yogurt Dip,Dessert,3.0,2.5,18.5,105.0,1.5,147.5,2.0,7.0,20,5.0
+431,Triple Berry Crisp,Breakfast,2.0,4.5,29.5,152.0,9.5,4.5,4.0,17.0,55,5.0
+432,Ambrosia Fruit Salad,Dessert,1.5,7.0,26.0,163.0,5.0,13.2,3.0,14.0,15,5.0
+434,Flaugnarde of Mixed Berries (Clafoutis),Dessert,4.4,2.3,33.0,167.5,71.0,76.3,1.8,8.0,60,4.8
+435,“Fried” Oreos,Dessert,1.5,1.75,8.0,53.5,3.25,48.0,0.25,4.25,15,5.0
+437,Fudgy Flourless Crinkle Brownie Cookies with Sea Salt,Dessert,3.0,6.0,15.0,103.5,2.5,94.5,4.0,8.25,32,4.83
+438,Pizzelle Cookies,Dessert,1.0,1.5,7.25,45.5,12.5,12.5,0.25,3.75,30,5.0
+439,Dark Chocolate Peanut Butter Bark,Dessert,3.0,12.0,17.0,144.0,17.0,19.0,8.0,0.5,15,4.82
+440,Apple Cranberry Crumble,Dessert,0.67,1.83,14.83,70.33,1.67,62.2,1.0,11.83,75,4.97
+441,Pumpkin Pistachio Energy Balls,Dinner,3.0,5.0,24.0,138.0,5.0,37.0,3.0,19.0,15,4.77
+442,Pumpkin Pie Dip,Appetizer,2.0,4.0,21.0,105.0,1.0,10.0,1.0,17.0,15,4.93
+443,Skinny Pumpkin Snickerdoodles,Dessert,1.0,1.0,9.5,51.0,7.5,20.0,1.0,6.0,30,4.44
+444,Raspberry Yogurt Ice Pops,Dessert,2.5,2.5,11.0,71.0,7.5,29.0,2.0,8.5,21,4.67
+447,Flourless Chocolate Zucchini Brownies,Dessert,4.5,9.0,25.0,179.0,5.0,139.0,2.5,20.0,75,4.79
+449,Skinny Hummingbird Cupcakes,Dessert,3.0,6.5,31.0,198.0,16.5,284.0,1.5,22.0,45,4.8
+452,Chocolate Chip Clouds,Dessert,0.5,2.5,8.5,54.0,5.0,9.5,1.0,7.0,55,4.7
+453,Strawberry Squares,Dessert,2.0,4.5,22.0,138.0,45.0,39.0,1.0,13.5,45,4.91
+454,Yogurt Panna Cotta with Macerated Berries,Dessert,5.0,0.5,15.0,82.0,3.0,31.0,0.5,13.5,31,5.0
+455,Sweet Potato Pie,Dessert,3.5,6.5,38.0,208.0,41.0,135.0,2.0,15.0,2,4.85
+457,Pumpkin Roll,Dessert,1.67,2.33,14.17,66.0,14.0,44.7,0.33,7.0,95,4.74
+458,"Red, White and Blueberry Cheesecake Cupcakes",Dessert,3.5,4.5,10.5,98.0,5.0,29.5,0.5,7.5,95,4.95
+459,Key Lime Yogurt Pie,Dessert,3.0,6.0,19.0,139.0,9.0,132.5,0.5,14.0,45,4.82
+460,Honey Lemon Bars with Whole Wheat Shortbread Crust,Breakfast,3.0,5.0,21.0,135.0,57.0,76.0,0.5,12.0,70,4.0
+462,Banana Foster Crepes,Dessert,4.5,4.5,35.5,185.0,42.5,49.0,2.0,19.0,35,5.0
+463,No Bake Peanut Butter Pie,Dessert,2.5,10.0,30.0,215.0,5.0,83.0,1.0,15.0,3,4.72
+464,Maple Pecan Cheesecake Shooters,Dessert,4.0,14.5,16.0,213.0,17.0,128.0,1.0,16.0,15,5.0
+465,Cinnamon Apple Crisp,Dessert,1.0,2.25,22.0,103.5,5.0,2.2,2.5,15.0,90,5.0
+466,Banana Zucchini Cake with Cream Cheese Frosting,Dessert,3.5,5.5,28.0,172.0,27.0,297.5,1.5,18.0,80,4.66
+467,Cheesecake Brownies,Dessert,4.0,10.0,21.0,182.0,34.5,164.0,1.5,18.0,45,4.49
+468,Strawberry Crisp,Dessert,3.5,10.0,24.0,185.0,5.0,38.0,4.0,18.5,55,4.7
+469,Mixed Berry Pie,Dessert,3.5,7.0,39.0,217.0,51.0,129.0,6.0,18.5,55,5.0
+471,Gingerbread Christmas Tree Cookies,Dessert,0.75,0.5,12.0,53.0,5.5,25.0,0.5,6.75,32,4.35
+472,Delightfully Baked Apples,Dessert,1.5,6.5,27.0,154.0,15.5,2.5,3.0,15.5,35,4.81
+473,Turmeric Golden Milk Popsicles,Dessert,0.1,4.5,10.0,84.0,5.0,5.5,0.1,8.5,10,5.0
+474,No-Bake Strawberries and Cream Crêpe Cake,Dessert,5.0,8.5,22.0,182.0,44.0,47.0,1.5,13.0,45,5.0
+475,Dark Chocolate Nut Clusters with Sea Salt,Dessert,1.0,5.0,3.0,54.0,5.0,3.0,0.5,2.0,30,5.0
+476,Cranberry Bliss Bars,Dessert,2.0,5.5,23.5,143.0,6.5,73.5,0.5,16.0,35,4.57
+477,Donut-Shaped Apple Snacks,Appetizer,1.0,3.0,7.5,57.0,1.0,19.0,1.0,4.0,15,5.0
+478,Five-Ingredient Chocolate Cheesecake Cups,Breakfast,1.5,4.0,6.0,65.0,20.0,48.0,1.0,6.0,38,4.0
+479,Flourless Chocolate Cake,Dessert,3.0,8.0,16.0,136.0,23.0,48.0,2.0,11.0,30,4.89
+480,Skinny Pumpkin Pie,Dessert,3.0,5.0,25.0,137.0,23.5,114.0,1.5,16.5,80,4.43
+481,Easy 3-Ingredient Low-Fat Graham Cracker Crust,Dessert,1.0,4.0,13.0,88.0,8.0,101.0,1.0,6.0,30,5.0
+482,No Bake Pumpkin Cheesecake,Dessert,2.5,10.0,21.0,187.0,5.5,178.0,1.5,13.0,15,4.95
+483,Whipped Coconut Cream,Dessert,0.25,3.5,2.0,38.5,2.5,5.0,0.5,1.5,30,5.0
+484,Gluten-Free S’mores Tartlets,Dessert,2.0,5.0,13.5,99.5,18.5,55.5,1.0,9.0,75,5.0
+485,Mixed Berry Tartlet with Dark Chocolate,Dessert,1.0,6.5,16.0,124.0,14.0,85.0,1.0,10.0,55,5.0
+486,Grilled Peaches With Honey and Yogurt,Dessert,2.0,5.0,19.0,78.0,5.0,5.0,2.0,18.0,25,5.0
+487,Sprinkle Dipped Meringues,Dessert,0.5,1.0,7.75,42.5,1.0,7.5,0.5,2.5,3,5.0
+488,Coconut Macaroon Nests,Dessert,1.5,4.0,10.0,79.0,1.0,12.5,0.5,9.5,60,4.25
+489,Coconut Obsessed Pie,Dessert,5.0,9.0,27.0,205.0,8.0,130.0,2.0,18.0,53,5.0
+490,Deep Dish Chocolate Chip Cookie Pie,Dessert,3.0,9.0,40.0,226.0,5.0,262.0,6.0,25.0,55,4.84
+492,White Chocolate Oatmeal Lace Cookies,Dessert,0.5,2.0,6.25,42.0,3.25,4.2,0.5,4.5,35,4.5
+494,Pumpkin Butterscotch Bars,Dessert,2.0,5.0,21.0,133.0,1.0,71.0,1.0,15.0,45,4.85
+496,Red White + Blue Fruit Pizza,Dessert,2.0,5.0,24.5,144.0,10.0,77.0,1.5,17.0,60,5.0
+497,Citrus Basil Mojito Pops,Dessert,3.0,5.0,8.0,34.0,5.0,1.0,1.0,7.0,4,5.0
+498,Avocado Coconut Popsicles,Dessert,1.0,4.5,11.0,84.5,5.0,30.0,1.5,9.0,13,3.0
+499,Fruit Pizza,Dessert,2.0,5.0,24.0,140.0,10.0,72.0,1.0,17.0,45,5.0
+500,PB2 Flourless Chocolate Brownies,Dessert,6.0,5.0,26.0,131.0,20.0,217.0,3.0,20.0,40,4.61
+501,Amazing Flour-less Black Bean Brownies,Dessert,4.0,5.0,25.0,144.0,23.5,91.0,3.5,17.5,45,4.84
+502,Vanilla Bean Panna Cotta,Dessert,5.0,7.0,20.0,158.0,25.0,48.0,1.0,19.0,39,5.0
+503,Dark Chocolate Oatmeal Lace Cookies,Dessert,1.0,3.0,10.0,66.0,6.0,7.0,1.0,7.0,30,4.58
+504,Mini Sweet Potato Meringue Pie,Appetizer,2.0,4.0,24.0,136.0,20.0,106.0,1.0,13.0,92,4.5
+505,Cranberry Swirl Cheesecake Squares,Dessert,6.0,10.0,22.0,197.0,5.0,101.0,1.0,14.0,57,4.63
+506,Skinny Mummy Cake Balls,Dessert,1.5,4.0,15.0,102.5,2.0,68.0,1.0,7.0,108,5.0
+507,Candy Corn Fruit Parfaits,Dessert,3.0,6.0,23.0,151.0,19.5,20.0,1.0,21.0,15,5.0
+508,Coconut Mango Ice Pops,Dessert,3.0,2.0,14.0,68.0,5.0,2.0,1.0,13.0,10,5.0
+509,Tropical Fruit Salad,Dessert,1.0,1.0,28.0,116.0,5.0,4.0,3.5,20.0,15,5.0
+510,Mexican “Unfried” Ice Cream,Dessert,7.5,2.5,30.0,149.5,45.0,248.0,4.0,11.5,30,5.0
+511,Easter Egg Cake Pops,Dessert,1.5,4.0,15.0,102.5,2.0,68.0,1.0,7.0,2,5.0
+512,Chocolate Drizzled Coconut Macaroons,Dessert,1.0,2.75,6.5,52.5,2.5,7.5,0.5,6.0,75,5.0
+513,St Patricks Day Cake Pops,Dessert,1.5,4.0,15.0,102.5,2.0,68.0,1.0,7.0,2,5.0
+514,Shamrock Shake,Dessert,7.0,6.0,23.0,169.5,2.0,90.5,2.5,19.0,10,5.0
+515,Valentine’s Day Cake Balls,Dessert,1.5,4.0,15.0,102.5,2.0,68.0,1.0,7.0,105,5.0
+516,Skinny Chocolate Parfaits,Dinner,0.83,1.67,5.08,36.17,5.5,12.2,0.25,3.75,52,5.0
+517,Chocolate Raspberry Cheesecake,Dessert,5.0,7.5,15.0,150.0,5.0,57.5,0.5,10.0,45,5.0
+518,Skinny Eggnog Cake,Dessert,2.5,5.0,32.0,188.0,0.3,204.0,0.5,4.3,45,5.0
+519,Skinny Frozen Hot Chocolate,Dessert,7.0,1.0,20.0,111.0,3.0,166.0,1.0,18.0,10,5.0
+520,Skinny Cake Pops,Dessert,1.4,4.0,15.0,102.5,2.0,68.0,1.0,7.0,78,5.0
+521,Dark Chocolate and Mint Chip Clouds,Dessert,0.5,2.5,11.5,65.25,2.5,5.5,0.5,11.0,65,5.0
+522,Mini Pecan Phyllo Tarts,Dessert,1.0,4.5,6.5,68.0,5.0,23.0,0.5,4.0,15,4.92
+523,Guiltless Banana Ice Cream (Nice Cream),Breakfast,1.0,5.0,27.0,105.0,5.0,1.0,3.0,14.0,10,5.0
+524,Pumpkin Hazelnut White Chocolate Biscotti,Dessert,2.0,4.0,15.5,101.5,15.5,40.0,0.5,8.0,45,5.0
+525,Pumpkin Cheesecake Shooters,Dessert,1.0,4.0,11.5,78.0,5.0,16.5,1.0,7.5,30,5.0
+526,Spooky Spider Halloween Cupcakes,Dessert,1.5,3.5,26.0,139.5,5.0,291.0,2.0,17.0,50,5.0
+527,Oatmeal Raisin Walnut Cookies,Dessert,1.5,2.25,15.75,86.0,8.25,59.5,1.0,8.25,40,3.0
+528,Raspberry Blueberry Gazpacho with Fresh Mint,Dessert,3.0,0.3,32.0,139.0,5.0,37.0,5.4,22.8,4,5.0
+529,Guiltless Banana Split in a Jar,Dessert,3.5,1.3,36.0,169.0,5.0,62.0,1.8,27.5,5,5.0
+530,Cherry Custard,Dessert,5.5,2.6,27.8,156.0,93.5,204.0,1.3,8.8,45,5.0
+531,Cherry Lime Ice Pops,Dessert,1.3,0.2,31.0,122.0,5.0,0.2,2.4,27.0,17,4.75
+532,"Frozen Mango, Kiwi, Raspberry Fruit Pops",Dessert,1.0,0.5,22.0,91.5,5.0,1.8,4.0,11.0,20,5.0
+533,Frozen Banana Pop,Dessert,0.3,4.9,15.0,99.0,5.0,0.3,1.7,10.0,22,5.0
+534,Skinny Chocolate Chip Fro-Yo Sandwiches,Dessert,3.0,3.0,38.0,168.5,5.0,88.5,1.0,27.5,60,5.0
+535,Very Berry Banana Fro Yo Shake,Dessert,5.6,2.1,48.0,211.7,5.0,90.6,5.7,26.3,5,5.0
+536,Coconut Cupcakes,Dessert,2.5,6.5,31.0,196.0,1.3,150.0,1.0,11.5,90,5.0
+537,Rainbow Fruit Skewers with Yogurt Fruit Dip,Dessert,5.2,5.0,12.0,65.4,5.0,23.3,1.0,11.9,10,5.0
+538,Chocolate Stout Cupcakes with Bailey’s Irish Cream Cheese Frosting,Dessert,3.5,6.5,31.0,189.0,5.0,214.5,1.5,19.5,50,4.93
+539,Homemade Skinny Chocolate Cake,Dessert,1.5,1.5,16.5,81.5,4.75,167.5,0.75,9.75,60,5.0
+540,Brownie Batter Pancakes,Breakfast,0.92,0.42,5.33,28.67,0.83,40.2,1.08,0.75,25,2.34
+541,Cranberry Pistachio Biscotti,Breakfast,1.5,2.1,10.3,65.2,10.0,24.4,0.3,5.0,45,4.8
+542,Vanilla Bean Sugar,Dessert,3.0,5.0,12.0,122.0,5.0,10.0,1.0,1.0,10,5.0
+543,Rudolph the Red Velvet Cupcake,Dessert,2.5,2.8,29.6,151.0,1.6,190.5,0.8,20.4,60,3.0
+544,Gingerbread Cookies,Dessert,0.95,0.85,14.9,66.5,5.8,30.9,0.1,7.65,32,4.7
+545,S’mores Pops,Dessert,0.7,2.4,15.9,84.3,5.0,61.5,0.8,11.0,35,5.0
+546,Homemade Vanilla Bean Marshmallows,Dessert,0.2,2.5,6.5,26.0,2.5,6.5,0.5,6.5,40,4.0
+547,Vanilla Snowman Cupcakes with Vanilla Icing,Dessert,2.1,2.7,27.3,143.5,5.0,143.2,1.0,19.6,60,5.0
+548,Skinny No-Bake Chocolate Peanut Butter Cookies,Breakfast,1.55,1.15,9.4,52.95,0.05,6.1,1.15,3.95,30,3.0
+549,Pumpkin Hazelnut Custard (Clafoutis),Dessert,5.0,4.0,24.0,149.0,56.5,71.5,1.0,18.0,40,4.5
+550,Frozen Chocolate Banana Ghost Pops,Dessert,1.5,5.0,14.5,103.0,1.5,14.0,1.0,11.5,22,5.0
+551,Chocolate Mummy Cupcakes,Dessert,1.0,3.7,32.0,165.0,0.1,301.0,1.5,23.5,70,2.0
+552,Super Moist Low Fat Chocolate Cupcakes with Chocolate Glaze,Dessert,1.0,2.5,20.0,104.5,5.0,288.5,1.5,12.5,60,4.63
+553,Pumpkin Ice Cream,Breakfast,4.0,1.0,31.0,153.0,5.5,165.0,0.5,29.0,90,5.0
+554,Meringue Ghosts,Dessert,0.4,0.3,6.1,27.5,5.0,6.4,0.1,5.9,2,5.0
+555,Pumpkin Spice Cookies,Dessert,0.7,2.5,17.35,85.7,2.5,56.5,0.75,12.7,45,4.5
+556,Pumpkin Swirl Cheesecake Yogurt Cupcakes,Dessert,4.0,5.0,16.0,117.0,2.0,24.0,0.5,12.5,50,5.0
+557,Pumpkin Cupcakes with Pumpkin Cream Cheese Frosting,Dessert,1.5,3.0,23.0,121.0,5.0,142.5,0.5,14.0,55,4.3
+558,Pineapple Zucchini Cupcakes with Cream Cheese Frosting,Dessert,3.0,6.5,31.1,197.8,20.5,284.2,1.7,21.7,60,5.0
+559,Chocolate Sorbet,Dinner,1.7,1.2,24.7,97.7,5.0,1.7,2.9,20.2,30,4.67
+560,Piña Colada Sorbet,Dinner,3.0,1.5,20.0,91.0,5.0,0.5,0.5,18.5,90,5.0
+561,Skinny Strawberry Fool,Dessert,1.97,2.4,11.7,74.27,1.67,17.3,0.7,0.33,30,5.0
+562,Pink Lemonade Confetti Cupcakes,Dessert,1.0,2.5,17.5,97.5,5.0,103.5,1.0,10.0,40,5.0
+563,Cherry Sorbet,Dessert,1.0,0.5,37.0,136.0,5.0,5.0,2.5,31.0,30,3.0
+564,Sweet Light Angel Food Cupcakes with Meringue Icing,Dessert,4.0,5.0,26.5,122.0,5.0,10.0,1.0,21.5,50,4.0
+565,Strawberry Rhubarb Compote,Breakfast,0.6,5.0,8.0,33.0,5.0,10.0,1.7,5.0,30,5.0
+566,Bananas Foster Topped Overnight French Toast,Dessert,10.5,5.0,59.0,295.0,50.0,115.0,1.5,32.0,58,5.0
+567,Piña Colada Cupcakes,Dessert,1.0,4.0,27.0,153.5,5.0,10.0,1.5,16.5,45,4.25
+568,Pineapple Bliss Cupcakes,Dessert,0.5,0.8,20.9,93.5,5.0,10.0,0.2,12.2,30,5.0
+569,Banana Nut Oatmeal Cookies,Dessert,1.75,3.5,14.0,88.0,2.5,5.0,0.8,7.0,30,4.84
+570,Healthy Creme Brulee,Breakfast,7.0,5.0,35.0,168.0,5.0,120.0,0.5,31.0,10,5.0
+571,Black and White Chocolate Chip Meringues,Dessert,1.0,2.1,8.2,55.6,5.0,6.0,0.8,7.9,60,4.8
+572,Strawberry Swirl Cheesecake,Dessert,6.0,5.5,15.0,133.0,16.0,135.0,0.5,8.5,45,4.17
+573,Dark Chocolate Chunk Bread Pudding,Dessert,9.0,11.0,34.0,277.0,110.0,68.0,3.0,17.0,75,5.0
+574,Chocolate Chocolate Chip Biscotti,Lunch,1.9,2.9,18.2,100.9,17.5,41.0,1.1,10.0,45,4.0
+575,Strawberry Kiwi Pavlova,Dessert,3.5,0.5,51.0,221.5,5.0,50.0,3.0,38.0,75,5.0
+576,Chocolate Ricotta Mousse,Dessert,11.0,7.0,18.0,166.0,38.0,180.0,1.0,25.0,18,5.0
+577,No-Bake Fudge Snow Balls,Dessert,2.0,4.0,9.0,70.0,5.0,10.0,2.0,1.0,20,5.0
+578,Pumpkin Spiced Crepes with Pumpkin Butter,Breakfast,3.8,1.1,23.5,107.1,18.3,33.4,1.7,0.1,30,5.0
+579,Low Fat Rice Krispy Treats,Dessert,0.8,0.7,18.9,84.4,5.0,10.0,1.0,1.0,30,5.0
+580,Phyllo Fruit Tart,Dessert,4.5,6.0,26.0,183.0,5.0,10.0,3.0,1.0,30,5.0
+581,Creamy Grape Salad Dessert,Dessert,5.5,8.0,34.0,171.0,5.0,10.0,1.5,1.0,10,5.0
+582,Fruit Kabobs,Dessert,3.0,5.0,12.0,122.0,5.0,10.0,1.0,1.0,30,5.0
+583,Low Fat Strawberry No-Bake Cheesecake,Dessert,3.1,9.6,29.9,233.5,5.0,10.0,1.5,1.0,30,5.0
+584,Low Fat Banana Fritters,Dessert,0.8,0.75,5.68,31.2,1.25,2.5,0.38,0.25,30,5.0
+585,Red Velvet Cupcakes,Dessert,3.0,4.0,23.5,137.0,18.0,170.5,1.0,13.5,60,5.0
+586,Chocolate Crepes with Strawberries,Breakfast,3.5,1.5,24.0,139.5,17.0,36.5,1.0,13.5,45,5.0
+587,Chocolate Covered Strawberries,Dessert,0.5,3.0,6.8,49.0,5.0,1.2,0.8,5.5,20,5.0
+588,Chocolate Banana Soufflés,Dessert,0.8,0.6,3.92,21.87,17.67,5.5,0.53,2.33,30,4.25
+589,Banana Cream Pie,Dessert,2.5,11.5,34.5,255.0,13.0,163.5,2.0,20.5,30,4.5
+590,Pineapple Zucchini Cake with Cream Cheese Frosting,Dessert,3.5,8.0,30.0,228.0,27.0,298.5,2.0,26.0,60,4.84
+591,Low Fat Cream Cheese Frosting,Dessert,1.0,3.0,8.0,64.9,5.0,10.0,2.0,7.4,30,5.0
+592,Super Light Blueberry Cream Pie,Dinner,3.0,9.0,33.0,230.0,1.5,128.5,2.0,19.0,70,5.0
+593,Coconut Cream Pops,Dessert,2.8,4.5,13.6,106.3,5.0,10.0,0.4,10.7,30,5.0
+594,Blueberry Compote,Breakfast,0.25,2.5,11.35,44.5,2.5,5.0,1.0,0.5,30,5.0
+595,No-Bake Cheesecake,Dessert,3.0,12.0,23.0,181.0,14.5,168.0,1.0,6.5,23,5.0
+596,Strawberries and Cream,Dessert,0.1,0.57,2.27,10.4,1.67,3.3,0.4,1.93,30,5.0
+597,Banana Apricot Puff Pastry Tarts,Dessert,3.0,5.0,12.0,122.0,5.0,10.0,1.0,1.0,40,2.5
+598,Black Bean Brownies,Dessert,2.9,2.6,28.0,138.1,5.0,10.0,1.8,1.0,30,4.71
+600,Grapefruit-Ginger Kombucha Mocktail,Dessert,0.5,0.5,15.0,66.0,5.0,1.5,0.5,12.5,30,5.0
+602,Orange Moscow Mule Mocktail,Dessert,1.0,5.0,27.0,104.0,5.0,10.0,3.0,20.5,5,5.0
+603,Zero-Proof Jalapeño Paloma,Dessert,0.5,5.0,17.0,66.0,16.0,1.0,1.0,14.0,5,5.0
+605,Citrus Immunity Shots,Dessert,0.5,5.0,6.0,25.0,5.0,0.5,1.0,4.0,10,4.67
+606,Boozy Watermelon Lime Granita,Dessert,0.5,0.5,12.0,109.0,5.0,2.0,0.5,11.5,3,5.0
+608,Green Apple Lemon Cucumber Ginger Smoothie,Breakfast,2.0,0.5,30.5,110.0,5.0,20.0,6.5,18.0,10,4.29
+609,Basil Cucumber Gin Cooler,Breakfast,3.0,5.0,7.0,137.0,5.0,7.0,1.0,5.0,10,5.0
+611,Chia Watermelon Fresca,Breakfast,5.0,6.0,22.0,6.0,5.0,5.0,6.0,15.0,5,5.0
+618,Blueberry Banana Oatmeal Smoothie,Breakfast,3.0,2.0,38.0,180.0,5.0,52.5,4.0,8.0,5,4.0
+619,Watermelon Agua Fresca,Lunch,1.5,1.0,16.5,73.0,5.0,4.5,1.0,15.0,10,5.0
+620,Matcha Green Tea Shots,Lunch,0.5,1.0,5.0,27.5,2.5,38.0,0.5,4.5,5,5.0
+621,Peach Banana Green Smoothie with Hemp Seeds,Breakfast,0.44,0.5,1.94,12.81,0.31,10.6,0.38,1.25,30,4.34
+622,Mango Banana Hemp Seed Green Smoothie,Breakfast,0.31,0.38,1.69,10.84,0.31,10.7,0.28,0.97,10,5.0
+623,Tropical Papaya Batido Fruit Shake,Breakfast,3.0,1.0,49.0,205.0,5.0,6.0,4.0,35.5,10,5.0
+625,Blueberry Banana PB Smoothie,Breakfast,13.0,4.0,48.5,261.0,5.0,212.4,8.0,26.5,5,4.89
+627,Iced Green Tea Mojito,Breakfast,0.5,0.5,11.0,110.0,5.0,4.0,0.5,9.0,10,5.0
+629,Citrus Margarita Spritzer,Breakfast,0.5,0.5,12.0,137.0,5.0,13.5,0.5,9.0,5,5.0
+630,Celery Cilantro Cocktail,Breakfast,0.2,5.0,19.9,135.0,5.0,15.8,1.2,15.8,10,5.0
+631,Skinny Green Tropical Smoothie,Breakfast,10.2,7.7,30.2,228.0,5.0,70.5,3.9,19.4,5,4.5
+632,Watermelon Martini,Breakfast,0.17,0.08,1.92,15.08,0.83,0.4,0.08,1.25,15,5.0
+633,Colombian Salpicón,Dessert,0.5,0.5,14.0,52.0,5.0,10.0,2.0,7.0,15,5.0
+634,Freshly Brewed Ice Tea with Fresh Mint,Dessert,3.0,5.0,0.8,3.0,5.0,0.1,1.0,0.2,30,3.0
+635,Horchata,Breakfast,3.0,0.5,31.5,138.0,1.0,30.5,1.5,2.5,18,5.0
+636,Healthy Pumpkin Oatmeal Smoothie,Breakfast,3.8,0.9,21.5,95.0,1.3,30.0,2.6,11.0,15,5.0
+637,Pumpkin Smoothie,Breakfast,10.6,0.5,40.0,185.5,1.2,66.8,2.6,10.2,5,4.67
+638,Skinny Pumpkin Spice Latte,Breakfast,6.6,0.4,20.8,115.6,3.7,100.0,0.7,4.7,15,5.0
+639,Nojito (Virgin Mojito Mocktail),Breakfast,0.5,0.1,15.2,58.5,5.0,10.0,0.9,1.0,30,5.0
+640,Skinny Margarita,Breakfast,0.2,5.0,3.3,185.5,5.0,1.0,0.2,1.0,5,5.0
+641,Mango Peach Smoothie,Breakfast,2.3,0.3,26.0,99.7,5.0,10.0,5.0,1.0,30,5.0
+642,Triple Berry Smoothie,Breakfast,9.4,0.3,9.7,75.9,5.0,40.3,2.7,6.0,30,5.0
+643,Very Blueberry Smoothie,Breakfast,3.4,5.0,16.2,80.5,5.0,10.0,3.0,1.0,30,5.0
+644,Pomegranate Martini,Breakfast,0.1,1.25,3.28,29.25,1.25,2.9,0.25,3.25,3,5.0
+645,Skinny Eggnog Latte,Breakfast,3.0,5.0,12.0,73.0,5.0,10.0,1.0,1.0,30,5.0
+646,Skinny Eggnog,Breakfast,5.3,2.5,15.3,106.7,5.0,10.0,1.0,1.0,30,4.5
+647,Mango Lassi,Breakfast,9.2,0.3,26.7,138.7,1.5,22.5,1.3,1.0,5,4.75
+648,Wine Spritzer,Dinner,0.75,1.25,0.12,10.0,1.25,3.9,0.25,0.25,2,5.0
+649,Mango Bellini,Breakfast,3.0,5.0,3.5,86.5,5.0,10.0,1.0,1.5,3,5.0
+650,Skinny Cuban Mojito,Breakfast,3.0,5.0,5.0,102.0,5.0,44.5,1.0,0.5,5,3.0
+651,Italian Shrimp Salad,Lunch,20.0,11.5,5.0,198.0,152.0,442.5,1.5,1.0,23,4.86
+654,Crispy Butter Beans,Appetizer,8.5,8.0,27.5,187.0,5.0,777.0,8.5,3.0,20,4.34
+655,Bloody Mary Deviled Eggs,Appetizer,4.5,3.75,0.75,56.5,98.75,644.8,0.25,0.5,35,5.0
+656,White Bean Crostini,Appetizer,1.5,1.0,5.0,33.5,2.5,72.0,0.75,0.25,15,5.0
+657,Cacio e Pepe Cheese Crisps,Appetizer,1.75,2.0,0.5,29.0,6.75,127.8,0.5,0.5,30,5.0
+658,Sugar Plum Baked Brie Bites,Appetizer,2.5,5.0,6.0,78.0,9.5,133.0,1.0,2.0,30,5.0
+659,Spinach-Artichoke Crostini,Appetizer,2.25,1.25,7.5,48.5,3.75,109.5,1.0,1.0,30,4.67
+660,Mummy Hot Dogs,Appetizer,6.0,2.5,8.0,81.0,15.5,342.0,0.5,0.5,52,5.0
+661,Mummy Jalapeno Poppers,Appetizer,4.0,2.0,8.0,65.0,7.0,162.5,0.5,1.0,60,5.0
+662,Hummus,Appetizer,10.0,12.0,28.5,252.0,5.0,447.5,7.5,4.5,15,4.95
+663,Corn Salsa,Appetizer,2.0,0.5,12.0,57.0,5.0,10.0,2.0,4.0,75,5.0
+666,Vegetable Charcuterie Board,Lunch,3.0,5.0,12.0,122.0,5.0,10.0,1.0,1.0,20,5.0
+668,Artichoke Dip,Appetizer,4.5,4.0,4.8,73.7,5.0,10.0,0.7,1.0,25,5.0
+669,Best Guacamole Recipe,Appetizer,1.0,8.0,6.0,93.0,5.0,75.0,4.0,1.0,5,5.0
+670,Pico de Gallo,Appetizer,1.0,0.5,8.0,36.5,5.0,13.0,1.5,0.3,5,5.0
+671,Chicken Satay with Spicy Peanut Sauce,Dinner,8.62,2.25,2.0,66.25,25.88,229.6,0.25,1.38,40,4.87
+672,How To Make a Colorful Crudite Platter,Appetizer,3.0,5.0,12.0,122.0,5.0,10.0,1.0,1.0,15,5.0
+673,Baked Salmon Cakes,Appetizer,7.0,3.0,8.0,87.0,23.0,297.0,1.0,1.0,30,4.91
+674,Buffalo Chicken Dip,Appetizer,15.0,6.5,4.5,121.0,48.0,707.0,1.0,2.5,40,4.94
+675,Baked Buffalo Chicken Jalapeño Poppers,Appetizer,3.5,2.5,2.5,46.0,7.0,173.0,0.5,0.5,45,5.0
+677,Buffalo Chicken Meatballs,Dinner,4.0,2.0,1.0,37.0,26.0,135.0,1.0,1.0,35,4.92
+680,Whipped Feta Dip,Appetizer,7.5,13.0,2.5,155.0,36.0,437.0,0.5,0.5,15,4.91
+681,Spinach Dip Stuffed Mushrooms,Appetizer,2.33,2.33,1.67,35.0,6.67,73.0,0.33,0.67,40,5.0
+683,Butternut Squash Galette,Dinner,5.5,15.5,32.0,274.0,43.5,410.0,2.0,7.0,90,5.0
+684,How To Make a Charcuterie Board,Appetizer,3.0,5.0,12.0,122.0,5.0,10.0,1.0,1.0,30,4.78
+685,Greek Yogurt Caesar Dip,Appetizer,4.5,4.0,3.5,68.0,9.0,207.0,0.5,1.5,25,5.0
+686,Oysters Rockefeller,Appetizer,5.5,2.25,3.75,58.0,27.75,83.8,0.25,0.5,30,5.0
+688,Everything Bagel Pigs in a Blanket,Appetizer,6.0,2.5,7.0,80.0,16.0,377.5,0.25,0.5,55,5.0
+690,Baked Mexican Layer Dip,Appetizer,15.5,8.5,11.5,173.0,37.0,550.5,3.5,2.0,60,4.77
+693,"Black Bean, Avocado, Cucumber and Tomato Salad",Lunch,3.5,4.0,12.5,94.0,5.0,152.0,4.0,1.5,10,4.67
+698,Spinach and Bacon Stuffed Mushrooms,Appetizer,3.0,1.5,3.0,34.5,2.5,58.5,1.0,0.5,45,4.91
+700,Jalapeno Poppers,Appetizer,2.0,1.25,1.75,26.0,5.0,46.0,0.25,0.75,35,4.93
+701,Jalapeno Popper “Nachos”,Appetizer,5.0,3.25,1.5,55.5,12.75,131.0,0.5,1.0,45,4.93
+705,Drunken Mussels,Appetizer,2.64,1.09,1.0,27.91,6.86,78.0,0.05,0.05,25,5.0
+707,Baked Brie Phyllo Tarts with Craisins and Walnuts,Appetizer,2.0,3.0,6.5,60.0,5.0,59.0,0.5,4.0,15,5.0
+709,Shrimp Ceviche,Appetizer,24.0,2.0,7.0,147.0,167.0,553.0,1.0,2.0,30,5.0
+712,Spicy Crunchy Tuna Tartare,Appetizer,18.6,10.3,7.9,197.6,5.0,10.0,3.1,1.0,15,5.0
+714,Air Fryer Buffalo Chicken Zucchini Skins,Appetizer,9.5,3.0,3.5,80.0,25.5,452.5,1.0,2.0,25,5.0
+715,Caramelized Onion Empanadas (Chilean pequenes),Appetizer,2.5,4.75,14.5,109.0,20.75,248.5,1.5,3.0,75,4.13
+720,The Best Baba Ganoush,Appetizer,2.5,9.0,15.5,140.0,5.0,743.5,4.5,5.0,30,4.7
+722,Avocado Mango Salsa,Appetizer,1.5,6.0,11.5,96.0,5.0,6.5,3.0,7.0,5,4.95
+723,Eggplant Sticks (Baked or Air Fryer),Appetizer,4.5,3.0,12.0,87.0,2.0,441.0,2.5,1.0,25,4.92
+724,Whole Roasted Baby Cauliflower,Appetizer,1.5,3.5,3.5,46.5,5.0,600.0,1.5,1.5,45,4.77
+725,Air Fryer Bacon-Burger Bites,Appetizer,6.75,3.25,1.0,62.5,19.75,260.8,0.25,0.25,30,4.91
+726,Stuffed Mushrooms with Broccoli Rabe and Sausage,Appetizer,4.33,1.83,2.0,40.33,15.0,140.7,0.33,0.5,65,5.0
+727,Baked Turkey Croquettes,Dinner,4.6,2.07,8.97,72.33,20.17,237.8,0.9,0.67,35,4.69
+728,Prosciutto Wrapped Figs with Blue Cheese (Grill or Air Fryer),Appetizer,3.75,5.25,13.5,110.5,10.25,286.0,2.0,11.0,15,5.0
+729,Air Fryer Bacon Wrapped Scallops,Dinner,5.0,1.0,0.88,34.5,8.0,163.5,0.25,0.25,25,4.82
+730,Caprese Salad,Appetizer,6.5,7.5,2.0,100.0,22.5,180.0,0.5,0.5,5,5.0
+731,Air Fryer Shishito Peppers,Lunch,0.75,2.5,1.25,7.5,2.5,38.2,0.25,1.0,10,5.0
+732,Bruschetta with Tomato and Basil,Appetizer,1.1,0.6,9.1,49.6,5.0,2.0,0.5,0.2,25,4.91
+733,Grilled Vegetable Platter with Yogurt Mint Sauce,Lunch,11.0,9.5,21.0,196.0,6.5,167.5,6.0,10.0,25,5.0
+734,Zesty Lime Shrimp and Avocado Salad,Appetizer,25.0,8.0,7.0,197.0,221.0,330.0,3.0,1.0,20,4.91
+735,Everything Parmesan Crisps,Appetizer,5.5,4.5,1.5,66.0,10.0,233.0,0.5,0.5,30,5.0
+736,Crispy Avocado Egg Rolls (Air Fryer or Oven),Appetizer,3.5,8.0,17.5,148.0,4.5,304.0,3.0,1.5,30,4.43
+737,Buffalo Chicken Egg Rolls,Appetizer,10.0,3.0,12.25,115.75,12.25,510.0,0.5,0.75,45,4.88
+738,Air Fryer Bacon Wrapped Chicken Bites,Appetizer,5.33,1.17,4.0,32.67,14.67,43.5,0.33,0.33,18,4.75
+739,How To Make An Antipasto Salad Platter,Appetizer,3.0,5.0,12.0,122.0,5.0,10.0,1.0,1.0,10,5.0
+740,Leftover Turkey Pot Pie Empanadas,Appetizer,9.5,5.0,24.5,174.0,31.0,315.0,0.5,1.0,40,5.0
+741,Zucchini Carpaccio,Appetizer,3.0,6.0,5.0,81.0,5.0,90.0,2.0,2.0,20,5.0
+742,Steamed Mussels with Piri Piri,Dinner,13.5,18.0,7.0,274.0,36.0,723.5,0.5,1.0,26,5.0
+743,Zucchini Pork Dumplings,Appetizer,3.2,2.9,2.4,48.0,10.2,123.3,0.4,1.1,60,4.62
+744,Avocado Fries with Lime Dipping Sauce (Air Fryer or Oven),Appetizer,1.75,3.12,3.75,49.25,23.62,130.4,1.0,0.38,15,4.63
+746,Tuna Deviled Eggs,Lunch,6.62,4.0,0.75,66.0,99.25,118.0,0.25,0.25,20,4.59
+747,Bangin Good Shrimp,Lunch,12.0,3.75,6.0,107.5,89.0,219.0,0.5,3.0,20,4.97
+748,Air Fryer Tostones (Twice Air Fried Plantains),Appetizer,0.25,1.25,6.75,25.5,1.25,62.5,0.5,3.0,25,4.5
+749,Easy Garlic Knots (Air Fryer or Baked),Appetizer,5.0,1.5,14.0,87.0,3.0,145.0,0.5,1.0,30,4.84
+750,Cauliflower Rice (Arancini) Balls,Lunch,7.17,3.83,5.2,85.67,31.83,214.7,1.0,0.83,30,4.74
+751,Easy No-Cook Salsa Recipe,Appetizer,0.33,1.67,1.67,9.33,1.67,67.0,0.33,0.67,5,4.91
+752,California Spicy Crab Stuffed Avocado,Appetizer,12.0,13.0,7.0,194.0,60.0,746.0,4.0,1.0,10,4.88
+753,Ahi Tuna Watermelon Salad,Appetizer,29.5,5.5,13.0,217.0,44.0,429.5,1.0,8.0,60,5.0
+754,Baked Zucchini Sticks (Oven or Air Fryer),Appetizer,0.56,0.12,1.62,9.62,0.31,20.4,0.19,0.44,35,4.72
+755,Waffled Crab Cakes,Appetizer,15.5,4.5,9.5,133.0,111.0,635.0,1.5,0.5,30,4.78
+756,Baked Shrimp Taquitos,Lunch,9.0,3.75,13.75,122.5,49.25,100.8,2.0,0.25,30,4.82
+757,Salsa Verde,Appetizer,0.5,0.5,4.0,20.0,5.0,161.0,1.2,2.3,30,5.0
+758,Asparagus and Caramelized Onion Tartlets,Lunch,1.5,1.25,2.5,24.0,2.0,38.5,0.25,0.25,30,5.0
+759,Korean-Inspired Turkey Gochujang Meatballs,Appetizer,4.67,2.33,2.0,46.67,25.0,107.0,0.17,1.0,35,5.0
+760,Burger Slider Skewers,Breakfast,8.0,2.5,1.5,66.0,20.0,293.5,0.5,0.5,30,4.75
+761,Hot Spinach Dip,Appetizer,5.5,6.0,3.5,85.0,14.0,181.5,0.5,0.5,30,4.69
+762,Shrimp Ceviche Cocktail,Appetizer,11.0,4.0,5.0,100.0,98.0,135.0,2.0,1.0,20,5.0
+763,Sweet Potato and Carrot “Tots”,Appetizer,0.8,0.4,3.2,19.6,6.7,51.0,0.4,0.3,40,4.67
+764,Baked Sweet Potato Skins,Appetizer,4.0,3.0,12.5,75.25,3.0,222.5,2.5,3.0,60,5.0
+765,Baked Mozzarella Sticks,Appetizer,3.75,2.5,3.5,43.5,10.5,84.2,0.25,0.25,85,4.6
+766,Shrimp Summer Rolls with Peanut Hoisin Dipping Sauce,Appetizer,5.0,6.0,17.0,138.0,22.0,193.0,3.0,3.0,30,4.82
+767,Hot Spinach Artichoke Dip,Appetizer,5.0,4.5,3.5,73.0,10.5,245.0,1.0,0.5,15,4.95
+768,Sweet ‘n Spicy BBQ Turkey Meatballs with Bacon,Appetizer,4.0,1.83,1.67,40.67,20.0,69.0,0.17,1.0,40,5.0
+769,Spicy Garlic Edamame,Appetizer,10.0,7.0,14.0,152.0,5.0,573.0,4.5,7.0,15,5.0
+770,Avocado and Lump Crab Salad,Lunch,9.5,13.0,9.0,178.0,50.0,447.0,5.0,1.0,10,4.91
+771,Eggplant Meatballs,Appetizer,2.62,1.88,7.75,55.62,10.25,266.5,1.5,1.5,50,4.85
+772,Shrimp Salsa,Appetizer,14.5,0.5,4.0,74.0,107.0,277.0,1.0,2.0,15,5.0
+773,Grilled Rainbow Peppers with Herb Cream Cheese,Appetizer,0.75,1.0,1.0,23.5,2.0,32.8,0.12,0.75,30,3.34
+774,Watermelon “Pizza” with Feta and Balsamic,Appetizer,1.0,1.5,7.0,45.0,3.0,74.0,0.5,6.0,15,4.67
+775,Mushroom Ceviche,Appetizer,3.0,5.0,11.0,90.0,5.0,406.0,2.0,2.0,18,5.0
+776,Spiralized Mediterranean Beet and Feta Skillet Bake,Appetizer,5.0,12.0,9.0,160.5,25.0,483.0,2.0,3.0,30,5.0
+777,Two Tomato Bruschetta,Appetizer,2.5,4.5,8.5,81.0,4.5,169.2,1.25,1.75,20,5.0
+778,Honey-Lime Meatballs (Slow Cooker),Appetizer,3.5,1.0,3.0,35.0,8.5,87.5,0.25,1.25,24,5.0
+779,Crab Guacamole,Dinner,6.0,6.0,4.5,96.0,25.0,144.0,2.0,1.0,10,5.0
+781,Baked Buffalo Chicken Nuggets,Appetizer,2.8,0.6,1.1,21.1,8.3,37.9,0.2,0.1,25,5.0
+782,Chilled Lobster Salad with Sweet Summer Corn and Tomatoes,Appetizer,39.0,10.5,25.5,349.0,122.0,668.0,4.0,3.5,15,5.0
+783,BBQ Shrimp Skewers,Appetizer,23.0,2.0,6.0,139.0,172.0,253.0,1.0,4.0,30,5.0
+784,Baked Tostones (Green Plantains),Appetizer,0.17,0.17,6.08,22.83,0.83,1.0,0.5,2.67,30,4.89
+785,Picadillo Quesadillas,Lunch,22.0,10.0,15.0,211.0,30.0,563.0,8.0,1.0,15,5.0
+786,Asian Turkey Meatballs With Lime Sesame Dipping Sauce,Dinner,10.0,5.0,2.33,100.0,49.33,288.7,0.33,0.33,35,4.74
+787,Spicy Shrimp with Chilies and Garlic,Appetizer,11.5,2.0,1.5,73.5,86.0,85.5,0.5,0.5,15,5.0
+788,Crab and Avocado Phyllo Bites,Appetizer,2.0,2.0,3.0,37.0,12.0,134.0,1.0,1.0,20,5.0
+789,Skinny Buffalo Chicken Strips,Appetizer,10.5,1.0,1.0,55.5,21.5,320.0,0.5,0.5,30,4.72
+790,Baked Mini Spinach and Sausage Arancini,Appetizer,2.5,1.5,5.5,44.5,13.5,127.0,0.5,0.5,45,5.0
+791,Ceviche Cucumber Cups,Lunch,2.0,0.5,1.0,15.5,4.0,8.0,0.5,0.5,30,5.0
+792,Cauliflower Tots,Appetizer,1.25,0.62,2.0,18.5,7.12,49.6,0.38,0.38,30,4.75
+793,Sweet Potato Irish Nachos,Appetizer,9.0,9.0,28.0,227.0,10.0,189.0,5.0,10.0,30,5.0
+794,Grilled Cilantro Lime Shrimp Kebabs,Appetizer,13.0,1.0,3.0,74.0,94.0,384.0,1.0,1.0,30,5.0
+795,Southwestern Black Bean Salad,Appetizer,3.0,3.5,12.0,79.5,5.0,127.0,3.0,1.0,35,5.0
+796,Guacamole Deviled Eggs,Appetizer,2.5,3.0,1.5,44.0,31.0,30.0,1.0,0.25,30,4.88
+797,Hot and Spicy Buffalo Shrimp Dip,Appetizer,13.0,7.0,2.0,120.0,87.0,672.0,1.0,0.9,40,4.0
+798,Skinny Queso Dip,Appetizer,6.5,4.5,7.0,92.5,5.0,143.0,1.0,2.0,30,4.67
+799,Spicy Buffalo Cauliflower Bites,Appetizer,4.0,2.0,21.5,119.5,5.0,1172.0,3.0,0.2,30,4.35
+800,Hot and Cheesy Crab and Artichoke Dip,Appetizer,6.0,4.0,4.0,78.0,14.5,427.0,1.0,1.0,45,3.86
+801,Veggie Shooters (Crudites with Ranch Dip),Appetizer,4.0,2.0,10.0,73.0,4.4,331.0,1.0,4.0,20,5.0
+802,Skinny Buffalo Chicken Potato Skins,Lunch,8.0,2.0,7.0,82.0,17.0,110.0,1.0,0.5,49,4.0
+803,Pan con Tomate (Spanish Tomato Bread),Appetizer,2.75,2.25,15.5,93.0,2.5,192.5,1.0,0.5,15,5.0
+804,Oven “Fried” Pickles with light Herb Ranch Dip,Appetizer,0.4,0.23,1.52,9.77,3.83,208.1,0.1,0.05,40,4.0
+805,Bang Bang Grilled Shrimp Skewers,Appetizer,9.25,2.25,2.0,70.0,70.0,133.5,0.25,1.5,18,5.0
+806,Skinny Texas Cheese Fries,Appetizer,10.5,12.0,30.0,265.0,19.5,305.5,3.0,1.5,25,4.75
+807,Loaded Turkey Santa Fe Baked Potato Skins,Breakfast,6.5,2.0,10.0,76.5,8.5,93.0,1.5,0.5,65,5.0
+808,Asian Flank Steak Skewers,Appetizer,4.5,1.75,0.5,37.5,1.25,100.0,0.12,0.25,70,4.1
+809,Bacon Wrapped Chicken Bites,Appetizer,5.33,1.17,4.0,32.67,14.67,43.5,0.33,0.33,30,4.67
+810,Easy Baked Coconut Shrimp,Appetizer,3.33,1.17,7.33,53.83,1.67,54.7,0.67,5.17,30,4.88
+811,"Summer Tomatoes, Corn, Crab and Avocado Salad",Appetizer,9.0,6.0,11.5,131.0,5.0,263.5,4.0,2.5,15,5.0
+812,Persian Turkey Kofta Kebabs,Appetizer,7.67,2.83,1.67,61.83,26.33,38.2,0.33,0.17,55,4.78
+813,Salsa Picante Roja (Spicy Red),Appetizer,0.5,1.0,3.5,22.5,5.0,6.0,1.0,0.5,30,5.0
+814,Healthy Baked Chicken Nuggets,Lunch,6.5,1.12,2.0,47.0,14.25,106.8,0.25,0.12,30,4.73
+815,Baked Onion Rings,Breakfast,3.0,0.6,15.0,75.0,1.0,53.0,2.0,2.0,22,3.5
+816,Papaya Avocado Salad,Appetizer,2.0,8.5,10.5,112.5,5.0,10.0,6.0,1.0,20,5.0
+817,Baked Seasoned Fries with Skinny Garlic Aioli,Appetizer,3.5,5.3,36.1,198.0,5.0,22.1,4.0,1.0,30,5.0
+818,Southwest Turkey Meatballs,Lunch,5.25,1.0,1.25,33.5,2.5,5.0,0.25,0.5,25,5.0
+819,Creamy Parmesan Spinach Dip,Appetizer,3.2,6.2,3.3,79.4,5.0,10.0,0.9,1.0,30,4.8
+820,Chipotle Sweet Potato Fries,Appetizer,0.5,0.83,7.0,37.17,0.83,51.5,0.92,1.17,30,5.0
+821,Skinny Ranch Dip,Appetizer,0.8,3.5,1.7,41.3,5.0,10.0,0.2,1.0,30,5.0
+822,Shrimp Salad on Cucumber Slices,Appetizer,2.69,0.4,0.53,16.71,23.57,39.3,0.14,0.14,10,5.0
+823,Tzatziki Sauce,Appetizer,2.6,5.0,1.7,18.0,5.0,10.0,0.1,1.0,10,4.89
+824,Steamed Clams with Fresh Basil,Lunch,22.4,8.5,6.1,234.3,5.0,10.0,0.2,1.0,30,5.0
+825,Edamame Hummus,Lunch,6.1,6.7,7.2,107.4,5.0,11.4,3.8,0.5,30,5.0
+826,Taco Dip,Appetizer,2.0,3.5,4.5,59.0,11.5,223.5,0.5,2.0,20,4.85
+827,Broccoli and Cheddar Skinny Potato Skins,Appetizer,6.55,1.45,15.0,96.35,2.5,5.0,2.15,0.5,30,5.0
+828,Easy Beef Carpaccio,Appetizer,8.3,5.3,0.6,79.6,5.0,10.0,0.1,1.0,30,5.0
+829,Baked Lump Crab Cakes with Red Pepper Chipotle Lime Sauce,Appetizer,13.0,9.0,12.0,174.0,5.0,10.0,1.3,1.0,65,4.92
+830,Italian Stuffed Artichokes,Lunch,17.6,10.7,46.2,357.9,5.0,10.0,8.5,1.0,30,5.0
+831,Chicken Quesadilla,Dinner,47.5,31.5,30.5,435.0,102.5,1009.5,16.5,5.0,25,5.0
+832,Mozzarella Basil and Tomato Skewers,Appetizer,7.3,7.2,3.3,106.1,5.0,137.1,0.6,0.1,30,5.0
+833,Chickpea and Roasted Pepper Dip,Appetizer,6.0,5.0,28.0,171.0,5.0,323.0,5.0,1.0,30,5.0
+834,Mussels in Basil Cream Sauce,Appetizer,1.47,1.71,0.84,26.47,0.36,69.5,0.03,0.15,30,5.0
+835,Skinny Buffalo Wings,Dinner,9.5,6.75,2.0,102.0,28.25,406.0,0.3,0.5,55,4.55
+836,Baked Tostones,Appetizer,1.1,4.8,38.2,184.0,5.0,6.6,2.7,17.5,45,3.67
+837,Cream of Asparagus Soup,Lunch,6.0,3.0,10.0,81.0,7.0,576.0,4.0,1.0,25,4.83
+838,Slow Cooker Chicken and Lentil Soup,Lunch,29.5,8.5,41.0,350.0,67.5,539.5,7.0,4.5,19,4.77
+841,Chicken Gnocchi Soup,Dinner,29.5,7.5,37.0,341.0,86.0,790.5,2.5,2.5,45,4.95
+843,Italian Wedding Soup,Lunch,22.0,3.0,12.0,167.0,25.0,647.5,2.5,0.5,30,4.93
+845,Turkey Stock for Gravy,Lunch,0.5,0.5,4.0,17.0,5.0,158.0,1.0,2.5,15,5.0
+846,Minestrone Soup,Dinner,8.0,2.0,31.5,175.0,5.0,358.0,5.0,5.0,80,4.97
+847,Coconut Curry Butternut Squash Soup,Dinner,2.0,5.0,14.5,108.0,3.8,726.0,3.5,0.2,25,4.89
+850,Gazpacho,Appetizer,3.0,6.0,15.0,116.0,5.0,755.0,3.5,7.5,33,4.92
+852,Short Rib Soup (Instant Pot or Stove),Dinner,21.0,9.5,10.0,206.0,62.0,497.0,3.5,4.0,95,4.19
+853,Wild Mushroom and Farro Soup,Lunch,14.0,13.0,39.0,331.0,19.0,867.0,6.0,6.0,75,4.88
+854,Cabbage Soup with Chicken and Pork,Lunch,26.5,5.0,13.0,217.0,93.5,212.5,4.0,4.5,70,5.0
+859,Creamy Roasted Acorn Squash Soup,Dinner,4.5,5.0,33.5,180.0,5.0,230.0,5.0,7.0,75,5.0
+861,"Healing Turmeric Chicken Noodle Soup (GF, DF)",Dinner,13.75,1.75,28.0,193.0,39.0,184.8,2.0,2.0,95,4.96
+862,Black Bean Soup (Freezer Friendly),Lunch,13.5,3.0,45.0,256.0,0.5,132.5,10.5,3.0,32,4.96
+863,Turmeric Roasted Sweet Potato and Macadamia Soup,Dinner,2.5,8.0,30.5,199.0,5.0,196.0,5.0,2.0,80,4.91
+864,Potato Leek Soup,Dinner,4.5,2.5,23.5,133.0,7.0,416.0,3.0,5.0,30,4.87
+866,Spaghetti and Meatball Soup,Dinner,22.0,3.0,27.5,213.0,5.0,739.0,4.0,2.0,30,4.95
+867,Creamy Corn Soup with Queso Fresco,Dinner,11.5,6.5,28.5,206.0,18.0,462.5,2.0,14.0,35,5.0
+870,Colombian Chicken Sancocho (Sancocho de Pollo),Lunch,34.0,8.0,41.0,405.0,140.0,599.5,5.5,10.0,75,4.9
+872,Quick Shrimp Pho with Vegetables,Dinner,30.5,2.5,19.5,233.0,172.5,1548.5,3.5,4.0,60,4.91
+876,Turkey Meatball Tortellini Soup with Spinach,Dinner,20.0,9.0,26.0,271.0,89.0,1064.0,3.0,3.0,50,4.8
+877,Clam Chowder Lightened Up,Dinner,16.0,6.0,23.5,209.0,5.0,209.5,2.0,6.0,30,4.49
+878,Lebanese Lentil Soup,Dinner,13.5,3.0,45.5,260.0,6.0,275.5,9.0,6.0,80,4.75
+879,Chicken Barley Soup,Breakfast,31.0,4.0,24.0,262.0,83.0,744.0,5.0,2.0,65,4.95
+880,Easy Wonton Soup,Lunch,9.0,2.0,22.5,136.0,6.5,1218.0,2.5,5.0,30,4.88
+881,French Onion Soup,Dinner,17.9,11.0,31.6,312.8,11.8,875.0,3.3,4.8,60,4.34
+883,Creamy Pumpkin Ginger Soup,Dinner,3.5,8.0,16.0,145.0,8.0,926.0,3.5,7.5,70,4.8
+884,Macaroni and Cheese Soup with Broccoli,Dinner,17.0,9.5,28.0,253.0,5.0,590.4,4.0,3.5,35,4.69
+885,Creamy Roasted Cauliflower Chowder,Dinner,7.5,11.0,20.0,205.0,26.0,460.0,5.0,8.0,55,4.85
+886,Spinach Tortellini en Brodo (in Broth),Dinner,11.5,5.5,33.0,228.0,32.5,915.5,2.5,3.5,30,4.77
+887,Green Detox Soup with Toasted Hemp Gremolata,Dessert,15.0,26.0,34.5,413.0,5.0,890.0,11.0,12.5,30,4.56
+888,Seattle Smoked Salmon Chowder,Dinner,15.5,5.75,18.0,188.5,38.5,391.5,3.0,4.5,40,4.88
+889,Cream of Broccoli Soup,Lunch,10.5,7.0,14.0,150.0,19.5,796.5,4.0,6.5,20,4.64
+890,Kale and Potato Soup with Turkey Sausage,Dinner,19.0,4.0,31.0,232.0,5.0,647.0,5.5,3.0,45,4.85
+891,Red Lentil Soup with Spinach,Dinner,17.0,3.0,40.0,255.0,5.0,590.0,16.0,3.5,35,4.61
+892,Chicken and Avocado Soup,Dinner,31.0,14.0,14.5,297.0,72.5,789.5,7.5,2.5,25,4.81
+893,Cheddar Corn Chowder with Bacon,Dinner,15.0,11.0,42.0,309.0,27.0,638.0,5.5,10.0,60,4.83
+894,Chicken Noodle Soup,Lunch,26.5,6.5,13.5,223.5,117.0,775.5,1.5,3.0,30,4.78
+895,Turkey Cheeseburger Soup,Dinner,20.0,11.5,19.0,254.0,52.0,670.0,3.5,5.0,30,4.84
+896,Carrot Ginger Soup,Lunch,3.0,5.0,16.0,115.0,13.5,114.0,4.0,8.0,50,4.83
+897,Instant Pot Turkey Meatball and Ditalini Soup,Dinner,22.0,8.5,36.5,318.0,87.0,1003.0,2.5,7.5,55,4.85
+898,Dad’s Creamy Cauliflower Soup,Dinner,4.0,3.0,11.0,80.0,8.0,494.0,4.0,1.0,30,4.88
+899,Leftover Ham Bone Soup with Potatoes and Cabbage,Dinner,10.5,2.5,15.0,124.0,22.0,437.0,3.5,4.5,40,4.81
+900,Stuffed Pepper Soup,Dinner,21.5,5.0,37.5,285.0,46.5,621.0,4.5,6.5,45,4.83
+901,Pressure Cooker Split Pea Soup with Ham,Dinner,17.0,1.5,39.0,182.0,5.0,459.0,15.0,4.0,25,4.95
+902,Chicken Soup with Spinach and Whole Wheat Acini di Pepe,Dinner,28.0,6.0,25.0,266.0,95.0,772.0,3.0,3.0,30,4.95
+903,Asian Beef Zoodle Soup (Whole30 Low-Carb Pho),Dinner,23.0,8.5,19.5,241.0,5.0,870.5,4.0,8.0,20,4.82
+904,Instant Pot Tomato Basil Soup,Dinner,8.0,8.0,20.0,195.0,19.0,959.0,1.5,9.0,45,4.44
+905,Lasagna Soup,Dinner,22.5,10.0,29.5,292.0,63.5,747.5,4.0,2.5,60,4.94
+906,"Chunky Beef, Cabbage and Tomato Soup (Instant Pot or Stove Top)",Dinner,15.5,6.0,14.0,181.0,40.0,592.0,2.0,4.5,40,4.91
+907,Roasted Brussels Sprouts and Cauliflower Soup,Dinner,6.5,8.0,22.0,173.0,2.5,393.0,8.0,4.0,35,4.65
+908,Turmeric Roasted Cauliflower Soup,Dinner,4.0,10.5,14.0,159.0,5.0,293.0,5.0,2.0,60,4.85
+909,Chickpea Tomato Soup,Lunch,9.0,3.0,36.0,215.0,2.5,387.0,6.0,6.0,45,5.0
+910,Chicken Enchilada Soup (Slow Cooker and Instant Pot),Dinner,30.0,10.0,35.0,333.0,65.5,812.5,9.5,6.0,30,4.92
+911,Taco Soup,Dinner,22.0,2.0,31.5,225.0,25.0,905.0,7.5,4.0,20,4.98
+912,"Beef, Tomato and Acini di Pepe Soup (Instant Pot, SC + Stove)",Dinner,21.0,8.0,23.0,249.0,49.0,593.0,3.0,4.0,50,4.9
+913,16 Bean Soup with Ham and Kale,Dinner,13.5,2.0,36.0,155.0,4.0,647.0,18.5,3.5,42,4.92
+914,Chicken and Lentil Soup (Instant Pot),Dinner,23.5,3.0,40.0,263.0,40.0,503.5,6.5,1.5,45,4.88
+915,Broccoli Cheese Soup with Potato,Lunch,16.0,9.5,25.5,239.0,30.0,603.0,3.5,1.0,30,4.87
+916,Slow Cooker Butternut Squash Soup,Lunch,3.0,3.0,35.0,152.0,2.5,310.0,8.5,1.5,19,4.75
+917,Chipotle Chicken Zucchini “Fideo” Soup (Slow Cooker or Instant Pot),Dinner,31.0,11.0,16.0,286.0,87.0,847.0,5.0,5.0,45,4.5
+918,Chicken Sweet Potato and Kale Soup,Lunch,28.0,4.0,19.0,223.0,63.0,1142.0,4.0,2.0,65,4.97
+919,50 Light and Healthy Soup Recipes,Dinner,3.0,5.0,12.0,122.0,5.0,10.0,1.0,1.0,30,5.0
+920,Instant Pot Smoked Turkey Black Bean Soup,Dinner,19.0,2.0,26.0,133.0,21.0,476.0,16.0,1.0,70,4.92
+921,Cauliflower Leek Soup,Lunch,5.5,3.0,20.0,115.0,6.0,511.0,5.0,4.0,30,5.0
+922,Creamy Lentil Soup,Lunch,12.0,1.0,30.0,139.0,5.0,582.0,10.0,2.0,45,4.84
+923,Turkey Meatball Vegetable Soup,Lunch,21.0,9.0,14.0,229.0,87.0,747.0,3.0,4.0,75,4.99
+924,Caramelized Apple Onion Soup,Lunch,2.0,6.0,34.0,193.0,14.0,194.0,5.0,20.0,75,3.5
+925,Slow Cooker Minestrone Soup,Dinner,9.0,3.0,32.0,190.0,5.0,483.0,8.0,4.0,60,4.94
+926,Cream of Zucchini Soup,Dinner,3.5,1.0,10.0,60.0,3.0,579.0,3.0,4.0,25,4.82
+927,Cream of Asparagus Leek Soup with Creme Fraiche,Lunch,7.0,5.0,20.0,141.0,14.0,476.0,5.0,4.0,45,5.0
+928,Cauliflower Watercress Soup,Lunch,6.0,3.0,12.0,93.0,8.0,623.0,4.0,1.0,30,5.0
+929,Three Cheese Tortellini and Mushroom Soup,Dinner,7.5,3.5,19.0,137.0,13.0,708.5,2.5,4.0,35,4.34
+930,Chicken and Lentil Soup,Lunch,23.5,3.0,40.0,263.0,40.0,503.5,6.5,1.5,50,4.83
+931,Chicken Shiitake and Wild Rice Soup,Dinner,13.0,4.0,27.0,200.0,42.0,844.0,2.0,2.0,60,4.92
+932,Creamy Slow Cooker Tomato Soup,Lunch,8.0,10.0,17.0,177.0,21.0,600.0,3.0,8.0,56,4.85
+933,Creamy Chicken and Mushroom Soup,Lunch,13.6,3.4,12.0,111.5,5.2,538.8,0.9,1.4,30,5.0
+934,Corned Beef and Cabbage Soup,Dinner,14.0,12.0,31.5,281.0,50.0,782.0,7.0,3.5,105,4.64
+935,Crock Pot Picante Chicken and Black Bean Soup,Lunch,28.0,6.0,37.5,306.0,5.0,698.5,13.5,3.0,14,5.0
+936,CrockPot Tuscan White Bean and Garlic Soup,Lunch,15.0,3.0,41.0,241.0,5.0,322.0,6.0,1.0,9,4.5
+937,Turkey Pot Pie Soup,Lunch,18.0,2.0,27.0,192.0,5.0,10.0,3.0,8.5,45,4.86
+938,Roasted Pumpkin Sage Soup,Dinner,6.0,3.0,25.0,137.5,6.0,459.0,7.0,9.0,105,5.0
+939,Creamy Mushroom Soup,Lunch,3.0,2.0,11.0,65.0,4.0,571.0,1.0,3.0,30,4.92
+940,Beef Barley Soup,Dinner,32.0,11.0,27.0,336.0,60.0,453.0,6.0,1.5,12,4.71
+941,Irish Oatmeal Leek Soup,Dinner,7.5,3.0,23.0,140.5,2.0,529.0,2.5,6.0,60,4.75
+942,Roasted Red Kuri Coconut Curry Soup,Appetizer,1.7,4.0,14.1,98.0,5.0,807.6,2.2,1.6,100,5.0
+943,Roasted Acorn Squash Soup with Leeks and Pepitas,Lunch,3.9,4.9,19.4,121.8,5.0,310.9,5.1,0.9,65,4.5
+944,Halibut and Shellfish Soup,Dinner,49.8,5.8,9.4,300.4,220.0,1023.3,1.2,1.5,30,4.67
+945,Chicken and Cavatelli Noodle Soup,Lunch,35.0,8.0,33.0,347.0,129.5,1137.0,2.0,2.0,50,4.67
+946,"Beef, Potato and Quinoa Soup",Breakfast,15.7,13.8,31.3,307.9,38.6,277.0,4.6,2.0,2,4.93
+947,Tomato Bisque,Breakfast,2.25,2.2,9.75,62.5,7.5,532.0,2.25,1.5,45,4.64
+948,Homemade Chicken Broth From Your Crock Pot,Breakfast,1.0,5.0,12.0,10.0,5.0,860.0,1.0,1.0,14,5.0
+949,"Turkey Sausage, Kale and White Bean Soup",Dinner,16.5,6.5,7.5,160.25,52.5,348.5,2.5,0.5,45,4.67
+950,Spinach Stracciatella Soup with Orzo,Dinner,10.0,4.0,11.0,127.0,69.0,868.0,1.0,2.0,30,5.0
+951,Butternut Squash Soup with Sage,Dinner,2.5,0.5,11.5,56.0,5.0,300.0,2.5,1.5,60,4.28
+952,Dad’s Cauliflower Soup,Dinner,3.3,0.6,8.8,45.1,0.3,469.1,3.7,1.0,30,5.0
+953,Split Pea Soup with Ham,Dinner,27.0,8.5,54.5,394.0,33.5,606.0,18.0,7.5,2,4.87
+954,Green Curry Noodles,Dinner,15.0,10.5,47.5,346.0,5.0,1003.5,3.0,9.5,40,5.0
+955,18 Easy Taco Recipes,Dinner,3.0,5.0,12.0,122.0,5.0,10.0,1.0,1.0,30,5.0
+956,Baked Steelhead Trout,Dinner,6.0,1.42,1.25,40.33,16.75,43.8,0.5,0.25,35,4.34
+957,Chicken Saltimbocca,Dinner,21.7,4.3,4.5,155.2,5.0,10.0,0.2,1.0,20,5.0
+959,Ground Turkey Tacos,Dinner,14.5,8.0,15.75,186.0,49.5,5.0,2.75,2.5,50,5.0
+960,Braised Brisket with Potatoes and Carrots,Dinner,7.25,1.62,7.25,73.25,11.62,88.8,1.12,0.75,4,5.0
+961,Pad Thai,Lunch,40.0,18.5,25.0,420.0,5.0,1391.0,2.0,9.5,25,4.89
+962,Chicken Pasta Primavera,Lunch,30.0,6.5,48.0,369.0,69.0,706.0,7.0,8.0,50,4.88
+963,Grilled Salmon Bruschetta with Avocado,Dinner,35.5,19.0,7.0,340.5,94.0,153.5,3.0,0.5,20,4.92
+964,Chicken Marbella,Dinner,38.0,12.0,14.0,323.0,179.0,713.0,2.0,8.0,58,4.93
+965,One Pot Chicken and Orzo,Dinner,23.5,18.0,41.5,425.0,92.0,724.0,3.0,7.0,65,4.77
+967,Baked Honey-Mustard Ham,Dessert,5.5,1.0,1.33,35.33,16.17,275.3,0.33,1.33,17,5.0
+968,Risotto Primavera,Lunch,9.0,6.5,51.0,303.0,12.0,338.5,3.0,5.5,45,4.95
+969,Honey Baked Spiral Ham,Dinner,5.33,1.67,2.5,45.0,16.17,254.7,0.33,2.33,2,5.0
+973,Crock Pot Corned Beef and Cabbage,Dessert,6.0,5.5,6.33,98.17,27.67,320.0,1.83,1.0,45,4.87
+975,Air Fryer Peanut Curry Tofu with Gingery Cauliflower Rice,Lunch,30.0,29.0,24.0,453.0,5.0,981.0,8.5,9.0,40,4.8
+977,Chicken Florentine,Dinner,31.5,13.5,11.5,291.0,100.0,632.5,2.5,3.5,40,4.83
+978,White Chicken Chili,Dinner,41.0,5.5,40.5,372.0,99.5,590.0,7.5,6.0,55,4.74
+980,Crock Pot Pasta Sauce with Sausage,Dinner,14.0,3.5,9.5,115.0,5.0,455.0,2.0,4.0,21,4.88
+981,Penne alla Vodka with Chicken,Dinner,42.5,10.0,66.5,519.0,85.5,700.5,8.0,10.0,60,4.84
+983,Lentil Bolognese,Dinner,19.5,3.0,69.0,358.0,5.0,748.0,10.0,11.0,70,5.0
+984,Crock Pot Pork Roast,Dinner,11.0,3.0,12.33,120.33,24.0,251.3,0.5,2.33,28,4.94
+985,Pesto Salmon,Lunch,30.0,17.0,2.0,290.0,83.5,230.0,1.0,0.5,14,5.0
+986,Marry Me Chicken,Dinner,30.0,13.0,12.0,286.0,96.0,504.5,1.5,2.0,35,4.93
+987,Crispy Baked Chicken Thighs,Dinner,15.5,17.0,1.5,227.0,92.0,417.0,0.5,1.0,50,4.84
+990,Garlic Rosemary Beef Tenderloin,Dinner,33.5,8.5,0.5,211.0,93.5,343.5,1.0,1.0,65,5.0
+991,Roast Beef,Dinner,8.83,1.67,0.08,50.67,21.92,81.9,0.08,0.17,75,4.91
+993,Escarole Pasta with Sausage and Peppers,Dinner,21.0,5.5,47.0,298.0,5.0,10.0,7.5,1.1,20,4.97
+994,Slow Cooker Black Eyed Peas with Ham,Dinner,8.0,2.0,16.0,115.0,13.0,372.5,4.0,5.0,16,5.0
+995,The Best Lasagna Recipe,Breakfast,37.0,11.5,36.5,394.0,107.5,840.0,3.5,7.0,105,4.8
+997,Leftover Turkey Enchiladas Skillet,Dinner,33.5,9.0,27.0,315.0,74.5,572.5,7.0,8.0,35,4.88
+998,Turkey Roulade (Stuffed Turkey Breast),Dinner,34.25,6.25,9.5,242.0,2.5,850.0,1.0,1.25,90,5.0
+1000,Butternut Squash Lasagna (No-Noodle),Breakfast,29.0,19.0,30.0,402.0,109.0,918.0,5.0,5.0,100,4.95
+1001,Slow Cooker Chicken Enchiladas,Dinner,25.5,12.0,26.0,315.0,92.5,862.0,7.0,3.5,49,4.91
+1002,Cheesy Baked Pumpkin Pasta,Dinner,16.0,7.0,49.0,307.0,14.0,237.0,8.0,5.0,60,5.0
+1004,Beef Stew,Dinner,40.5,22.0,20.5,439.0,130.5,482.5,4.0,7.5,8,4.9
+1007,Stuffed Shells with Meat Sauce,Breakfast,9.47,4.27,11.43,120.3,24.17,125.0,1.1,0.17,100,4.87
+1009,Orange Chicken,Lunch,10.83,3.0,6.0,96.0,27.0,154.3,0.17,3.0,30,4.96
+1010,Pasta with Creamy Zucchini Sauce,Dinner,14.0,8.0,66.0,390.0,5.5,244.0,4.0,7.5,35,4.8
+1011,"Salisbury Steak Meatballs (Instant Pot, Stove, Slow Cooker)",Dinner,5.6,2.4,2.4,54.2,24.8,148.2,0.4,0.6,30,4.65
+1013,Cajun Chicken Pasta,Dinner,26.0,6.0,44.0,324.0,44.0,126.0,6.0,3.0,30,4.8
+1015,Turkey Meatloaf with Zucchini,Lunch,25.5,11.5,18.0,275.0,130.5,610.5,2.0,7.0,70,4.89
+1016,Chicken Stroganoff,Dinner,8.0,4.0,3.67,80.33,35.33,184.5,0.5,1.0,60,4.83
+1019,Ratatouille with Farro,Breakfast,8.5,6.5,42.0,243.0,5.0,45.5,8.0,9.0,60,5.0
+1021,Zucchini Gnocchi,Dinner,7.5,4.0,38.0,216.0,5.0,679.5,4.0,13.0,60,4.96
+1022,Chicken Eggplant Parmesan,Dinner,52.0,16.0,26.5,473.0,204.5,742.0,2.5,7.5,35,4.45
+1026,Air Fryer Pork Chops,Dinner,33.0,13.0,8.0,378.0,121.0,373.0,1.0,1.0,22,4.87
+1027,BBQ Chicken,Dinner,13.5,6.75,3.75,133.5,67.25,178.5,0.25,2.0,90,5.0
+1028,20 Best Burger Recipes,Dinner,3.0,5.0,12.0,122.0,5.0,10.0,1.0,1.0,30,5.0
+1033,Smash Tacos,Breakfast,15.5,10.0,16.0,226.0,55.0,341.5,2.0,3.0,30,4.63
+1034,Veggie Kabobs,Breakfast,3.5,1.0,24.0,105.0,5.0,239.5,3.5,11.5,30,4.5
+1038,Cheesy Stuffed Chicken Breast with Zucchini,Dinner,63.0,18.0,5.0,429.0,235.0,732.0,1.5,2.0,35,4.8
+1039,Lamb Keema with Peas,Dinner,5.2,4.83,4.33,80.0,1.67,63.4,1.03,0.9,30,4.8
+1041,Cilantro Lime Shrimp,Dinner,9.5,1.5,1.0,59.5,72.0,70.0,0.5,0.5,10,4.95
+1042,The Best Grilled Chicken Breast,Dinner,25.5,6.25,0.75,169.5,82.75,261.8,0.25,0.5,41,5.0
+1043,"Pesto Pasta with Arugula, Asparagus, Peas, and Pistachios",Lunch,14.0,15.0,52.0,380.0,3.0,245.0,9.0,6.0,35,4.78
+1044,Lentil Curry,Lunch,13.0,1.0,41.0,216.0,5.0,294.0,8.0,7.0,40,4.15
+1045,Creamy Orzo with Asparagus and Peas,Lunch,13.0,12.0,64.0,423.0,5.0,323.0,6.0,6.0,45,5.0
+1046,Spicy Shrimp Francese with Calabrian Chili,Dinner,3.44,1.38,1.12,32.0,35.12,59.5,0.06,0.12,40,4.85
+1047,Yogurt-Marinated Chicken,Dinner,23.0,5.75,2.0,157.0,107.5,292.0,0.25,0.75,85,5.0
+1048,The BEST Chicken Enchilada Recipe,Dinner,17.0,6.5,17.0,168.0,29.5,441.0,8.5,3.0,45,4.9
+1049,Shrimp Tacos,Dinner,10.0,5.25,14.25,144.0,74.5,487.8,2.25,1.75,20,5.0
+1051,Angel Hair Pasta with Shrimp and Tomato Cream Sauce,Dinner,30.0,7.0,48.0,377.0,85.0,450.0,5.0,6.0,15,4.88
+1052,Lasagna Roll Ups With Cottage Cheese,Breakfast,16.25,7.5,26.0,231.0,41.0,650.0,2.0,4.0,55,4.82
+1054,Flounder Piccata,Dinner,36.0,8.0,14.0,280.0,5.0,366.5,3.0,0.1,20,4.88
+1055,Mexican Shrimp Cobb Salad,Dinner,14.0,4.5,12.0,133.75,78.75,289.2,4.0,2.0,15,5.0
+1056,Ground Beef and Broccoli Stir Fry,Dinner,9.67,3.67,8.67,109.0,23.67,350.7,1.67,3.67,13,4.75
+1058,Ropa Vieja,Dinner,11.67,5.17,3.83,116.67,21.33,327.5,0.83,1.67,95,4.75
+1059,Air Fryer Rotisserie Chicken,Dinner,3.0,5.0,12.0,122.0,5.0,10.0,1.0,1.0,70,5.0
+1060,20-Minute Veggie Lo Mein Bowl,Dinner,13.5,9.0,60.5,354.0,5.0,1043.5,9.5,11.5,20,4.81
+1062,Ground Turkey with Potatoes and Spring Peas,Dinner,21.0,7.0,17.0,209.0,5.0,331.5,3.5,1.5,30,4.67
+1064,Broiled Tilapia Oreganata,Dinner,35.0,7.5,3.0,219.0,85.0,301.5,0.5,0.5,10,4.92
+1067,Turkey Shepherd’s Pie Stuffed Sweet Potato,Dinner,27.5,11.0,50.0,401.0,84.0,647.5,8.0,11.0,60,4.84
+1068,Filipino Chicken Adobo,Dinner,13.5,2.25,2.5,87.5,52.5,410.0,0.25,0.5,70,4.87
+1069,Honey-Mustard Air Fryer Pork Chops,Dinner,35.0,4.5,12.0,241.0,79.5,621.5,0.5,3.5,29,4.88
+1071,"30-Minute Shrimp, Peas and Rice",Dinner,28.5,8.0,36.0,346.0,156.0,1000.0,3.0,1.0,30,4.88
+1074,"Spicy Gochujang Tofu Bowl (Vegan, Gluten-Free)",Lunch,26.0,19.0,50.0,473.0,5.0,942.0,6.0,17.0,25,4.92
+1075,Air Fryer Salmon with Maple Soy Glaze (5 Ingredients),Dinner,35.0,11.0,12.0,292.0,94.0,797.0,0.5,10.0,33,4.91
+1076,Chicken Divan,Dinner,42.0,14.5,22.0,387.0,112.0,606.5,3.5,5.5,75,4.87
+1077,Air Fryer Breaded Cubed Steak,Dinner,33.0,14.0,15.5,328.0,218.0,944.0,1.0,1.5,25,4.95
+1078,Chicken Tenders Parmesan,Dinner,15.0,4.17,6.33,125.33,56.5,396.0,0.67,1.5,35,4.93
+1079,"Buffalo Chicken Lettuce Wraps (Slow Cooker, Instant Pot)",Appetizer,25.0,0.1,5.2,147.5,5.0,879.0,1.5,1.5,4,4.59
+1081,Stuffed Buffalo Chicken Breasts,Dinner,22.0,5.0,5.0,172.0,58.5,799.0,0.6,1.7,45,4.88
+1085,Black Beans and Rice,Dinner,0.93,0.29,6.64,33.71,0.71,47.3,0.64,0.07,50,4.98
+1087,Red Thai Coconut Curry Shrimp,Lunch,16.0,5.0,5.0,136.0,143.0,1059.0,1.0,1.5,15,4.82
+1088,Ground Turkey Skillet with Sweet Potatoes and Black Bean,Dinner,28.0,14.5,41.0,394.0,84.0,635.0,10.0,7.5,30,4.89
+1090,White Bean Scampi with Linguine,Dinner,26.5,9.5,93.0,571.0,7.5,1058.0,17.0,4.5,25,4.81
+1092,Chicken Stuffed Peppers with White Beans,Dinner,15.0,3.0,17.5,152.0,2.5,5.0,3.25,0.5,45,4.96
+1094,Juicy Oven Baked Chicken Breast,Dinner,40.0,9.0,5.0,271.0,129.0,170.0,1.0,0.5,95,4.83
+1099,"One-Pot Orzo with Sausage, Spinach and Corn",Dinner,26.0,12.0,44.0,381.0,83.0,1104.0,3.5,6.0,30,4.85
+1100,Spinach Prosciutto and Mozzarella Stuffed Pork Tenderloin,Dinner,14.5,4.25,1.5,104.0,49.25,109.5,0.5,0.5,45,4.69
+1102,Buttermilk Marinated Air Fryer Whole Chicken,Dinner,50.0,12.5,1.0,329.0,153.0,162.0,1.0,1.0,55,4.88
+1103,Spicy Vodka Chicken Parmesan,Dinner,39.0,14.0,25.5,386.0,154.0,1456.5,3.0,4.0,30,5.0
+1106,Air Fryer Chicken Thighs,Dinner,16.0,15.5,1.5,213.0,5.0,263.0,1.0,1.0,29,4.93
+1108,Stuffed Butternut Squash with Wild Rice and Sausage,Dinner,16.5,7.5,51.0,314.0,42.0,624.5,8.0,12.0,75,4.5
+1109,Sheet Pan Thanksgiving Dinner for Four,Dinner,59.0,26.5,38.0,608.0,126.0,908.0,8.5,10.5,80,4.5
+1112,Garlic-Ginger Chicken Stir-Fry,Dinner,22.75,10.5,9.75,225.0,62.0,517.0,1.5,4.5,35,4.88
+1113,Instant Pot Bolognese Sauce,Dinner,12.0,8.5,12.5,191.0,124.0,568.0,0.5,6.5,60,4.74
+1117,Tofu Tacos with Potatoes and Jalapeños,Dinner,8.0,12.0,22.0,222.0,0.5,428.0,4.5,2.5,50,5.0
+1118,Sweet Potato Turkey Meatloaf,Lunch,24.0,10.5,19.0,264.0,130.0,635.0,2.0,8.0,75,4.9
+1120,Korean-Inspired Salmon Tacos with Spicy Slaw,Dinner,13.5,9.0,16.5,202.0,35.0,367.5,2.5,4.0,22,4.84
+1121,Slow Cooker Ground Beef Ragu,Dinner,2.29,1.0,2.14,25.14,6.71,79.0,0.43,1.14,19,4.73
+1126,"Sheet Pan Baked Feta with Broccolini, Tomatoes and Chickpeas",Dinner,17.5,21.5,33.0,372.0,40.5,1127.5,9.0,13.5,45,4.96
+1128,Parmesan-Herb Baked Salmon,Dinner,6.2,2.6,0.4,51.2,17.5,42.1,0.1,0.1,25,4.95
+1135,Easy Zucchini Casserole,Breakfast,4.0,3.0,11.0,83.0,5.0,253.0,1.0,2.0,55,4.43
+1136,Scallops with Corn and Tomatoes,Dinner,4.75,2.75,6.88,67.25,12.5,155.0,0.75,2.25,25,4.93
+1137,Giant Zucchini Parmesan,Dinner,5.5,3.33,8.0,80.67,37.67,333.0,1.17,2.0,55,4.86
+1138,Broiled or Grilled Pollo Sabroso,Dinner,29.5,6.0,0.5,181.0,140.0,383.5,1.0,1.0,25,4.97
+1139,"Summer Cavatelli Pasta with Corn, Tomatoes and Zucchini",Dinner,10.5,5.0,59.5,297.5,7.5,184.0,3.0,4.0,20,4.98
+1140,Bacon-Wrapped Air Fryer Chicken Breast,Dinner,56.0,10.5,12.0,332.0,170.5,482.0,1.0,1.0,23,4.93
+1141,Air Fryer Baked Potato,Dinner,4.0,0.5,36.0,157.0,5.0,150.0,2.52,1.0,43,4.95
+1143,Broiled Fish with Tomato Caper Sauce,Lunch,37.5,10.5,2.0,257.0,5.0,10.0,0.2,1.0,20,4.83
+1149,Coconut Chicken Salad with Warm Honey Mustard Vinaigrette,Lunch,27.0,11.0,32.5,397.0,5.0,10.0,4.5,10.0,40,4.88
+1151,Italian Turkey Meatballs,Dinner,6.38,2.88,6.25,70.0,26.0,249.2,1.25,2.62,35,4.93
+1152,"Grilled Chicken Tacos with Lettuce Slaw, Avocado and Cotija",Dinner,16.5,8.0,11.0,165.0,41.5,348.5,2.5,1.0,85,5.0
+1154,Green Goddess Potato Salad,Dinner,4.5,3.5,23.0,141.0,0.5,202.0,2.5,2.5,95,5.0
+1156,Arugula Salad,Dinner,3.5,8.5,2.0,96.0,5.0,161.0,0.5,1.0,5,5.0
+1158,Pea Salad,Lunch,5.0,4.5,8.0,89.0,11.5,150.5,2.5,1.0,28,4.67
+1160,Shaved Brussels Sprout Salad with Pears and Pomegranate,Lunch,4.0,9.0,15.5,154.0,5.5,240.0,4.5,7.0,15,4.75
+1163,Coleslaw Recipe,Dinner,1.0,5.0,7.0,73.0,5.0,302.0,2.0,3.0,45,4.89
+1164,Italian Pasta Salad,Dinner,9.0,9.5,28.0,237.0,13.0,345.0,2.0,2.5,90,4.87
+1165,Mexican-Inspired Grilled Corn Salad with Cotija,Dinner,1.33,2.17,4.33,39.0,2.5,70.3,0.5,1.33,30,5.0
+1166,Macaroni Salad with Tomatoes,Dinner,1.17,1.17,7.17,41.67,0.83,55.2,0.5,0.17,25,4.84
+1167,Creamy Cucumber Salad,Dinner,1.67,0.5,2.33,20.0,2.33,76.5,0.33,1.33,10,5.0
+1168,Red Potato Salad,Dinner,0.73,1.07,5.93,35.67,1.67,3.3,0.7,0.33,25,4.92
+1175,Raw Beet Salad with Apples and Carrots,Dinner,1.0,7.0,13.0,112.0,5.0,81.0,3.0,8.5,10,5.0
+1179,Kale and Brussels Sprout Salad with Parmesan and Pecans,Dinner,4.0,14.0,7.0,165.0,6.0,218.0,2.5,2.5,20,4.89
+1181,"Fall Brussels Sprout Salad with Apples, Pecans, and Blue Cheese",Dinner,5.0,13.5,17.0,202.0,4.5,154.0,5.0,8.0,20,5.0
+1186,Grilled Tuna over Arugula with Lemon Vinaigrette,Dinner,35.5,15.5,4.0,298.0,5.0,326.3,1.6,1.8,10,4.8
+1190,Greek Pasta Salad,Dinner,5.0,7.0,24.0,176.0,4.0,164.0,1.5,2.0,30,4.81
+1209,Watermelon Feta Salad,Dinner,3.5,4.0,9.5,85.0,17.0,213.5,0.5,8.0,15,5.0
+1214,Greek Yogurt Caesar Salad Dressing,Dinner,2.0,2.17,0.83,30.33,3.33,92.7,0.17,0.33,5,4.76
+1217,Tuna Salad Endive Wraps,Lunch,22.0,6.0,4.5,160.0,30.0,415.0,1.0,1.0,10,5.0
+1218,Kale and Butternut Squash Salad with Pears and Almonds,Dinner,10.0,27.0,44.0,428.0,11.0,456.0,8.5,17.0,35,5.0
+1219,Creamy Shrimp and Celery Salad,Lunch,6.25,1.12,1.0,40.0,1.25,2.5,0.18,0.45,10,4.85
+1220,"Mixed Baby Greens with Pomegranate, Gorgonzola and Pecans",Lunch,5.5,17.5,14.0,228.0,5.0,206.0,3.5,9.5,5,5.0
+1221,Kale Salad with Quinoa and Cranberries,Breakfast,6.0,11.0,27.0,226.0,2.0,149.0,3.0,7.0,20,4.83
+1224,"Southwestern Black Bean, Quinoa and Mango Salad",Breakfast,6.0,4.0,27.0,164.0,5.0,93.0,7.0,11.5,35,4.9
+1226,Salmon Avocado Salad,Lunch,25.5,20.5,12.0,329.0,62.5,287.0,6.0,2.5,25,4.84
+1227,Chickpea Salad with Cucumbers and Tomatoes,Lunch,6.0,5.0,29.0,182.0,29.0,464.0,6.0,2.0,10,4.95
+1228,Vegan Caesar Salad,Lunch,5.0,7.0,10.0,123.0,5.0,10.0,2.5,2.0,30,4.5
+1229,California Grilled Chicken Avocado and Mango Salad,Dinner,21.0,14.5,12.0,258.0,29.0,62.0,4.0,6.0,15,4.94
+1230,Ranch Chicken Salad,Lunch,17.5,9.5,2.0,167.0,48.0,263.0,0.5,2.5,15,4.95
+1231,Green Bean Salad,Lunch,7.5,12.0,11.0,176.0,155.0,308.0,4.5,4.0,20,4.86
+1232,Sesame Crusted Tuna Steak on Arugula,Appetizer,9.0,2.0,4.12,72.5,3.88,156.5,0.38,2.75,20,4.77
+1234,Houston’s Grilled Chicken Kale Salad with Peanut Vinaigrette,Lunch,31.0,22.0,26.0,410.0,73.0,600.0,5.0,8.0,30,4.78
+1235,Chicken Salad with Avocado,Lunch,10.75,7.5,5.25,127.5,26.25,30.5,2.0,0.25,15,5.0
+1236,Summer Tomato Salad,Breakfast,1.0,2.0,6.25,43.25,2.5,10.8,1.5,0.5,25,4.93
+1237,Chopped Wedge Salad,Lunch,10.0,8.0,5.5,132.0,9.5,406.0,2.0,2.5,15,5.0
+1238,Greek Chickpea Salad,Lunch,11.0,16.0,28.5,292.0,25.0,713.5,6.5,4.0,5,4.96
+1239,Spicy Thai Shrimp Salad,Dinner,28.0,19.5,38.0,420.0,135.0,864.0,6.0,14.0,25,4.75
+1240,Chopped Feta Salad,Dinner,2.0,8.25,2.25,86.5,5.5,144.5,1.0,1.25,15,5.0
+1242,Chilled Watermelon Cucumber Feta Salad,Lunch,4.0,3.5,19.0,112.0,6.5,233.0,2.0,15.5,10,5.0
+1243,Italian Chopped Salad,Lunch,12.0,22.0,9.0,271.0,22.5,556.0,3.0,3.5,15,4.67
+1244,Chicken Waldorf Salad,Lunch,19.5,10.5,17.0,236.0,46.5,622.0,3.0,15.5,30,4.9
+1245,Grilled Peach and Watermelon Burrata Salad,Dinner,23.0,25.0,31.0,408.0,81.0,348.0,3.0,27.0,20,4.89
+1246,Houston’s Grilled Chicken Salad,Lunch,29.0,19.5,19.0,365.0,73.0,745.0,4.0,8.0,35,5.0
+1247,Low Carb Potato Salad,Lunch,2.67,6.67,1.83,74.0,68.67,96.5,0.67,0.67,35,4.66
+1248,Grilled Corn Salad with Feta,Lunch,2.5,4.0,9.0,76.5,5.5,100.0,1.25,3.25,20,4.97
+1249,Chicken Salad with Lemon and Dill,Lunch,10.33,2.67,0.47,69.0,28.0,55.7,0.33,0.33,5,4.94
+1250,"Chopped Salad with Shrimp, Blue Cheese and Bacon",Lunch,35.0,19.0,14.5,368.0,188.0,590.0,4.0,3.0,20,5.0
+1251,Chickpea Egg Salad,Lunch,20.0,16.0,36.0,375.0,279.0,278.0,7.5,2.5,5,4.94
+1252,Chickpea Tuna Salad,Lunch,27.0,2.5,36.0,273.0,30.0,510.0,8.0,2.0,5,4.8
+1253,Houston’s Couscous Salad,Lunch,3.5,3.25,17.5,106.5,2.5,109.0,2.25,5.5,20,4.62
+1254,Carne Asada Steak Salad,Dinner,38.0,21.5,12.0,390.0,95.0,542.5,6.5,1.0,20,4.92
+1255,Chickpea Avocado Salad,Lunch,9.0,10.0,31.5,243.0,5.0,42.0,8.5,2.5,15,4.93
+1256,Chicken and Shrimp Laap (Larb),Appetizer,11.33,2.17,1.67,73.33,22.67,265.0,0.5,0.67,30,5.0
+1257,Seared Tuna Salad with Wasabi Butter Sauce,Lunch,37.0,11.0,12.0,311.0,80.0,552.0,2.5,2.0,30,5.0
+1259,Lobster Cobb Salad,Dinner,41.0,23.0,8.0,416.0,398.0,1171.0,3.5,2.0,20,5.0
+1260,Grilled Chicken Salad with Strawberries and Spinach,Dinner,31.0,17.0,4.0,331.0,89.5,345.0,4.0,10.5,20,5.0
+1261,Berry Salad with Almond-Cranberry Crusted Goat Cheese,Dinner,3.75,8.5,8.0,119.5,6.5,63.0,1.5,6.0,20,5.0
+1263,"Grilled Shrimp Salad with Orange, Endive, and Radicchio",Dinner,29.0,7.5,21.0,254.0,172.0,396.0,13.0,8.0,20,5.0
+1264,"Asparagus Salad with Egg, Bacon and Dijon Vinaigrette",Lunch,16.0,13.0,11.0,219.0,5.0,306.0,5.0,1.0,20,4.96
+1265,Brussels and Chickpea Salad in a Jar with Artichokes,Lunch,15.0,16.0,35.0,335.0,14.0,695.0,9.0,5.0,10,5.0
+1266,"Kale Salad with Roasted Sweet Potato, Dried Cherries, Feta & Pepitas",Lunch,8.5,11.0,42.5,288.0,5.0,10.0,6.0,16.0,30,4.88
+1267,"Arugula Salad with Crispy Proscuitto, Parmesan and Fried Eggs",Dinner,18.5,24.0,8.0,344.0,216.0,1043.0,1.5,4.0,30,5.0
+1268,Harvest Kale Salad with Roasted Winter Squash,Dinner,8.0,16.5,45.0,329.0,5.0,98.0,11.0,8.0,50,5.0
+1269,Blackened Chicken Fiesta Salad,Lunch,60.0,13.5,40.0,516.0,166.0,855.0,9.0,2.0,25,5.0
+1270,Chilled Italian Shrimp Tortellini Pasta Salad,Lunch,37.0,3.0,29.0,366.0,251.0,1048.0,2.0,2.0,20,4.81
+1271,Lobster Asparagus Chopped Salad,Lunch,27.0,10.5,14.0,247.0,165.0,699.0,5.5,0.5,15,5.0
+1272,"Summer Corn, Tomato and Avocado Salad with Buttermilk Dressing",Lunch,3.5,11.0,11.5,147.0,1.0,137.0,3.5,2.5,10,5.0
+1273,Cobb Salad in a Jar with Buttermilk Ranch,Lunch,32.0,21.0,14.0,368.0,274.0,674.0,5.5,7.0,15,5.0
+1274,"Prosciutto, Mozzarella and Fig Salad with Arugula",Dinner,10.0,12.5,12.0,196.0,32.0,586.0,2.0,9.0,10,5.0
+1275,Peach Arugula Salad,Lunch,2.0,8.0,12.0,114.0,5.0,43.0,3.0,7.0,10,5.0
+1276,Cheeseburger Salad,Breakfast,28.0,17.0,11.5,311.0,79.0,417.0,4.0,4.5,20,4.99
+1277,Watermelon Feta Arugula Salad in Jars,Lunch,4.5,11.5,14.0,170.0,19.0,281.0,1.0,10.0,15,5.0
+1278,"Watermelon, Jicama and Cucumber Salad",Lunch,2.0,6.5,12.0,113.0,8.0,133.0,3.0,7.0,15,4.0
+1279,Protein Egg and Quinoa Salad Jars,Breakfast,15.0,22.0,29.0,362.0,186.0,294.0,9.0,2.0,25,4.88
+1280,"Grilled Romaine Salad with Chicken, Corn and Salsa Dressing",Dinner,25.0,14.5,17.0,288.0,108.0,521.0,5.0,4.0,30,5.0
+1281,Spiralized Summer Roll Bowls with Hoisin Peanut Sauce,Dinner,12.0,7.0,15.0,164.0,65.0,382.0,4.0,6.0,10,5.0
+1282,Shredded Raw Brussels Sprout Salad with Bacon and Avocado,Lunch,5.0,10.5,9.25,142.0,1.75,267.5,4.5,2.0,15,5.0
+1283,Mediterranean Bean Salad,Lunch,2.67,1.5,8.67,58.33,1.67,109.0,3.0,0.33,15,5.0
+1284,Rosemary Chicken Salad with Avocado and Bacon,Dinner,29.0,25.0,12.0,381.0,114.0,741.0,6.0,1.0,30,5.0
+1285,Grilled Balsamic Steak with Tomatoes and Arugula,Dinner,8.0,4.0,1.0,71.67,19.0,109.0,0.33,0.17,30,5.0
+1286,Spiralized Carrot Salad with Lemon and Dijon,Lunch,1.0,4.0,12.0,84.0,5.0,278.0,3.0,6.0,15,4.8
+1287,North African Spiced Shrimp and Chickpea Salad,Lunch,2.5,1.33,4.83,40.5,10.67,76.3,0.83,0.08,30,5.0
+1288,Asian Chicken Chopped Salad,Appetizer,24.0,18.0,23.0,332.0,96.0,585.0,4.0,7.0,15,5.0
+1289,Updated Waldorf Salad Cups,Appetizer,13.5,9.0,9.0,170.5,41.5,235.5,1.5,5.5,35,5.0
+1290,Raw Spiralized Beet & Mandarin Salad with Mint,Appetizer,1.0,10.0,23.0,184.0,5.0,148.0,2.0,20.0,15,5.0
+1291,Asian Chopped Salad with Sesame Soy Vinaigrette (In a Jar),Lunch,8.0,13.5,23.0,231.0,5.0,404.0,7.5,12.0,20,4.45
+1292,Shrimp Ceviche and Avocado Salad,Lunch,2.57,2.29,1.86,36.29,16.14,64.9,0.86,0.29,37,5.0
+1293,Strawberry Cucumber Salad,Lunch,0.33,0.5,2.33,15.67,0.33,6.7,0.67,1.33,15,4.6
+1294,White Bean Caprese Salad,Lunch,2.67,1.5,6.0,47.33,4.0,42.3,1.33,0.67,20,4.94
+1296,Watermelon Caprese Salad,Lunch,5.5,7.5,7.0,119.0,20.0,90.0,0.5,6.5,25,5.0
+1297,Quick Cabbage Slaw,Lunch,1.0,7.0,7.0,88.0,5.0,255.0,2.0,1.0,15,4.96
+1298,15 Light and Healthy Salad Recipes,Lunch,3.0,5.0,12.0,122.0,5.0,10.0,1.0,1.0,30,5.0
+1299,Healthy Salmon Quinoa Burgers,Breakfast,23.0,13.0,17.0,277.0,105.0,338.0,2.0,5.0,30,5.0
+1300,Spiralized Apple Cabbage Slaw,Breakfast,1.0,6.0,12.0,98.0,5.0,75.0,3.0,7.0,20,5.0
+1301,BLT Salad with Avocado,Lunch,5.0,6.5,6.5,98.5,9.5,198.5,2.5,2.5,15,4.67
+1302,Bang Bang Chicken Salad,Dinner,4.83,1.33,2.17,40.83,14.33,37.3,0.33,0.5,25,4.91
+1303,Raw Shredded Brussels Sprout Salad with Lemon and Oil,Dinner,0.5,2.33,1.5,26.67,1.67,5.3,0.67,0.33,15,5.0
+1304,Massaged Raw Kale Salad,Lunch,4.0,6.0,3.0,80.0,7.0,304.0,1.0,1.0,5,4.86
+1306,Grilled Mediterranean Chicken and Quinoa Salad,Breakfast,20.0,8.0,8.0,180.0,7.0,255.0,1.0,1.0,35,5.0
+1307,Steak & Caramelized Onions with Arugula and Pasta,Breakfast,30.0,15.0,29.5,384.0,54.0,588.0,3.0,3.0,45,5.0
+1308,Italian Tuna and Brown Rice Salad (Riso e Tonno),Lunch,20.0,8.0,21.0,232.0,10.0,259.0,4.0,0.5,15,4.28
+1309,Spiralized Greek Cucumber Salad with Lemon and Feta,Lunch,7.0,16.0,16.0,225.0,25.0,697.5,4.0,1.0,15,4.72
+1310,Spiralized Raw Zucchini Salad with Avocado and Edamame,Appetizer,8.0,18.0,20.0,254.0,5.0,19.0,9.0,5.0,25,4.93
+1311,Grilled Shrimp and Watermelon Chopped Salad,Dinner,22.0,18.0,12.0,293.0,121.0,257.0,2.0,7.0,29,5.0
+1312,Canned Tuna Ceviche,Appetizer,5.0,2.67,2.83,51.0,8.67,62.3,1.0,0.33,25,4.92
+1313,Quinoa Chickpea and Avocado Salad,Breakfast,9.0,7.0,41.0,248.0,5.0,403.0,8.0,1.0,10,5.0
+1314,"Sea Scallops, Arugula and Beet Salad",Breakfast,25.0,10.0,22.0,271.0,51.0,494.0,3.0,14.0,65,3.67
+1315,Easy Crock Pot Chicken and Black Bean Taco Salad,Dinner,34.0,9.0,20.0,290.0,69.0,521.0,8.0,1.0,4,4.94
+1316,Black-eyed Pea Dip,Lunch,4.5,4.0,15.0,107.0,5.0,65.0,4.0,1.0,20,5.0
+1317,Grilled Stone Fruit Salad with Honey Goat Cheese Dressing,Lunch,6.0,17.0,16.0,232.0,8.0,86.0,3.0,13.0,12,5.0
+1318,Orange and Arugula Salad with Red Onion and Gorgonzola,Lunch,8.0,10.5,18.5,196.0,20.0,294.0,4.0,11.0,15,5.0
+1320,Mediterranean Quinoa Salad,Breakfast,4.5,8.0,15.5,145.5,7.5,137.0,2.5,1.0,30,4.97
+1321,Grilled Shrimp Avocado Fennel and Orange Salad,Dinner,26.0,12.0,19.0,283.5,172.5,196.0,6.0,8.0,45,5.0
+1322,Antipasto Salad,Lunch,16.0,16.0,19.5,254.0,37.5,10.0,7.5,3.0,10,5.0
+1323,Homemade Croutons,Lunch,2.0,6.5,5.0,28.5,1.0,47.0,0.9,0.7,30,5.0
+1324,Blood Orange Endive Salad,Dinner,10.0,8.5,40.5,256.0,5.0,246.5,23.0,16.0,15,5.0
+1325,Arugula Fig Salad with Goat Cheese,Dinner,2.0,4.5,20.5,125.0,5.0,43.0,2.0,15.0,5,5.0
+1326,Grilled Chicken and Spinach Salad with Balsamic Vinaigrette,Dinner,17.5,8.0,11.5,183.0,37.0,101.5,3.0,1.5,20,5.0
+1327,Mediterranean Chicken Kebab Salad,Lunch,28.5,8.0,9.0,240.0,160.0,444.0,2.5,2.0,32,4.8
+1328,Quinoa Salad with Spinach Grapefruit & Avocado,Breakfast,4.5,12.9,25.5,222.0,5.0,26.8,5.9,1.6,20,5.0
+1329,Spinach and Butternut Squash Salad with Gorgonzola,Lunch,7.5,13.5,26.5,241.5,5.0,160.0,5.5,8.5,30,5.0
+1331,Tomato Mozzarella and Arugula Tower,Lunch,12.2,23.0,9.2,276.6,5.0,349.2,1.9,1.4,30,5.0
+1332,BLT Macaroni Salad,Lunch,5.5,4.5,26.5,149.0,5.0,146.5,4.0,1.0,55,4.56
+1333,Vietnamese Shaking Beef (Bo Luc Lac),Dinner,9.1,3.37,5.53,89.63,1.67,483.7,0.3,4.0,30,4.55
+1335,"Arugula with Pomegranates, Blue Cheese and Pistachios",Lunch,6.5,13.0,13.5,195.5,5.0,10.0,4.0,1.0,15,5.0
+1337,Panzanella,Lunch,3.1,2.9,17.7,104.3,5.0,10.0,2.2,1.0,30,5.0
+1338,Red Beet Salad,Lunch,1.0,5.0,6.5,48.5,5.0,10.0,1.5,1.0,70,4.75
+1339,Avocado Salad with Citrus Vinaigrette,Lunch,3.0,14.0,14.0,171.5,5.0,15.5,6.0,2.0,10,4.34
+1340,Basil Green Goddess Salad Dressing,Lunch,0.65,2.45,1.45,30.15,2.5,5.0,0.15,0.5,30,5.0
+1341,Heirloom Tomato Salad,Lunch,1.0,9.0,7.5,110.5,5.0,139.0,1.5,1.0,15,5.0
+1342,Swordfish Burgers with Lemon Vinaigrette,Lunch,33.4,16.0,5.3,304.3,63.0,148.8,0.7,0.1,18,5.0
+1343,"Blood Orange Salad with Gorgonzola, Pecans and Baby Greens",Lunch,6.3,22.5,16.4,283.8,5.0,263.1,4.4,13.1,30,5.0
+1344,Pan Seared Scallops with Baby Greens and Citrus Mojo Vinaigrette,Lunch,20.5,9.5,8.5,212.0,42.5,206.5,1.5,4.0,30,5.0
+1345,Broccoli and Cauliflower Salad with Capers in Lemon Vinaigrette,Lunch,3.2,7.0,7.6,97.0,5.0,121.5,3.5,1.0,20,5.0
+1346,Autumn Salad with Pears and Gorgonzola,Lunch,4.5,12.5,10.5,160.5,5.0,10.0,2.0,2.0,5,5.0
+1347,Grilled Zucchini and Tomato Salad – 0 pts,Lunch,3.0,5.0,12.0,122.0,5.0,10.0,1.0,1.0,30,5.0
+1348,Mixed Baby Greens and Arugula with Blackberries and Pecans,Lunch,2.1,14.1,6.9,155.6,5.0,14.8,2.8,2.8,30,5.0
